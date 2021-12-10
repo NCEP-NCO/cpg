@@ -1,0 +1,2339 @@
+1H2     EFFINGHAM                         IL    CST6CDT       2 
+1MB     MORRO BAY                         CA    PST8PDT       2 
+1V4     SAINT JOHNSBURY                   VT    EST5EDT       2 
+21D     ST. PAUL                          MN    CST6CDT       2 
+2WX     BUFFALO                           SD    MST7MDT       2 
+3DU     DRUMMOND  (2 SW)                  MT    MST7MDT       2 
+3L3     NEWPORT BEACH  (2 ESE)            CA    PST8PDT       2 
+40J     PERRY/FOLEY                       FL    EST5EDT       2 
+4BL     BLANDING                          UT    MST7MDT       2 
+4BQ     BROADUS                           MT    MST7MDT       2 
+4HV     HANKSVILLE  (1 SW)                UT    MST7MDT       2 
+6R6     DRYDEN                            TX    CST6CDT       2 
+8D3     SISSETON                          SD    CST6CDT       2 
+9V9     CHAMBERLAIN                       SD    CST6CDT       2 
+AAF     APALACHICOLA                      FL    EST5EDT       2 
+AAO     WICHITA                           KS    CST6CDT       2 
+AAT     ALTURAS                           CA    PST8PDT       2 
+ABDW1   ABERDEEN                          WA    PST8PDT       2 
+ABEK2   ABERDEEN                          KY    CST6CDT       2 
+ABEM6   ABERDEEN                          MS    CST6CDT       2 
+ABGW3   AMBERG                            WI    CST6CDT       2 
+ABI     ABILENE                           TX    CST6CDT       2 
+ABLK1   ABILENE  (2 W)                    KS    CST6CDT       2 
+ABR     ABERDEEN                          SD    CST6CDT       2 
+ABRI2   ALBERS  (1 W)                     IL    CST6CDT       2 
+ABTM8   ALBERTON                          MT    MST7MDT       2 
+ABY     ALBANY                            GA    EST5EDT       2 
+ACB     BELLAIRE                          MI    EST5EDT       2 
+ACT     WACO                              TX    CST6CDT       2 
+ACV     ARCATA/EUREKA  (7 N)              CA    PST8PDT       2 
+ACYA3   ARZONA CITY                       AZ    MST7          2 
+ADAI4   ADAIR                             IA    CST6CDT       2 
+ADC     WADENA, WADENA MUNICIPA           MN    CST6CDT       2 
+ADG     ADRIAN                            MI    EST5EDT       2 
+ADRA3   ELGIN  (5 S)                      AZ    MST7          2 
+AEL     ALBERT LEA                        MN    CST6CDT       2 
+AESI4   AMES  (5 SE)                      IA    CST6CDT       2 
+AEX     ALEXANDRIA                        LA    CST6CDT       2 
+AFO     AFTON  (1 S)                      WY    MST7MDT       2 
+AFTW3   AFTON                             WI    CST6CDT       2 
+AFW     FORT WORTH                        TX    CST6CDT       2 
+AGAN1   AGATE  (3 E)                      NE    MST7MDT       2 
+AGS     AUGUSTA                           GA    EST5EDT       2 
+AGTK1   AUGUSTA                           KS    CST6CDT       2 
+AGZM5   HOLT  (20 NE)                     MN    CST6CDT       2 
+AHKM4   AHMEEK  (1 SW)                    MI    EST5EDT       2 
+AHN     ATHENS                            GA    EST5EDT       2 
+AIA     ALLIANCE                          NE    MST7MDT       2 
+AIDC1   AVALON  (1 NE)                    CA    PST8PDT       2 
+AIG     ANTIGO_(AWOS)                     WI    CST6CDT       2 
+AIT     AITKIN_NDB(AWOS)                  MN    CST6CDT       2 
+AIZ     KAISER/LAKE OZARK                 MO    CST6CDT       2 
+AJG     MT CARMEL                         IL    CST6CDT       2 
+AJO     CORONA                            CA    PST8PDT       2 
+AKQ     WAKEFIELD                         VA    EST5EDT       2 
+AKR     AKRON                             OH    EST5EDT       2 
+ALBK2   ALBANY  (4 N)                     KY    CST6CDT       2 
+ALBM5   ALBERT LEA  (3 SE)                MN    CST6CDT       2 
+ALDM4   ALLENDALE  (3 ESE)                MI    EST5EDT       2 
+ALGI4   ALGONA  (3 W)                     IA    CST6CDT       2 
+ALI     ALICE                             TX    CST6CDT       2 
+ALIN1   ALLIANCE                          NE    MST7MDT       2 
+ALLT1   ALLARDT                           TN    CST6CDT       2 
+ALMM4   ALMA                              MI    EST5EDT       2 
+ALNI2   ALTON                             IL    CST6CDT       2 
+ALO     WATERLOO                          IA    CST6CDT       2 
+ALPC1   ALPINE  (1 WNW)                   CA    PST8PDT       2 
+ALPG1   ALPHARETTA  (4 SSW)               GA    EST5EDT       2 
+ALPT1   ALPINE  (3 E)                     TN    CST6CDT       2 
+ALS     ALAMOSA                           CO    MST7MDT       2 
+ALTW4   JACKSON  (23 NW)                  WY    MST7MDT       2 
+ALW     WALLA WALLA                       WA    PST8PDT       2 
+AMA     AMARILLO  (7 ENE)                 TX    CST6CDT       2 
+AMBI2   AMBOY                             IL    CST6CDT       2 
+AMDW3   ALMOND  (5  E)                    WI    CST6CDT       2 
+AMFU1   ALPINE  (1 NNE)                   UT    MST7MDT       2 
+AMG     ALMA                              GA    EST5EDT       2 
+AMN     ALMA                              MI    EST5EDT       2 
+AMSI4   AMES  (8 WSW)                     IA    CST6CDT       2 
+AMW     AMES                              IA    CST6CDT       2 
+ANAC1   ANAHEIM  (6 NE)                   CA    PST8PDT       2 
+ANAM8   ANACONDA                          MT    MST7MDT       2 
+ANAT2   ANAHUAC  (1 ENE)                  TX    CST6CDT       2 
+ANB     ANNISTON                          AL    CST6CDT       2 
+ANE     MINNEAPOLIS                       MN    CST6CDT       2 
+ANJ     SAULT STE MARIE                   MI    EST5EDT       2 
+ANPO3   ANTELOPE  (6 SSW)                 OR    PST8PDT       2 
+ANPU1   MOAB  (5 NW)                      UT    MST7MDT       2 
+ANTT1   ANTIOCH  (2 N)                    TN    CST6CDT       2 
+ANW     AINSWORTH                         NE    CST6CDT       2 
+AOAI2   ALTONA                            IL    CST6CDT       2 
+AOH     LIMA                              OH    EST5EDT       2 
+APA     DENVER                            CO    MST7MDT       2 
+APCM7   APPLETON CITY                     MO    CST6CDT       2 
+APF     NAPLES                            FL    EST5EDT       2 
+APLC1   APPLE VALLEY  (3 W)               CA    PST8PDT       2 
+APLF1   APALACHICOLA                      FL    EST5EDT       2 
+APLI2   APPLE RIVER  (4 SSE)              IL    CST6CDT       2 
+APN     ALPENA                            MI    EST5EDT       2 
+APNA3   APACHE JUNCTION  (5 NE)           AZ    MST7          2 
+AQP     APPLETON_MUNICIPAL_AIRP           MN    CST6CDT       2 
+ARA     NEW IBERIA                        LA    CST6CDT       2 
+ARBM4   ANN ARBOR                         MI    EST5EDT       2 
+ARBW3   MADISON                           WI    CST6CDT       2 
+ARDS2   ARDMORE                           SD    MST7MDT       2 
+ARG     WALNUT RIDGE                      AR    CST6CDT       2 
+ARHN1   ARTHUR                            NE    MST7MDT       2 
+ARLW3   ARLINGTON                         WI    CST6CDT       2 
+ARR     CHICAGO/AURORA                    IL    CST6CDT       2 
+ARV     MINOCQUA/WOODRUFF                 WI    CST6CDT       2 
+ARVC1   ARVIN                             CA    PST8PDT       2 
+ARWC1   LAKE ARROWHEAD                    CA    PST8PDT       2 
+ARX     LA CROSSE                         WI    CST6CDT       2 
+ASE     ASPEN                             CO    MST7MDT       2 
+ASFW1   LONGMIRE  (4 NE)                  WA    PST8PDT       2 
+ASHK1   ASHLAND                           KS    CST6CDT       2 
+ASHO3   ASHLAND  (1 N)                    OR    PST8PDT       2 
+ASNW1   ASOTIN  (14 SW)                   WA    PST8PDT       2 
+AST     ASTORIA                           OR    PST8PDT       2 
+ASTN2   AUSTIN                            NV    PST8PDT       2 
+ASTW3   ATHELSTANE  (2 E)                 WI    CST6CDT       2 
+ASWN1   AINSWORTH                         NE    CST6CDT       2 
+ASX     ASHLAND                           WI    CST6CDT       2 
+ASXW3   ASHLAND  (3 S)                    WI    CST6CDT       2 
+ATAU1   SANDY  (12 E)                     UT    MST7MDT       2 
+ATBC2   DE BEQUE  (17 NW)                 CO    MST7MDT       2 
+ATDK1   ATWOOD  (2 SW)                    KS    CST6CDT       2 
+ATL     ATLANTA                           GA    EST5EDT       2 
+ATNC1   ACTON                             CA    PST8PDT       2 
+ATNI4   ALTOONA  (4 W)                    IA    CST6CDT       2 
+ATNK1   ALTON  (6 ESE)                    KS    CST6CDT       2 
+ATOG1   HOLLINGSWORTH                     GA    EST5EDT       2 
+ATT     AUSTIN                            TX    CST6CDT       2 
+ATW     APPLETON                          WI    CST6CDT       2 
+ATY     WATERTOWN                         SD    CST6CDT       2 
+AUDI4   AUDUBON                           IA    CST6CDT       2 
+AUGI2   AUGUSTA                           IL    CST6CDT       2 
+AUH     AURORA                            NE    CST6CDT       2 
+AUM     AUSTIN_MUNI                       MN    CST6CDT       2 
+AUO     AUBURN                            AL    CST6CDT       2 
+AURW3   AURORA                            WI    CST6CDT       2 
+AUS     AUSTIN                            TX    CST6CDT       2 
+AUW     WAUSAU                            WI    CST6CDT       2 
+AVNC1   AVALON                            CA    PST8PDT       2 
+AVTW3   ARBOR VITAE                       WI    CST6CDT       2 
+AWG     WASHINGTON                        IA    CST6CDT       2 
+AWM     WEST MEMPHIS                      AR    CST6CDT       2 
+AXN     ALEXANDRIA                        MN    CST6CDT       2 
+AXTK1   AXTELL                            KS    CST6CDT       2 
+AYSG1   WAYCROSS  (4 NE)                  GA    EST5EDT       2 
+AZO     KALAMAZOO                         MI    EST5EDT       2 
+B23     BATTLE MOUNTAIN  (4 SE)           NV    PST8PDT       2 
+BAIG1   BAINBRIDGE  (9 SW)                GA    EST5EDT       2 
+BAKM5   BRUNO                             MN    CST6CDT       2 
+BALM4   BALDWIN                           MI    EST5EDT       2 
+BARC1   BARSTOW                           CA    PST8PDT       2 
+BARI2   BARRINGTON  (3 SW)                IL    CST6CDT       2 
+BARW1   SKYKOMISH  (7 NW)                 WA    PST8PDT       2 
+BAX     BAD AXE                           MI    EST5EDT       2 
+BAZ     NEW BRAUNFELS                     TX    CST6CDT       2 
+BBB     BENSON_MUNI                       MN    CST6CDT       2 
+BBLC1   BIG BEAR LAKE  (1 E)              CA    PST8PDT       2 
+BBW     BROKEN BOW                        NE    CST6CDT       2 
+BCE     BRYCE CANYON                      UT    MST7MDT       2 
+BCHN7   BEECH MOUNTAIN                    NC    EST5EDT       2 
+BCTN8   BELCOURT                          ND    CST6CDT       2 
+BDDA3   BAGDAD  (1 N)                     AZ    MST7          2 
+BDDW1   METALINE FALLS  (9 N)             WA    PST8PDT       2 
+BDE     BAUDETTE                          MN    CST6CDT       2 
+BDEC1   BRIDGEPORT  (12 ESE)              CA    PST8PDT       2 
+BDFI2   BRADFORD  (1 S)                   IL    CST6CDT       2 
+BDNO3   BANDON  (2 NNE)                   OR    PST8PDT       2 
+BEAI2   BEARDSTOWN                        IL    CST6CDT       2 
+BEEI2   BEECHER CITY                      IL    CST6CDT       2 
+BEH     BENTON HARBOR                     MI    EST5EDT       2 
+BEHW3   BLACK EARTH                       WI    CST6CDT       2 
+BELK1   BELOIT                            KS    CST6CDT       2 
+BELN7   BANNER ELK  (1 E)                 NC    EST5EDT       2 
+BELT1   BELLEVUE                          TN    CST6CDT       2 
+BELW3   BELOIT  (9 NW)                    WI    CST6CDT       2 
+BETA3   KAYENTA  (15 WSW)                 AZ    MST7          2 
+BFDC2   BAYFIELD  (10 N)                  CO    MST7MDT       2 
+BFDT1   NASHVILLE                         TN    CST6CDT       2 
+BFF     SCOTTSBLUFF                       NE    MST7MDT       2 
+BFL     BAKERSFIELD  (5 NW)               CA    PST8PDT       2 
+BFM     MOBILE                            AL    CST6CDT       2 
+BFVK2   BRADFORDSVILLE                    KY    EST5EDT       2 
+BFW     SILVER_BAY                        MN    CST6CDT       2 
+BFYI1   BONNERS FERRY  (1 SW)             ID    PST8PDT       2 
+BGLT1   BIG LICK                          TN    CST6CDT       2 
+BGRM4   BIG RAPIDS                        MI    EST5EDT       2 
+BGSM8   BIG SKY  (2 WNW)                  MT    MST7MDT       2 
+BGTW3   BURLINGTON                        WI    CST6CDT       2 
+BGWU1   BIG WATER  (1 SW)                 UT    MST7MDT       2 
+BHK     BAKER                             MT    MST7MDT       2 
+BHM     BIRMINGHAM                        AL    CST6CDT       2 
+BHMT2   BRENHAM                           TX    CST6CDT       2 
+BHRW4   BIG HORN                          WY    MST7MDT       2 
+BIE     BEATRICE                          NE    CST6CDT       2 
+BIH     BISHOP                            CA    PST8PDT       2 
+BIL     BILLINGS                          MT    MST7MDT       2 
+BIS     BISMARCK                          ND    CST6CDT       2 
+BISA3   BISBEE  (1 WNW)                   AZ    MST7          2 
+BISC1   BIG SUR  (1 NW)                   CA    PST8PDT       2 
+BIV     HOLLAND                           MI    EST5EDT       2 
+BIX     BILOXI                            MS    CST6CDT       2 
+BJI     BEMIDJI                           MN    CST6CDT       2 
+BJJ     WOOSTER                           OH    EST5EDT       2 
+BKCC2   MONTROSE  (11 NE)                 CO    MST7MDT       2 
+BKE     BAKER  (4 N)                      OR    PST8PDT       2 
+BKEC1   BAKER                             CA    PST8PDT       2 
+BKL     CLEVELAND                         OH    EST5EDT       2 
+BKV     BROOKSVILLE                       FL    EST5EDT       2 
+BKX     BROOKINGS                         SD    CST6CDT       2 
+BLEN2   LUND  (37 SW)                     NV    PST8PDT       2 
+BLFU1   MONTICELLO                        UT    MST7MDT       2 
+BLGG1   BALL GROUND  (4 NNW)              GA    EST5EDT       2 
+BLGI4   BURLINGTON                        IA    CST6CDT       2 
+BLGN1   BELGRADE                          NE    CST6CDT       2 
+BLH     BLYTHE  (7 W)                     CA    PST8PDT       2 
+BLI     BELLINGHAM  (5 NNW)               WA    PST8PDT       2 
+BLLF1   TRENTON  (12 NNW)                 FL    EST5EDT       2 
+BLLI4   BELLE PLAINE  (3 S)               IA    CST6CDT       2 
+BLMI2   BLOOMINGTON  (5 W)                IL    CST6CDT       2 
+BLMM4   BLOOMINGDALE                      MI    EST5EDT       2 
+BLNW1   BLAINE                            WA    PST8PDT       2 
+BLTW3   BELOIT                            WI    CST6CDT       2 
+BLU     EMIGRANT GAP  (2 SW)              CA    PST8PDT       2 
+BLV     BELLEVILLE                        IL    CST6CDT       2 
+BLVK1   BELLEVILLE                        KS    CST6CDT       2 
+BLYK1   BAILYVILLE                        KS    CST6CDT       2 
+BLYW4   BUFFALO  (15 S)                   WY    MST7MDT       2 
+BLZM6   BELZONI                           MS    CST6CDT       2 
+BMG     BLOOMINGTON                       IN    EST5EDT       2 
+BMI     BLOOMINGTON  (3 E)                IL    CST6CDT       2 
+BMII2   BLOOMINGTON  (1 NW)               IL    CST6CDT       2 
+BMQ     BURNET                            TX    CST6CDT       2 
+BMRW3   BLOOMER                           WI    CST6CDT       2 
+BMTW4   THERMOPOLIS  (9 NE)               WY    MST7MDT       2 
+BNA     NASHVILLE                         TN    CST6CDT       2 
+BNBK2   BRANDENBURG  (4 SE)               KY    EST5EDT       2 
+BNDO3   BEND                              OR    PST8PDT       2 
+BNKN1   BENKELMAN                         NE    MST7MDT       2 
+BNO     BURNS                             OR    PST8PDT       2 
+BNVC2   BUENA VISTA                       CO    MST7MDT       2 
+BNW     BOONE                             IA    CST6CDT       2 
+BNWI4   BOONE                             IA    CST6CDT       2 
+BNWW4   BONDURANT  (5 NW)                 WY    MST7MDT       2 
+BNYC1   BURNEY                            CA    PST8PDT       2 
+BOCC1   TRUCKEE  (6 NE)                   CA    PST8PDT       2 
+BOI     BOISE                             ID    MST7MDT       2 
+BONA3   BOUSE                             AZ    MST7          2 
+BONI1   BONNERS FERRY  (1 WNW)            ID    PST8PDT       2 
+BOON7   BOONE                             NC    EST5EDT       2 
+BOSK2   BOSTON  (6 SW)                    KY    EST5EDT       2 
+BOTN8   BOTTINEAU                         ND    CST6CDT       2 
+BOUI2   BOURBONNAIS  (3 NW)               IL    CST6CDT       2 
+BOUM8   BOULDER                           MT    MST7MDT       2 
+BOWN2   BEOWAWE                           NV    PST8PDT       2 
+BPGT1   BETHPAGE                          TN    CST6CDT       2 
+BPI     BIG PINEY  (3 N)                  WY    MST7MDT       2 
+BPK     MOUNTAIN HOME                     AR    CST6CDT       2 
+BPT     PORT ARTHUR                       TX    CST6CDT       2 
+BPTC1   BRIDGEPORT  (1 SE)                CA    PST8PDT       2 
+BRD     BRAINERD                          MN    CST6CDT       2 
+BRDM8   POPLAR  (30 NNW)                  MT    MST7MDT       2 
+BREW3   SURING                            WI    CST6CDT       2 
+BRGA3   WINSLOW  (37 SW)                  AZ    MST7          2 
+BRGT1   CAMDEN  (7  E)                    TN    CST6CDT       2 
+BRGU1   BRIGHAM CITY                      UT    MST7MDT       2 
+BRKM6   BROOKHAVEN                        MS    CST6CDT       2 
+BRL     BURLINGTON                        IA    CST6CDT       2 
+BRLC2   BURLINGTON  (4 S)                 CO    MST7MDT       2 
+BRLW3   BRILLION                          WI    CST6CDT       2 
+BRMK1   BREMEN                            KS    CST6CDT       2 
+BRMW1   BREMERTON                         WA    PST8PDT       2 
+BRO     BROWNSVILLE                       TX    CST6CDT       2 
+BROC1   BORREGO SPRINGS  (1 W)            CA    PST8PDT       2 
+BROW3   BRODHEAD                          WI    CST6CDT       2 
+BRPK1   BLUE RAPIDS                       KS    CST6CDT       2 
+BRRK2   FINNEY                            KY    CST6CDT       2 
+BRTT1   BRENTWOOD  (3 S)                  TN    CST6CDT       2 
+BRUM5   BRUNO  (7 ENE)                    MN    CST6CDT       2 
+BRWK1   BREWSTER  (4 W)                   KS    MST7MDT       2 
+BRYK2   BERRY                             KY    EST5EDT       2 
+BSAK2   DAVELLA  (4 SW)                   KY    EST5EDT       2 
+BTL     BATTLE CREEK                      MI    EST5EDT       2 
+BTM     BUTTE                             MT    MST7MDT       2 
+BTV     SOUTH BURLINGTON                  VT    EST5EDT       2 
+BTWM8   EKALAKA  (20 SSE)                 MT    MST7MDT       2 
+BTYI2   BENTLEY                           IL    CST6CDT       2 
+BUCK1   BUCKLIN                           KS    CST6CDT       2 
+BUEG1   BUENA VISTA                       GA    EST5EDT       2 
+BUEW4   BUFORD  (5 SE)                    WY    MST7MDT       2 
+BUFI2   BUFFALO                           IL    CST6CDT       2 
+BUFM5   BUFFALO                           MN    CST6CDT       2 
+BUFW4   BUFFALO                           WY    MST7MDT       2 
+BULA3   BULLHEAD CITY  (3 NE)             AZ    MST7          2 
+BUO     BEAUMONT  (1 SSE)                 CA    PST8PDT       2 
+BUR     BURBANK                           CA    PST8PDT       2 
+BURT1   BURNS                             TN    CST6CDT       2 
+BURW4   DAYTON  (15 SW)                   WY    MST7MDT       2 
+BUTN1   BUTTE                             NE    CST6CDT       2 
+BUTW3   BUTTERNUT  (3 N)                  WI    CST6CDT       2 
+BVVU1   BOUNTIFUL  (2 SSW)                UT    MST7MDT       2 
+BVX     BATESVILLE                        AR    CST6CDT       2 
+BWG     BOWLING GREEN                     KY    CST6CDT       2 
+BWGK2   BOWLING GREEN                     KY    CST6CDT       2 
+BWRN1   BROADWATER  (3 WNW)               NE    MST7MDT       2 
+BWTO3   BEND  (7 NE)                      OR    PST8PDT       2 
+BXEG1   BAXLEY  (5  NW)                   GA    EST5EDT       2 
+BYDT1   BYRDSTOWN  (2 SW)                 TN    CST6CDT       2 
+BYG     BUFFALO                           WY    MST7MDT       2 
+BYGT1   BYRDSTOWN  (3 E)                  TN    CST6CDT       2 
+BYI     BURLEY  (2 NE)                    ID    MST7MDT       2 
+BYVI1   BAYVIEW                           ID    PST8PDT       2 
+BZMM8   BOZEMAN  (6 W)                    MT    MST7MDT       2 
+BZN     BELGRADE  (1 E)                   MT    MST7MDT       2 
+C29     MIDDLETON                         WI    CST6CDT       2 
+C75     LACON  (1 E)                      IL    CST6CDT       2 
+CACS2   CAMP CROOK                        SD    MST7MDT       2 
+CAD     CADILLAC                          MI    EST5EDT       2 
+CAG     CRAIG                             CO    MST7MDT       2 
+CAGM7   CAP AU GRIS                       MO    CST6CDT       2 
+CAGN2   PANACA  (2 NE)                    NV    PST8PDT       2 
+CAIC1   LORAINE  (5 NNE)                  CA    PST8PDT       2 
+CAIG1   CAIRO  (3 SW)                     GA    EST5EDT       2 
+CAK     AKRON                             OH    EST5EDT       2 
+CALN2   CALIENTE                          NV    PST8PDT       2 
+CALU1   WENDOVER  (10 SSE)                UT    MST7MDT       2 
+CAMG1   CAMILLA  (3 S)                    GA    EST5EDT       2 
+CAMT1   CAMDEN  (1 N)                     TN    CST6CDT       2 
+CANK2   CANEYVILLE  (1 W)                 KY    CST6CDT       2 
+CANM7   CANTON                            MO    CST6CDT       2 
+CAOI2   CAIRO  (3 N)                      IL    CST6CDT       2 
+CASI1   CASCADE  (1 NW)                   ID    MST7MDT       2 
+CASI2   CASEY  (2 ESE)                    IL    CST6CDT       2 
+CASI4   CASCADE                           IA    CST6CDT       2 
+CAYI2   CARLYLE                           IL    CST6CDT       2 
+CBF     COUNCIL_BLUFFS                    IA    CST6CDT       2 
+CBG     CAMBRIDGE_MUNI                    MN    CST6CDT       2 
+CBGI2   CHICAGO                           IL    CST6CDT       2 
+CBKK1   COLBY  (1 SW)                     KS    CST6CDT       2 
+CBOT1   CRAB ORCHARD                      TN    CST6CDT       2 
+CBRC2   COLLBRAN  (2 SW)                  CO    MST7MDT       2 
+CBRN1   CULBERTSON                        NE    CST6CDT       2 
+CBUC2   CRESTED BUTTE                     CO    MST7MDT       2 
+CBYN8   CROSBY                            ND    CST6CDT       2 
+CCR     CONCORD                           CA    PST8PDT       2 
+CCY     CHARLES CITY  (3 E)               IA    CST6CDT       2 
+CDAM7   MONROE CITY  (10 SE)              MO    CST6CDT       2 
+CDC     CEDAR CITY  (2 NW)                UT    MST7MDT       2 
+CDD     CRANE LAKE                        MN    CST6CDT       2 
+CDGW3   CEDARBURG  (1 E)                  WI    CST6CDT       2 
+CDII2   CHANNAHON                         IL    CST6CDT       2 
+CDJ     CHILLICOTHE                       MO    CST6CDT       2 
+CDPU1   MONTICELLO  (15 ESE)              UT    MST7MDT       2 
+CDR     CHADRON                           NE    MST7MDT       2 
+CDS     CHILDRESS  (4 W)                  TX    CST6CDT       2 
+CDTG1   CEDARTOWN  (3 NNE)                GA    EST5EDT       2 
+CEC     CRESCENT CITY  (3 NW)             CA    PST8PDT       2 
+CEDC1   CEDARVILLE                        CA    PST8PDT       2 
+CEHT1   LANCASTER  (2 SSE)                TN    CST6CDT       2 
+CENC2   CENTER  (4 SSW)                   CO    MST7MDT       2 
+CENT1   CENTERVILLE  (4 NE)               TN    CST6CDT       2 
+CEW     CRESTVIEW                         FL    CST6CDT       2 
+CEZ     CORTEZ                            CO    MST7MDT       2 
+CFEA3   CAREFREE  (1 ESE)                 AZ    MST7          2 
+CFV     COFFEYVILLE                       KS    CST6CDT       2 
+CGGI4   COGGON                            IA    CST6CDT       2 
+CGI     CAPE GIRARDEAU                    MO    CST6CDT       2 
+CGX     CHICAGO                           IL    CST6CDT       2 
+CHA     CHATTANOOGA  (6 E)                TN    EST5EDT       2 
+CHEC1   CHESTER                           CA    PST8PDT       2 
+CHEI2   CHENOA                            IL    CST6CDT       2 
+CHET1   CHEATHAM                          TN    CST6CDT       2 
+CHGW4   CHUGWATER                         WY    MST7MDT       2 
+CHKM5   CHASKA  (2  W)                    MN    CST6CDT       2 
+CHMN1   CHAMBERS                          NE    CST6CDT       2 
+CHMW3   MADISON                           WI    CST6CDT       2 
+CHNA3   CHINLE  (2 SE)                    AZ    MST7          2 
+CHPF1   CHIPLEY                           FL    CST6CDT       2 
+CHRM6   CHARLESTON  (1 N)                 MS    CST6CDT       2 
+CHSI2   CHESTER                           IL    CST6CDT       2 
+CHSN2   JACKPOT  (40 SW)                  NV    PST8PDT       2 
+CHTC1   CHATSWORTH                        CA    PST8PDT       2 
+CHTI2   CHATSWORTH                        IL    CST6CDT       2 
+CHTK2   BRUTUS  (2 NNE)                   KY    EST5EDT       2 
+CHWC2   CHERAW  (1 N)                     CO    MST7MDT       2 
+CIC     CHICO  (5 N)                      CA    PST8PDT       2 
+CID     CEDAR RAPIDS                      IA    CST6CDT       2 
+CIMK1   CIMARRON  (4 S)                   KS    CST6CDT       2 
+CIU     SAULT STE. MARIE                  MI    EST5EDT       2 
+CJAW1   BRIDGEPORT  (2 E)                 WA    PST8PDT       2 
+CKC     GRAND MARIS                       MN    CST6CDT       2 
+CKCM8   COOKE CITY  (2 W)                 MT    MST7MDT       2 
+CKPI4   CHEROKEE                          IA    CST6CDT       2 
+CKSM4   COOKS  (2  E)                     MI    EST5EDT       2 
+CKTT2   CROCKETT                          TX    CST6CDT       2 
+CKVT1   CLARKSVILLE                       TN    CST6CDT       2 
+CLAI2   CLAY CITY  (6 SSE)                IL    CST6CDT       2 
+CLAT1   CELINA                            TN    CST6CDT       2 
+CLAW4   POWELL  (23 NW)                   WY    MST7MDT       2 
+CLBN2   BOULDER CITY  (13 NE)             NV    PST8PDT       2 
+CLBT1   COLUMBIA                          TN    CST6CDT       2 
+CLDI4   CLARINDA                          IA    CST6CDT       2 
+CLE     CLEVELAND                         OH    EST5EDT       2 
+CLFT1   CLIFTON CITY                      TN    CST6CDT       2 
+CLGA3   COOLIDGE  (1 N)                   AZ    MST7          2 
+CLI     CLINTONVILLE_MUNI_ARPT            WI    CST6CDT       2 
+CLII4   CLARION                           IA    CST6CDT       2 
+CLIK1   CLINTON  (3 E)                    KS    CST6CDT       2 
+CLIW3   CLINTON  (2 NNW)                  WI    CST6CDT       2 
+CLKM4   CHAMPION  (6 E)                   MI    EST5EDT       2 
+CLKM7   CLARKSVILLE                       MO    CST6CDT       2 
+CLKT1   CLARKSVILLE                       TN    CST6CDT       2 
+CLL     COLLEGE STATION                   TX    CST6CDT       2 
+CLLG1   CARTERSVILLE                      GA    EST5EDT       2 
+CLLT1   COLLINWOOD                        TN    CST6CDT       2 
+CLM     PORT ANGELES                      WA    PST8PDT       2 
+CLMG1   COLUMBUS                          GA    EST5EDT       2 
+CLMT1   COALMONT                          TN    CST6CDT       2 
+CLNM6   COLLINS                           MS    CST6CDT       2 
+CLNW1   CHELAN                            WA    PST8PDT       2 
+CLQG1   COLQUITT  (2 W)                   GA    EST5EDT       2 
+CLRM7   CLEARWATER DAM  (5 W)             MO    CST6CDT       2 
+CLRW4   CLEARMONT  (5 SW)                 WY    MST7MDT       2 
+CLSM5   CARLOS  (3 WSW)                   MN    CST6CDT       2 
+CLTA3   CLIFTON  (23 NNE)                 AZ    MST7          2 
+CLVG1   CLEVELAND                         GA    EST5EDT       2 
+CLVI2   CARLINVILLE                       IL    CST6CDT       2 
+CLVI4   CLIVE                             IA    CST6CDT       2 
+CLVT2   CLEVELAND                         TX    CST6CDT       2 
+CLYK2   CLAYSVILLE                        KY    EST5EDT       2 
+CMA     CAMARILLO                         CA    PST8PDT       2 
+CMBI4   COLUMBIA                          IA    CST6CDT       2 
+CMBK1   COLUMBUS  (1 SW)                  KS    CST6CDT       2 
+CMBT1   COLUMBIA  (3 WNW)                 TN    CST6CDT       2 
+CMDT1   CAMDEN                            TN    CST6CDT       2 
+CMH     COLUMBUS                          OH    EST5EDT       2 
+CMI     CHAMPAIGN/URBANA  (5 S)           IL    CST6CDT       2 
+CMPI2   CAMP GROVE  (2 SW)                IL    CST6CDT       2 
+CMX     HANCOCK                           MI    EST5EDT       2 
+CMY     SPARTA  (3 NE)                    WI    CST6CDT       2 
+CNCW1   CONCRETE  (1 E)                   WA    PST8PDT       2 
+CNDU1   MOAB                              UT    MST7MDT       2 
+CNGC1   COALINGA                          CA    PST8PDT       2 
+CNGI2   CONGERVILLE                       IL    CST6CDT       2 
+CNK     CONCORDIA                         KS    CST6CDT       2 
+CNKM8   CHINOOK                           MT    MST7MDT       2 
+CNMC2   FRUITA  (4 S)                     CO    MST7MDT       2 
+CNNI3   CANNELTON                         IN    CST6CDT       2 
+CNNW3   CRANDON                           WI    CST6CDT       2 
+CNO     CHINO                             CA    PST8PDT       2 
+CNTI2   CENTRALIA  (2 SW)                 IL    CST6CDT       2 
+CNTT1   CENTERVILLE                       TN    CST6CDT       2 
+CNU     CHANUTE                           KS    CST6CDT       2 
+CNVK2   CONNERSVILLE                      KY    EST5EDT       2 
+CNVT1   CENTERVILLE  (1 NE)               TN    CST6CDT       2 
+CNY     MOAB                              UT    MST7MDT       2 
+CNYU1   MOAB                              UT    MST7MDT       2 
+COAT1   COALMONT  (1 NW)                  TN    CST6CDT       2 
+COD     CODY  (2 SE)                      WY    MST7MDT       2 
+COE     COEUR D'ALENE  (7 N)              ID    PST8PDT       2 
+COKM5   COOK  (5 E)                       MN    CST6CDT       2 
+COLT1   COLUMBIA                          TN    CST6CDT       2 
+CONK1   CONCORDIA  (1 W)                  KS    CST6CDT       2 
+COPC1   HORNBROOK  (12 NE)                CA    PST8PDT       2 
+COQ     CLOQUET                           MN    CST6CDT       2 
+COQO3   COQUILLE  (1 W)                   OR    PST8PDT       2 
+CORT1   CARTHAGE  (3 N)                   TN    CST6CDT       2 
+COS     COLORADO SPRINGS                  CO    MST7MDT       2 
+COSM8   COLUMBUS                          MT    MST7MDT       2 
+COT     COTULLA                           TX    CST6CDT       2 
+COU     COLUMBIA                          MO    CST6CDT       2 
+COWI1   COEUR D'ALENE                     ID    PST8PDT       2 
+CPBK2   CAMPBELLSBURG                     KY    EST5EDT       2 
+CPR     CASPER                            WY    MST7MDT       2 
+CPS     CAHOKIA/ST LOUIS                  IL    CST6CDT       2 
+CQT     LOS ANGELES  (4 SW)               CA    PST8PDT       2 
+CQV     COLVILLE  (1 N)                   WA    PST8PDT       2 
+CRCN2   CARSON CITY                       NV    PST8PDT       2 
+CREF1   CRESCENT CITY                     FL    EST5EDT       2 
+CRG     JACKSONVILLE                      FL    EST5EDT       2 
+CRGC2   CRAIG  (4 SW)                     CO    MST7MDT       2 
+CRGI2   CARTHAGE                          IL    CST6CDT       2 
+CRLG1   CARROLLTON                        GA    EST5EDT       2 
+CRLM5   PINE RIVER  (1 S)                 MN    CST6CDT       2 
+CRLO3   CRATER LAKE                       OR    PST8PDT       2 
+CRP     CORPUS CHRISTI                    TX    CST6CDT       2 
+CRPI4   CEDAR RAPIDS                      IA    CST6CDT       2 
+CRQ     CARLSBAD                          CA    PST8PDT       2 
+CRS     CORSICANA                         TX    CST6CDT       2 
+CRSF1   CROSS CITY  (2 WNW)               FL    EST5EDT       2 
+CRSI2   CHARLESTON  (1 S)                 IL    CST6CDT       2 
+CRSK2   CRESTWOOD  (8 W)                  KY    EST5EDT       2 
+CRSM6   CRYSTAL SPRINGS                   MS    CST6CDT       2 
+CRST1   CROSSVILLE                        TN    CST6CDT       2 
+CRTG1   CARTERSVILLE                      GA    EST5EDT       2 
+CRTM6   CARTHAGE  (3 SW)                  MS    CST6CDT       2 
+CRTT1   CARTHAGE                          TN    CST6CDT       2 
+CRYG1   ROME  (14 NNE)                    GA    EST5EDT       2 
+CRZW3   CRIVITZ  (15 NW)                  WI    CST6CDT       2 
+CSEM8   CASCADE  (20 SSE)                 MT    MST7MDT       2 
+CSG     COLUMBUS                          GA    EST5EDT       2 
+CSLM5   CASS LAKE                         MN    CST6CDT       2 
+CSST1   CROSSVILLE                        TN    CST6CDT       2 
+CSTT1   CHRISTIANA                        TN    CST6CDT       2 
+CSUC1   NORTHRIDGE                        CA    PST8PDT       2 
+CSV     CROSSVILLE                        TN    CST6CDT       2 
+CSWW4   CASPER  (1 SW)                    WY    MST7MDT       2 
+CTAM7   CENTRALIA                         MO    CST6CDT       2 
+CTB     CUT BANK  (3 SSW)                 MT    MST7MDT       2 
+CTGW3   COTTAGE GROVE  (1 SE)             WI    CST6CDT       2 
+CTHM7   CARTHAGE  (5 S)                   MO    CST6CDT       2 
+CTHT1   CARTHAGE                          TN    CST6CDT       2 
+CTLK1   COURTLAND                         KS    CST6CDT       2 
+CTNG1   CANTON                            GA    EST5EDT       2 
+CTY     CROSS CITY                        FL    EST5EDT       2 
+CTYC2   CANON CITY                        CO    MST7MDT       2 
+CTZC2   CORTEZ  (1 SW)                    CO    MST7MDT       2 
+CULM8   CULBERTSON                        MT    MST7MDT       2 
+CUT     CUSTER  (2 SSW)                   SD    MST7MDT       2 
+CUUC1   FRAZIER PARK  (4 WSW)             CA    PST8PDT       2 
+CVAC1   CHULA VISTA  (1 N)                CA    PST8PDT       2 
+CVG     CINCINNATI                        KY    EST5EDT       2 
+CVLG1   CARTERSVILLE  (4 E)               GA    EST5EDT       2 
+CVVC1   CARMEL VALLEY                     CA    PST8PDT       2 
+CVX     CHARLEVOIX                        MI    EST5EDT       2 
+CWA     MOSINEE                           WI    CST6CDT       2 
+CWI     CLINTON                           IA    CST6CDT       2 
+CWPC1   CONCORD  (2 NW)                   CA    PST8PDT       2 
+CWTG1   CHATSWORTH                        GA    EST5EDT       2 
+CXO     CONROE  (3 NE)                    TX    CST6CDT       2 
+CYMC1   CUYAMA                            CA    PST8PDT       2 
+CYS     CHEYENNE                          WY    MST7MDT       2 
+CYSW4   CHEYENNE                          WY    MST7MDT       2 
+CYVO3   CANYONVILLE                       OR    PST8PDT       2 
+CZZ     CAMPO  (1 N)                      CA    PST8PDT       2 
+D07     FAITH                             SD    MST7MDT       2 
+DAB     DAYTONA BEACH                     FL    EST5EDT       2 
+DAG     DAGGETT  (5 E)                    CA    PST8PDT       2 
+DAGN2   STATELINE  (3 ENE)                NV    PST8PDT       2 
+DAKI4   DAKOTA CITY                       IA    CST6CDT       2 
+DAL     DALLAS                            TX    CST6CDT       2 
+DALG1   DALLAS  (7 NE)                    GA    EST5EDT       2 
+DAN     DANVILLE                          VA    EST5EDT       2 
+DANG1   DANIELSVILLE  (6 SW)              GA    EST5EDT       2 
+DANW4   DANIEL  (4 NW)                    WY    MST7MDT       2 
+DARW3   DARLINGTON                        WI    CST6CDT       2 
+DAY     DAYTON                            OH    EST5EDT       2 
+DBOW4   DUBOIS                            WY    MST7MDT       2 
+DBQ     DUBUQUE                           IA    CST6CDT       2 
+DCA     WASHINGTON                        DC    EST5EDT       2 
+DCKN8   DICKINSON                         ND    MST7MDT       2 
+DCRI4   DECORAH                           IA    CST6CDT       2 
+DCU     DECATUR                           AL    CST6CDT       2 
+DDC     DODGE CITY                        KS    CST6CDT       2 
+DDH     BENNINGTON                        VT    EST5EDT       2 
+DEC     DECATUR                           IL    CST6CDT       2 
+DECI2   DECATUR  (1 SSW)                  IL    CST6CDT       2 
+DEH     DECORAH                           IA    CST6CDT       2 
+DEKI2   DE KALB                           IL    CST6CDT       2 
+DELC1   DELANO                            CA    PST8PDT       2 
+DEN     DENVER                            CO    MST7MDT       2 
+DEQ     DE QUEEN                          AR    CST6CDT       2 
+DET     DETROIT                           MI    EST5EDT       2 
+DEVC1   FURNACE CREEK                     CA    PST8PDT       2 
+DEW     DEER PARK                         WA    PST8PDT       2 
+DEWI4   DE WITT  (4 S)                    IA    CST6CDT       2 
+DFI     DEFIANCE                          OH    EST5EDT       2 
+DFW     DALLAS-FORT WORTH                 TX    CST6CDT       2 
+DGVW3   DODGEVILLE                        WI    CST6CDT       2 
+DGW     DOUGLAS                           WY    MST7MDT       2 
+DHN     DOTHAN                            AL    CST6CDT       2 
+DHT     DALHART                           TX    CST6CDT       2 
+DIAW1   NEWHALEM  (6 NE)                  WA    PST8PDT       2 
+DIK     DICKINSON                         ND    MST7MDT       2 
+DIXK2   BURGIN                            KY    EST5EDT       2 
+DIXM5   SQUAW LAKE                        MN    CST6CDT       2 
+DLDI4   DUBUQUE                           IA    CST6CDT       2 
+DLH     DULUTH                            MN    CST6CDT       2 
+DLL     BARABOO_(AWOS)                    WI    CST6CDT       2 
+DLLM8   DILLON  (1 SE)                    MT    MST7MDT       2 
+DLN     DILLON                            MT    MST7MDT       2 
+DLNC2   DEL NORTE                         CO    MST7MDT       2 
+DLS     THE DALLES                        OR    PST8PDT       2 
+DMA     TUCSON                            AZ    MST7          2 
+DMDM7   DIAMOND                           MO    CST6CDT       2 
+DMO     SEDALIA                           MO    CST6CDT       2 
+DMRA3   KINGMAN  (40 ENE)                 AZ    MST7          2 
+DMRC1   DEL MAR  (5 N)                    CA    PST8PDT       2 
+DMX     JOHNSTON                          IA    CST6CDT       2 
+DNIM7   DONIPHAN  (4 SE)                  MO    CST6CDT       2 
+DNNI4   DONNELLSON                        IA    CST6CDT       2 
+DNNT1   DUNN                              TN    CST6CDT       2 
+DNON2   DENIO                             NV    PST8PDT       2 
+DNV     DANVILLE                          IL    CST6CDT       2 
+DOUW1   DOUGLAS  (5 E)                    WA    PST8PDT       2 
+DOVC2   DOVE CREEK                        CO    MST7MDT       2 
+DOVT1   DOVER                             TN    CST6CDT       2 
+DOWT2   FREEPORT  (2 NW)                  TX    CST6CDT       2 
+DPA     CHICAGO/WEST CHICAGO              IL    CST6CDT       2 
+DRA     MERCURY                           NV    PST8PDT       2 
+DRI     DE RIDDER                         LA    CST6CDT       2 
+DRNO3   DRAIN                             OR    PST8PDT       2 
+DRO     DURANGO  (11 SE)                  CO    MST7MDT       2 
+DRSK1   DRESDEN                           KS    CST6CDT       2 
+DRT     DEL RIO                           TX    CST6CDT       2 
+DSM     DES MOINES                        IA    CST6CDT       2 
+DSNU1   DUCHESNE                          UT    MST7MDT       2 
+DSOM7   DE SOTO                           MO    CST6CDT       2 
+DTL     DETROIT LAKES                     MN    CST6CDT       2 
+DTN     SHREVEPORT                        LA    CST6CDT       2 
+DTNN1   DALTON                            NE    MST7MDT       2 
+DTO     DENTON                            TX    CST6CDT       2 
+DTS     DESTIN                            FL    CST6CDT       2 
+DTW     DETROIT                           MI    EST5EDT       2 
+DTX     WHITE LAKE                        MI    EST5EDT       2 
+DUBG1   DUBLIN                            GA    EST5EDT       2 
+DUG     DOUGLAS  (9 NNW)                  AZ    MST7          2 
+DUGA3   DOUGLAS                           AZ    MST7          2 
+DVGT2   DANEVANG  (1 W)                   TX    CST6CDT       2 
+DVL     DEVILS LAKE                       ND    CST6CDT       2 
+DVN     DAVENPORT                         IA    CST6CDT       2 
+DVNM8   DUNKIRK  (19 NNE)                 MT    MST7MDT       2 
+DVRT1   DOVER  (1 W)                      TN    CST6CDT       2 
+DVT     PHOENIX                           AZ    MST7          2 
+DWDI1   LOWMAN  (30 N)                    ID    MST7MDT       2 
+DWH     HOUSTON                           TX    CST6CDT       2 
+DWTI4   DE WITT                           IA    CST6CDT       2 
+DXX     MADISON                           MN    CST6CDT       2 
+DYR     DYERSBURG                         TN    CST6CDT       2 
+DYRN2   DYER                              NV    PST8PDT       2 
+DYT     DULUTH                            MN    CST6CDT       2 
+DYTW4   DAYTON                            WY    MST7MDT       2 
+EADC2   EADS                              CO    MST7MDT       2 
+EAR     KEARNEY                           NE    CST6CDT       2 
+EAT     WENATCHEE                         WA    PST8PDT       2 
+EAU     EAU CLAIRE                        WI    CST6CDT       2 
+EBTK2   ELIZABETHTOWN                     KY    EST5EDT       2 
+ECSC1   LAKE ELSINORE  (3 NW)             CA    PST8PDT       2 
+ECSN1   ERICSON  (6 WNW)                  NE    CST6CDT       2 
+EDAT2   EDNA  (7 NW)                      TX    CST6CDT       2 
+EDNM7   EDINA                             MO    CST6CDT       2 
+EDSM7   ELDORADO SPRINGS                  MO    CST6CDT       2 
+EDSN1   EDISON                            NE    CST6CDT       2 
+EDW     EDWARDS                           CA    PST8PDT       2 
+EDWI2   EDWARDSVILLE                      IL    CST6CDT       2 
+EED     NEEDLES  (5 S)                    CA    PST8PDT       2 
+EEO     MEEKER                            CO    MST7MDT       2 
+EET     ALABASTER                         AL    CST6CDT       2 
+EFFI2   EFFINGHAM                         IL    CST6CDT       2 
+EFMI2   EFFINGHAM                         IL    CST6CDT       2 
+EFT     MONROE                            WI    CST6CDT       2 
+EGE     GYPSUM  (2 E)                     CO    MST7MDT       2 
+EGLC1   BLYTHE  (50 WNW)                  CA    PST8PDT       2 
+EGRW3   EAGLE RIVER                       WI    CST6CDT       2 
+EGV     EAGLE_RIVER_UNION_ARPT            WI    CST6CDT       2 
+EHA     ELKHART                           KS    CST6CDT       2 
+EKAK1   EUREKA                            KS    CST6CDT       2 
+EKAN2   EUREKA                            NV    PST8PDT       2 
+EKHK1   ELKHART                           KS    CST6CDT       2 
+EKLM8   EKALAKA                           MT    MST7MDT       2 
+EKO     ELKO  (1 NW)                      NV    PST8PDT       2 
+ELBI2   ELBURN                            IL    CST6CDT       2 
+ELCC1   EL CENTRO  (2 SSW)                CA    PST8PDT       2 
+ELD     EL DORADO                         AR    CST6CDT       2 
+ELGI2   ELGIN                             IL    CST6CDT       2 
+ELHW3   ELKHART LAKE                      WI    CST6CDT       2 
+ELJC1   EL CAJON  (2 NNW)                 CA    PST8PDT       2 
+ELKT1   PROSPECT                          TN    CST6CDT       2 
+ELKW3   ELK MOUND                         WI    CST6CDT       2 
+ELN     ELLENSBURG                        WA    PST8PDT       2 
+ELO     ELY                               MN    CST6CDT       2 
+ELP     EL PASO                           TX    MST7MDT       2 
+ELRN2   ELY  (6 NE)                       NV    PST8PDT       2 
+ELSK1   ELLIS  (13 SW)                    KS    CST6CDT       2 
+ELWN1   ELWOOD  (8 S)                     NE    CST6CDT       2 
+ELY     ELY                               NV    PST8PDT       2 
+EMBM5   EMBARASS                          MN    CST6CDT       2 
+EMGT1   ERIN  (8 ESE)                     TN    CST6CDT       2 
+EMMI4   EMMETSBURG                        IA    CST6CDT       2 
+EMP     EMPORIA                           KS    CST6CDT       2 
+EMSA3   MESA                              AZ    MST7          2 
+EMTI1   EMMETT  (2 E)                     ID    MST7MDT       2 
+ENSM8   ENNIS                             MT    MST7MDT       2 
+ENTA1   ENTERPRISE  (5 NNW)               AL    CST6CDT       2 
+ENTW1   ENTIAT FISH HATCHERY              WA    PST8PDT       2 
+ENV     WENDOVER  (1 S)                   UT    MST7MDT       2 
+ENW     KENOSHA                           WI    CST6CDT       2 
+EORC1   LAKE ELSINORE  (1 W)              CA    PST8PDT       2 
+EPH     EPHRATA AIRPORT  (2 E)            WA    PST8PDT       2 
+EPHW3   EPHRAIM  (5 SE)                   WI    CST6CDT       2 
+EPRK1   EMPORIA  (3 NW)                   KS    CST6CDT       2 
+ERAW1   ENTIAT                            WA    PST8PDT       2 
+ERVI2   EARLVILLE  (3 S)                  IL    CST6CDT       2 
+ERY     NEWBERRY                          MI    EST5EDT       2 
+ESC     ESCANABA                          MI    EST5EDT       2 
+ESCC1   ESCONDIDO  (1 NW)                 CA    PST8PDT       2 
+ESDU1   DELTA  (80 WSW)                   UT    MST7MDT       2 
+ESF     ALEXANDRIA                        LA    CST6CDT       2 
+ESKK1   ESKRIDGE  (1 SE)                  KS    CST6CDT       2 
+EST     ESTHERVILLE                       IA    CST6CDT       2 
+ESTC2   EASTONVILLE  (1 NNW)              CO    MST7MDT       2 
+ETB     WEST BEND                         WI    CST6CDT       2 
+ETH     WHEATON_NDB_(AWOS)                MN    CST6CDT       2 
+ETPK1   ENTERPRISE                        KS    CST6CDT       2 
+EUG     EUGENE                            OR    PST8PDT       2 
+EUL     CALDWELL_(AWOS)                   ID    MST7MDT       2 
+EURI2   EUREKA                            IL    CST6CDT       2 
+EUSN1   EUSTIS  (2 NW)                    NE    CST6CDT       2 
+EVM     EVELETH                           MN    CST6CDT       2 
+EVSW4   EVANSTON  (1 E)                   WY    MST7MDT       2 
+EVV     EVANSVILLE                        IN    CST6CDT       2 
+EVW     EVANSTON                          WY    MST7MDT       2 
+EWK     NEWTON                            KS    CST6CDT       2 
+EWN     NEW BERN                          NC    EST5EDT       2 
+EYE     INDIANAPOLIS                      IN    EST5EDT       2 
+EYW     KEY WEST                          FL    EST5EDT       2 
+EZBI2   ELIZABETH  (5 S)                  IL    CST6CDT       2 
+FALT1   FALL CREEK                        TN    CST6CDT       2 
+FAM     FARMINGTON_AIRPORT                MO    CST6CDT       2 
+FAR     FARGO                             ND    CST6CDT       2 
+FAT     FRESNO                            CA    PST8PDT       2 
+FATW3   FORT ATKINSON                     WI    CST6CDT       2 
+FBL     FAIRBAULT                         MN    CST6CDT       2 
+FBMW4   KEMMERER  (11 WNW)                WY    MST7MDT       2 
+FBNT1   FAIRVIEW                          TN    CST6CDT       2 
+FCFT1   PIKEVILLE  (8 WNW)                TN    CST6CDT       2 
+FCM     MINNEAPOLIS                       MN    CST6CDT       2 
+FCRT1   FORT CAMPBELL                     TN    CST6CDT       2 
+FCTK1   FACT                              KS    CST6CDT       2 
+FDLW3   FOND DU LAC                       WI    CST6CDT       2 
+FDY     FINDLAY                           OH    EST5EDT       2 
+FEDM5   FEDERAL DAM  (3 WNW)              MN    CST6CDT       2 
+FEEI2   FREEPORT                          IL    CST6CDT       2 
+FEP     FREEPORT                          IL    CST6CDT       2 
+FERU1   FERRON  (1 S)                     UT    MST7MDT       2 
+FET     FREMONT_MUNI_ARPT                 NE    CST6CDT       2 
+FETC1   FREMONT                           CA    PST8PDT       2 
+FFC     PEACHTREE CITY                    GA    EST5EDT       2 
+FFL     FAIR_FIELD                        IA    CST6CDT       2 
+FFM     FERGUS FALLS                      MN    CST6CDT       2 
+FFPG1   FARGO  (17 NE)                    GA    EST5EDT       2 
+FFT     FRANKFORT                         KY    EST5EDT       2 
+FGN     FLAG_ISLAND                       MN    CST6CDT       2 
+FGZ     BELLEMONT  (16 W)                 AZ    MST7          2 
+FHFI1   AVERY  (4 S)                      ID    PST8PDT       2 
+FHLA3   FOUNTAIN HILLS                    AZ    MST7          2 
+FHR     FRIDAY HARBOR                     WA    PST8PDT       2 
+FHU     FORT HUACHUCA                     AZ    MST7          2 
+FILC1   FILLMORE                          CA    PST8PDT       2 
+FILU1   FILLMORE                          UT    MST7MDT       2 
+FIRM5   FAIRMONT                          MN    CST6CDT       2 
+FISI2   FISHER                            IL    CST6CDT       2 
+FKA     PRESTON  (4 W)                    MN    CST6CDT       2 
+FLD     FOND DU LAC                       WI    CST6CDT       2 
+FLDM5   FLOODWOOD  (4 N)                  MN    CST6CDT       2 
+FLG     FLAGSTAFF  (3 SW)                 AZ    MST7          2 
+FLGA3   FLAGSTAFF  (7 NW)                 AZ    MST7          2 
+FLL     FORT LAUDERDALE                   FL    EST5EDT       2 
+FLP     FLIPPIN                           AR    CST6CDT       2 
+FLTM8   WINNETT  (11 S)                   MT    MST7MDT       2 
+FLTN1   FULLERTON                         NE    CST6CDT       2 
+FMBI4   ANKENY  (2 SE)                    IA    CST6CDT       2 
+FMDM7   LAKE ST. LOUIS  (2 SW)            MO    CST6CDT       2 
+FMY     FORT MYERS                        FL    EST5EDT       2 
+FNB     FALLS CITY                        NE    CST6CDT       2 
+FNL     LOVELAND                          CO    MST7MDT       2 
+FNNK2   FRANKLIN  (1 E)                   KY    CST6CDT       2 
+FNT     FLINT                             MI    EST5EDT       2 
+FNWO3   CORVALLIS                         OR    PST8PDT       2 
+FOA     FLORA                             IL    CST6CDT       2 
+FOD     FORT DODGE                        IA    CST6CDT       2 
+FOE     TOPEKA                            KS    CST6CDT       2 
+FOJC1   FORT JONES  (1 SSW)               CA    PST8PDT       2 
+FORI2   FLORA                             IL    CST6CDT       2 
+FORM5   FOREST LAKE  (4 SE)               MN    CST6CDT       2 
+FORM6   FOREST  (3 S)                     MS    CST6CDT       2 
+FORW1   FORKS  (1 E)                      WA    PST8PDT       2 
+FOZ     BIGFORK                           MN    CST6CDT       2 
+FPR     FORT PIERCE                       FL    EST5EDT       2 
+FRAC1   FRIANT  (1 NE)                    CA    PST8PDT       2 
+FRAT1   FRANKLIN                          TN    CST6CDT       2 
+FRAW3   FRANCIS CREEK                     WI    CST6CDT       2 
+FRBI2   FAIRBURY                          IL    CST6CDT       2 
+FRDK2   FORDSVILLE                        KY    CST6CDT       2 
+FRDM7   FREDERICKTOWN                     MO    CST6CDT       2 
+FREM4   FREMONT  (4 WSW)                  MI    EST5EDT       2 
+FRM     FAIRMONT                          MN    CST6CDT       2 
+FSD     SIOUX FALLS                       SD    CST6CDT       2 
+FSHS2   SHADEHILL  (5 SW)                 SD    MST7MDT       2 
+FSM     FORT SMITH                        AR    CST6CDT       2 
+FST     FORT STOCKTON                     TX    CST6CDT       2 
+FSW     FORT_MADISON                      IA    CST6CDT       2 
+FTBM8   FORT BENTON                       MT    MST7MDT       2 
+FTFW1   FLOWERY TRAIL RAWS                WA    PST8PDT       2 
+FTGA3   WILLCOX  (27 NNW)                 AZ    MST7          2 
+FTK     FORT KNOX                         KY    EST5EDT       2 
+FTMA3   FORT THOMAS  (2 SSW)              AZ    MST7          2 
+FTMS2   FORT MEADE                        SD    MST7MDT       2 
+FTNM7   FULTON                            MO    CST6CDT       2 
+FTW     FORT WORTH                        TX    CST6CDT       2 
+FTY     ATLANTA                           GA    EST5EDT       2 
+FUL     FULLERTON                         CA    PST8PDT       2 
+FULI4   FULTON  (1 S)                     IA    CST6CDT       2 
+FWA     FORT WAYNE                        IN    EST5EDT       2 
+FXE     FORT LAUDERDALE                   FL    EST5EDT       2 
+FYV     FAYETTEVILLE                      AR    CST6CDT       2 
+GALM7   GALENA                            MO    CST6CDT       2 
+GARK1   GARNETT  (1 E)                    KS    CST6CDT       2 
+GARM8   GARDINER                          MT    MST7MDT       2 
+GBD     GREAT BEND                        KS    CST6CDT       2 
+GBG     GALESBURG                         IL    CST6CDT       2 
+GBGI2   GALESBURG                         IL    CST6CDT       2 
+GBLW4   GREYBULL                          WY    MST7MDT       2 
+GCC     GILLETTE  (4 NE)                  WY    MST7MDT       2 
+GCDW1   GRAND COULEE DAM  (1 W)           WA    PST8PDT       2 
+GCK     GARDEN CITY                       KS    CST6CDT       2 
+GCN     GRAND CANYON                      AZ    MST7          2 
+GCXW1   COULEE DAM                        WA    PST8PDT       2 
+GDLM4   GRAND LEDGE                       MI    EST5EDT       2 
+GDP     PINE SPRINGS                      TX    MST7MDT       2 
+GDV     GLENDIVE                          MT    MST7MDT       2 
+GEEK1   GREENSBURG                        KS    CST6CDT       2 
+GEG     SPOKANE                           WA    PST8PDT       2 
+GEOG1   GEORGETOWN  (4 ENE)               GA    EST5EDT       2 
+GEOK1   GOODLAND CITY                     KS    MST7MDT       2 
+GERN2   GERLACH                           NV    PST8PDT       2 
+GERW3   GERMANTOWN                        WI    CST6CDT       2 
+GESK1   GARDEN CITY                       KS    CST6CDT       2 
+GEY     GREYBULL                          WY    MST7MDT       2 
+GEZ     SHELBYVILLE                       IN    EST5EDT       2 
+GFA     GREAT FALLS  (5 E)                MT    MST7MDT       2 
+GFK     GRAND FORKS                       ND    CST6CDT       2 
+GGG     LONGVIEW                          TX    CST6CDT       2 
+GGGI2   GRIGGSVILLE                       IL    CST6CDT       2 
+GGRT1   ROCK ISLAND                       TN    CST6CDT       2 
+GGW     GLASGOW                           MT    MST7MDT       2 
+GHW     GLENWOOD_(ASOS)                   MN    CST6CDT       2 
+GIBW3   GIBBSVILLE  (3 NW)                WI    CST6CDT       2 
+GIF     WINTER HAVEN                      FL    EST5EDT       2 
+GILC1   GILROY  (1 SSE)                   CA    PST8PDT       2 
+GILW4   GILLETTE  (9 ESE)                 WY    MST7MDT       2 
+GJT     GRAND JUNCTION                    CO    MST7MDT       2 
+GKY     ARLINGTON                         TX    CST6CDT       2 
+GLBA3   GILA BEND                         AZ    MST7          2 
+GLBK1   GALESBURG                         KS    CST6CDT       2 
+GLBN2   GLENBROOK                         NV    PST8PDT       2 
+GLD     GOODLAND                          KS    MST7MDT       2 
+GLDM4   GLADSTONE                         MI    EST5EDT       2 
+GLH     GREENVILLE                        MS    CST6CDT       2 
+GLLM5   GULL LAKE                         MN    CST6CDT       2 
+GLNK2   GLENDALE                          KY    EST5EDT       2 
+GLR     GAYLORD                           MI    EST5EDT       2 
+GLS     GALVESTON                         TX    CST6CDT       2 
+GLUN8   GLEN ULLIN  (15 S)                ND    MST7MDT       2 
+GNA     GRAND MARIS                       MN    CST6CDT       2 
+GNDM8   GLENDIVE  (1 E)                   MT    MST7MDT       2 
+GNDW1   GOLDENDALE                        WA    PST8PDT       2 
+GNFI2   GREENFIELD                        IL    CST6CDT       2 
+GNNC1   GLENNVILLE                        CA    PST8PDT       2 
+GNSM8   WHITLASH  (8 NW)                  MT    MST7MDT       2 
+GNTU1   GRANTSVILLE  (2 W)                UT    MST7MDT       2 
+GNV     GAINESVILLE                       FL    EST5EDT       2 
+GNVN1   GENEVA                            NE    CST6CDT       2 
+GOBU1   HANKSVILLE                        UT    MST7MDT       2 
+GOMM8   WOLF POINT  (34 E)                MT    MST7MDT       2 
+GPBI2   GALENA                            IL    CST6CDT       2 
+GPDM4   GRAND RAPIDS                      MI    EST5EDT       2 
+GPT     GULFPORT                          MS    CST6CDT       2 
+GPZ     GRAND RAPIDS                      MN    CST6CDT       2 
+GRB     GREEN BAY                         WI    CST6CDT       2 
+GRDM4   GRAND HAVEN                       MI    EST5EDT       2 
+GRFK1   GRAINFIELD                        KS    CST6CDT       2 
+GRFN8   GRAND FORKS                       ND    CST6CDT       2 
+GRGC1   BADGER  (7 NNE)                   CA    PST8PDT       2 
+GRI     GRAND ISLAND                      NE    CST6CDT       2 
+GRJC2   GRAND JUNCTION  (6 ESE)           CO    MST7MDT       2 
+GRLK2   CAMPBELLSVILLE                    KY    EST5EDT       2 
+GRNI4   GREENFIELD                        IA    CST6CDT       2 
+GRNW4   GREEN RIVER                       WY    MST7MDT       2 
+GRR     GRAND RAPIDS                      MI    EST5EDT       2 
+GRTI2   GRANITE CITY                      IL    CST6CDT       2 
+GRVA3   TUCSON  (25 S)                    AZ    MST7          2 
+GRVI2   GREENVILLE  (1 E)                 IL    CST6CDT       2 
+GSDC2   ALAMOSA  (26 NE)                  CO    MST7MDT       2 
+GSH     GOSHEN                            IN    EST5EDT       2 
+GSSM8   GRASSRANGE                        MT    MST7MDT       2 
+GTCC1   BEVERLY HILLS  (6 WNW)            CA    PST8PDT       2 
+GTF     GREAT FALLS  (6 SW)               MT    MST7MDT       2 
+GTFM8   GREAT FALLS                       MT    MST7MDT       2 
+GTHI4   GUTHRIE CENTER                    IA    CST6CDT       2 
+GTWC2   GATEWAY                           CO    MST7MDT       2 
+GUC     GUNNISON                          CO    MST7MDT       2 
+GUNC2   GUNNISON                          CO    MST7MDT       2 
+GUS     PERU                              IN    EST5EDT       2 
+GVAA1   GENEVA                            AL    CST6CDT       2 
+GVL     GAINESVILLE                       GA    EST5EDT       2 
+GVLG1   GAINESVILLE                       GA    EST5EDT       2 
+GVST1   GORDONSVILLE                      TN    CST6CDT       2 
+GWO     GREENWOOD                         MS    CST6CDT       2 
+GXY     GREELEY  (3 E)                    CO    MST7MDT       2 
+GZH     EVERGREEN                         AL    CST6CDT       2 
+HAMM8   HAMILTON                          MT    MST7MDT       2 
+HAO     HAMILTON                          OH    EST5EDT       2 
+HARW3   HARTFORD  (2 W)                   WI    CST6CDT       2 
+HASM4   HASTINGS                          MI    EST5EDT       2 
+HBG     HATTIESBURG                       MS    CST6CDT       2 
+HBRA3   OVERGAARD  (1 W)                  AZ    MST7          2 
+HBRN1   HEBRON                            NE    CST6CDT       2 
+HCD     HUTCHINSON_(AWOS)                 MN    CST6CDT       2 
+HCO     SILVER SPRING                     MD    EST5EDT       2 
+HDE     BREWSTER_FIELD_ARPT               NE    CST6CDT       2 
+HDN     HAYDEN  (2 SE)                    CO    MST7MDT       2 
+HDNM8   HARDIN                            MT    MST7MDT       2 
+HDO     HONDO                             TX    CST6CDT       2 
+HEBU1   HEBER                             UT    MST7MDT       2 
+HEI     HETTINGER                         ND    MST7MDT       2 
+HEMC1   HEMET  (1 E)                      CA    PST8PDT       2 
+HEMN1   HEMMINGFORD                       NE    MST7MDT       2 
+HEPO3   HEPPNER                           OR    PST8PDT       2 
+HERK1   HERINGTON                         KS    CST6CDT       2 
+HERM8   HERON  (3 NW)                     MT    MST7MDT       2 
+HESC1   HESPERIA  (1 ENE)                 CA    PST8PDT       2 
+HEZ     NATCHEZ                           MS    CST6CDT       2 
+HGHF1   HIGH SPRINGS                      FL    EST5EDT       2 
+HGHI2   HIGHLAND                          IL    CST6CDT       2 
+HHR     HAWTHORNE                         CA    PST8PDT       2 
+HIAK1   HIAWATHA                          KS    CST6CDT       2 
+HIB     HIBBING                           MN    CST6CDT       2 
+HICC1   TAHOE CITY  (6 WNW)               CA    PST8PDT       2 
+HICS2   HILL CITY  (1 SSE)                SD    MST7MDT       2 
+HIKN2   HIKO                              NV    PST8PDT       2 
+HIO     PORTLAND  (2 NE)                  OR    PST8PDT       2 
+HITU1   HANKSVILLE  (40 SE)               UT    MST7MDT       2 
+HKA     BLYTHEVILLE                       AR    CST6CDT       2 
+HKS     JACKSON                           MS    CST6CDT       2 
+HLC     HILL CITY                         KS    CST6CDT       2 
+HLDN7   HIGHLANDS                         NC    EST5EDT       2 
+HLDW1   STEHEKIN  (10 SW)                 WA    PST8PDT       2 
+HLN     HELENA                            MT    MST7MDT       2 
+HLTK1   HOLTON  (1 W)                     KS    CST6CDT       2 
+HMBC1   HALF MOON BAY  (1 WNW)            CA    PST8PDT       2 
+HMS     HANFORD                           WA    PST8PDT       2 
+HMVG1   HOMERVILLE  (5 N)                 GA    EST5EDT       2 
+HNB     HUNTINGBURG                       IN    EST5EDT       2 
+HNNM7   HANNIBAL                          MO    CST6CDT       2 
+HNR     HARLAN MUNICIPAL AIRPOR           IA    CST6CDT       2 
+HNTT1   LEBANON  (6 NE)                   TN    CST6CDT       2 
+HOLC1   HOLLISTER                         CA    PST8PDT       2 
+HOLM4   HOLLAND                           MI    EST5EDT       2 
+HOLM6   HOLLY SPRINGS  (4 N)              MS    CST6CDT       2 
+HOMI1   HOMEDALE  (1 SE)                  ID    MST7MDT       2 
+HON     HURON                             SD    CST6CDT       2 
+HOP     FORT CAMPBELL                     KY    CST6CDT       2 
+HOPI2   HOOPESTON  (1 NE)                 IL    CST6CDT       2 
+HORW3   HORICON                           WI    CST6CDT       2 
+HOSS2   HOT SPRINGS                       SD    MST7MDT       2 
+HOT     HOT SPRINGS                       AR    CST6CDT       2 
+HOU     HOUSTON                           TX    CST6CDT       2 
+HOWO3   ASHLAND  (18 ENE)                 OR    PST8PDT       2 
+HPOT2   HOUSTON                           TX    CST6CDT       2 
+HPYC1   HAPPY CAMP                        CA    PST8PDT       2 
+HRI     HERMISTON                         OR    PST8PDT       2 
+HRKM4   GLADSTONE  (2  W)                 MI    EST5EDT       2 
+HRL     HARLINGEN                         TX    CST6CDT       2 
+HRMM7   HERMITAGE                         MO    CST6CDT       2 
+HRNM7   HERMANN                           MO    CST6CDT       2 
+HRO     HARRISON                          AR    CST6CDT       2 
+HSBN1   HARRISBURG  (10 NW)               NE    MST7MDT       2 
+HSCC1   SAN SIMEON  (6 NW)                CA    PST8PDT       2 
+HSEC1   HOLLISTER                         CA    PST8PDT       2 
+HSI     HASTINGS                          NE    CST6CDT       2 
+HSTI4   HOLSTEIN                          IA    CST6CDT       2 
+HSTM5   HASTINGS                          MN    CST6CDT       2 
+HSTW1   FORKS  (24 SE)                    WA    PST8PDT       2 
+HSV     HUNTSVILLE                        AL    CST6CDT       2 
+HTGF1   ST AUGUSTINE  (13 SW)             FL    EST5EDT       2 
+HTH     HAWTHORNE                         NV    PST8PDT       2 
+HTHN2   HAWTHORNE                         NV    PST8PDT       2 
+HTL     HOUGHTON LAKE                     MI    EST5EDT       2 
+HTSN7   HOT SPRINGS                       NC    EST5EDT       2 
+HTTM6   HATTIESBURG  (5 SW)               MS    CST6CDT       2 
+HTTM7   NEVADA  (10 N)                    MO    CST6CDT       2 
+HUF     TERRE HAUTE                       IN    EST5EDT       2 
+HUNT2   HUNTSVILLE                        TX    CST6CDT       2 
+HUT     HUTCHINSON                        KS    CST6CDT       2 
+HUTI2   HUTSONVILLE                       IL    CST6CDT       2 
+HUTK1   HUTCHINSON  (4 NE)                KS    CST6CDT       2 
+HVAI2   HAVANA  (4 NNE)                   IL    CST6CDT       2 
+HVDI2   HARVARD                           IL    CST6CDT       2 
+HVR     HAVRE  (4 W)                      MT    MST7MDT       2 
+HVRS2   HOOVER                            SD    MST7MDT       2 
+HWD     HAYWARD  (3 W)                    CA    PST8PDT       2 
+HWO     HOLLYWOOD                         FL    EST5EDT       2 
+HYI     SAN_MARCOS_(AWOS)                 TX    CST6CDT       2 
+HYR     HAYWARD                           WI    CST6CDT       2 
+HYS     HAYS                              KS    CST6CDT       2 
+HYSM8   HYSHAM                            MT    MST7MDT       2 
+HZY     ASHTABULA                         OH    EST5EDT       2 
+IAD     WASHINGTON                        VA    EST5EDT       2 
+IAH     HOUSTON                           TX    CST6CDT       2 
+ICL     CLARINDA                          IA    CST6CDT       2 
+ICT     WICHITA                           KS    CST6CDT       2 
+ICYI4   IOWA CITY                         IA    CST6CDT       2 
+IDA     IDAHO FALLS  (3 NW)               ID    MST7MDT       2 
+IDAC2   IDALIA  (4 NNE)                   CO    MST7MDT       2 
+IDOC1   INDIO  (1 E)                      CA    PST8PDT       2 
+IDYC1   IDYLLWILD                         CA    PST8PDT       2 
+IDYI1   IDAHO CITY                        ID    MST7MDT       2 
+IEN     PINE RIDGE                        SD    MST7MDT       2 
+IGCC2   IGNACIO  (6 SE)                   CO    MST7MDT       2 
+IGM     KINGMAN                           AZ    MST7          2 
+IGQ     CHICAGO                           IL    CST6CDT       2 
+IJX     JACKSONVILLE  (3 N)               IL    CST6CDT       2 
+IKK     KANKAKEE                          IL    CST6CDT       2 
+ILN     WILMINGTON                        OH    EST5EDT       2 
+ILX     LINCOLN                           IL    CST6CDT       2 
+IML     IMPERIAL                          NE    MST7MDT       2 
+IMPN1   IMPERIAL                          NE    MST7MDT       2 
+IMT     IRON MOUNTAIN/KINGSFORD           MI    CST6CDT       2 
+INAM4   IONIA  (1 WNW)                    MI    EST5EDT       2 
+IND     INDIANAPOLIS                      IN    EST5EDT       2 
+INK     WINK                              TX    CST6CDT       2 
+INL     INTERNATIONAL FALLS               MN    CST6CDT       2 
+INTS2   INTERIOR  (3 NE)                  SD    MST7MDT       2 
+INW     WINSLOW                           AZ    MST7          2 
+IOW     IOWA CITY                         IA    CST6CDT       2 
+IPKO3   IDLEYLD PARK  (4 NE)              OR    PST8PDT       2 
+IPL     IMPERIAL                          CA    PST8PDT       2 
+IPLC1   IMPERIAL BEACH                    CA    PST8PDT       2 
+IRCT1   IRON CITY                         TN    CST6CDT       2 
+IRK     KIRKSVILLE                        MO    CST6CDT       2 
+IRMM4   IRONWOOD                          MI    CST6CDT       2 
+ISEM5   ISLE  (8 N)                       MN    CST6CDT       2 
+ISN     WILLISTON                         ND    CST6CDT       2 
+ISQ     MANISTIQUE                        MI    EST5EDT       2 
+ISW     WISCONSIN RAPIDS                  WI    CST6CDT       2 
+ITR     BURLINGTON                        CO    MST7MDT       2 
+IWD     IRONWOOD                          MI    CST6CDT       2 
+IWX     NORTH WEBSTER                     IN    EST5EDT       2 
+IXD     OLATHE                            KS    CST6CDT       2 
+IZA     SANTA YNEZ                        CA    PST8PDT       2 
+JAC     JACKSON  (7 N)                    WY    MST7MDT       2 
+JACW3   JACKSON                           WI    CST6CDT       2 
+JAGT1   JAMESTOWN  (5 W)                  TN    CST6CDT       2 
+JAN     JACKSON                           MS    CST6CDT       2 
+JARU1   DUTCH JOHN  (12 ESE)              UT    MST7MDT       2 
+JASF1   JASPER                            FL    EST5EDT       2 
+JASG1   JASPER                            GA    EST5EDT       2 
+JAX     JACKSONVILLE                      FL    EST5EDT       2 
+JAXI2   JACKSONVILLE  (2 E)               IL    CST6CDT       2 
+JBR     JONESBORO                         AR    CST6CDT       2 
+JCAK2   JACKSON  (5 ENE)                  KY    EST5EDT       2 
+JCKF1   JACKSONVILLE BEACH                FL    EST5EDT       2 
+JCKI2   JACKSONVILLE                      IL    CST6CDT       2 
+JCT     JUNCTION                          TX    CST6CDT       2 
+JDAI4   WEST DES MOINES  (3 WNW)          IA    CST6CDT       2 
+JDHM8   JUDITH GAP  (13 E)                MT    MST7MDT       2 
+JDN     JORDAN                            MT    MST7MDT       2 
+JDRO3   JOHN DAY  (1 NW)                  OR    PST8PDT       2 
+JEF     JEFFERSON CITY                    MO    CST6CDT       2 
+JEFW4   JEFFREY CITY  (1 W)               WY    MST7MDT       2 
+JENU1   JENSEN  (1 SW)                    UT    MST7MDT       2 
+JER     JEROME                            ID    MST7MDT       2 
+JFFN7   JEFFERSON  (2 ESE)                NC    EST5EDT       2 
+JFNW3   JEFFERSON  (1  SE)                WI    CST6CDT       2 
+JIMW3   JIM FALLS                         WI    CST6CDT       2 
+JKJ     MOORHEAD MUNICIPAL AIRP           MN    CST6CDT       2 
+JLN     JOPLIN                            MO    CST6CDT       2 
+JLTG1   JULIETTE                          GA    EST5EDT       2 
+JLTT1   GOODLETTSVILLE  (7 WNW)           TN    CST6CDT       2 
+JMDC2   HASTY                             CO    MST7MDT       2 
+JMR     MORA_MUNI_(AWOS)                  MN    CST6CDT       2 
+JMS     JAMESTOWN                         ND    CST6CDT       2 
+JMTK2   JAMESTOWN                         KY    CST6CDT       2 
+JNCT1   GAINESBORO  (8 N)                 TN    CST6CDT       2 
+JOEC2   JOES  (2 SE)                      CO    MST7MDT       2 
+JOHK1   JOHNSON                           KS    CST6CDT       2 
+JOLI2   JOLIET                            IL    CST6CDT       2 
+JOLM8   JOLIET  (NNW)                     MT    MST7MDT       2 
+JOSO3   JOSEPH  (2 NE)                    OR    PST8PDT       2 
+JOT     JOLIET                            IL    CST6CDT       2 
+JPPT1   DONELSON                          TN    CST6CDT       2 
+JULC1   JULIAN                            CA    PST8PDT       2 
+JVL     JANESVILLE                        WI    CST6CDT       2 
+JVLI2   JERSEYVILLE  (2 SW)               IL    CST6CDT       2 
+JWLI4   JEWELL                            IA    CST6CDT       2 
+JWPM7   JEFFERSON CITY                    MO    CST6CDT       2 
+JXN     JACKSON                           MI    EST5EDT       2 
+JYG     ST._JAMES                         MN    CST6CDT       2 
+JYR     YORK  (1 NW)                      NE    CST6CDT       2 
+KABM5   KABETOGAMA                        MN    CST6CDT       2 
+KANU1   KANAB  (1 SE)                     UT    MST7MDT       2 
+KCCC2   KIT CARSON  (9 NNE)               CO    MST7MDT       2 
+KCEW4   KAYCEE                            WY    MST7MDT       2 
+KEEW3   MERTON  (2 N)                     WI    CST6CDT       2 
+KEHW3   KESHENA  (1 W)                    WI    CST6CDT       2 
+KENC1   KENTFIELD                         CA    PST8PDT       2 
+KENO3   KENO                              OR    PST8PDT       2 
+KENW1   KENNEWICK  (2 NE)                 WA    PST8PDT       2 
+KENW3   KENOSHA                           WI    CST6CDT       2 
+KEQI4   KEOSAUQUA                         IA    CST6CDT       2 
+KERM8   POLSON  (5 WSW)                   MT    MST7MDT       2 
+KEWI2   KEWANEE  (1 E)                    IL    CST6CDT       2 
+KFAW1   KETTLE FALLS  (3 SW)              WA    PST8PDT       2 
+KHAW3   KENOSHA                           WI    CST6CDT       2 
+KICC1   KING CITY                         CA    PST8PDT       2 
+KINT1   KINGSTON SPRINGS  (2 NE)          TN    CST6CDT       2 
+KISF1   KISSIMMEE LAKE  (20 ENE)          FL    EST5EDT       2 
+KITA3   TUCSON  (43 WSW)                  AZ    MST7          2 
+KITG1   KITE                              GA    EST5EDT       2 
+KIXC2   KIM  (10 SSE)                     CO    MST7MDT       2 
+KKEI2   KANKAKEE                          IL    CST6CDT       2 
+KLGI1   KELLOGG                           ID    PST8PDT       2 
+KLLN8   KILLDEER                          ND    MST7MDT       2 
+KLS     KELSO                             WA    PST8PDT       2 
+KMBN1   KIMBALL                           NE    MST7MDT       2 
+KMFW1   OKANOGAN  (5 SE)                  WA    PST8PDT       2 
+KNLI2   MODOC  (3 SE)                     IL    CST6CDT       2 
+KNLK2   AURORA                            KY    CST6CDT       2 
+KNMI2   KINMUNDY                          IL    CST6CDT       2 
+KNTW1   KENT                              WA    PST8PDT       2 
+KNXI4   KNOXVILLE                         IA    CST6CDT       2 
+KODU1   HENRIEVILLE  (4 S)                UT    MST7MDT       2 
+KOMK2   PINE RIDGE  (2 NW)                KY    EST5EDT       2 
+KSAF1   AVON PARK  (22 ENE)               FL    EST5EDT       2 
+KSCF1   OKEECHOBEE  (20 WNW)              FL    EST5EDT       2 
+KSDF1   OKEECHOBEE  (12 WNW)              FL    EST5EDT       2 
+KSEF1   OKEECHOBEE  (8 W)                 FL    EST5EDT       2 
+KTLA3   BULLHEAD CITY  (5 N)              AZ    MST7          2 
+KTLW1   KETTLE FALLS  (9 NNE)             WA    PST8PDT       2 
+KTTC1   KETTLEMAN CITY                    CA    PST8PDT       2 
+KTYT2   KATY                              TX    CST6CDT       2 
+LAA     LAMAR                             CO    MST7MDT       2 
+LAAW3   LAONA  (1 W)                      WI    CST6CDT       2 
+LACW1   LACROSSE                          WA    PST8PDT       2 
+LADI4   LADORA                            IA    CST6CDT       2 
+LAF     LAFAYETTE                         IN    EST5EDT       2 
+LAGC1   LAGUNA BEACH                      CA    PST8PDT       2 
+LAHI2   LA HARPE                          IL    CST6CDT       2 
+LAN     LANSING                           MI    EST5EDT       2 
+LAR     LARAMIE                           WY    MST7MDT       2 
+LAS     LAS VEGAS                         NV    PST8PDT       2 
+LAST1   LASCASSAS  (3 SW)                 TN    CST6CDT       2 
+LATN2   LATHROP WELLS  (6 SW)             NV    PST8PDT       2 
+LAUN2   LAUGHLIN                          NV    PST8PDT       2 
+LAX     LOS ANGELES  (5 NW)               CA    PST8PDT       2 
+LBB     LUBBOCK                           TX    CST6CDT       2 
+LBF     NORTH PLATTE                      NE    CST6CDT       2 
+LBGW4   LA BARGE                          WY    MST7MDT       2 
+LBL     LIBERAL                           KS    CST6CDT       2 
+LBLT1   LOBELVILLE                        TN    CST6CDT       2 
+LBNT1   LEBANON  (3 W)                    TN    CST6CDT       2 
+LBRW1   POMEROY  (15 NNW)                 WA    PST8PDT       2 
+LBST1   LEBANON  (3 SE)                   TN    CST6CDT       2 
+LBVT1   LOBELVILLE                        TN    CST6CDT       2 
+LCH     LAKE CHARLES                      LA    CST6CDT       2 
+LCHK2   LEITCHFIELD  (2 N)                KY    CST6CDT       2 
+LCK     COLUMBUS                          OH    EST5EDT       2 
+LCMN2   OVERTON                           NV    PST8PDT       2 
+LCTF1   LAKE CITY  (2 E)                  FL    EST5EDT       2 
+LDGN1   LODGEPOLE                         NE    MST7MDT       2 
+LDM     LUDINGTON                         MI    EST5EDT       2 
+LEAS2   LEAD                              SD    MST7MDT       2 
+LEBC1   LEBEC                             CA    PST8PDT       2 
+LEBK2   LEBANON  (5 S)                    KY    EST5EDT       2 
+LEE     LEESBURG                          FL    EST5EDT       2 
+LEMC1   LEMON COVE                        CA    PST8PDT       2 
+LEMS2   LEMMON                            SD    MST7MDT       2 
+LENN7   LENOIR                            NC    EST5EDT       2 
+LENU1   LAYTON  (3 N)                     UT    MST7MDT       2 
+LEVC1   LEE VINING                        CA    PST8PDT       2 
+LEVU1   LEVAN                             UT    MST7MDT       2 
+LEX     LEXINGTON                         KY    EST5EDT       2 
+LFDN8   LANSFORD                          ND    CST6CDT       2 
+LFFT1   LAFAYETTE  (1 NE)                 TN    CST6CDT       2 
+LFK     LUFKIN                            TX    CST6CDT       2 
+LFKM5   LITTLEFORK                        MN    CST6CDT       2 
+LFT     LAFAYETTE                         LA    CST6CDT       2 
+LGB     LONG BEACH  (5 NW)                CA    PST8PDT       2 
+LGCG1   LA GRANGE                         GA    EST5EDT       2 
+LGD     LA GRANDE                         OR    PST8PDT       2 
+LGDO3   LA GRANDE  (1 SE)                 OR    PST8PDT       2 
+LGKW3   LONG LAKE  (3 NE)                 WI    CST6CDT       2 
+LGPN1   LODGEPOLE  (8 N)                  NE    MST7MDT       2 
+LGRF1   PIERSON  (2 SW)                   FL    EST5EDT       2 
+LGU     LOGAN                             UT    MST7MDT       2 
+LHCA3   LAKE HAVASU CITY                  AZ    MST7          2 
+LHQ     LANCASTER                         OH    EST5EDT       2 
+LHX     LA JUNTA                          CO    MST7MDT       2 
+LIBM8   LIBBY  (12 E)                     MT    MST7MDT       2 
+LIC     LIMON                             CO    MST7MDT       2 
+LIDW1   LIND  (9 SW)                      WA    PST8PDT       2 
+LINC1   LINDSAY  (2 E)                    CA    PST8PDT       2 
+LINM8   LINCOLN  (1 E)                    MT    MST7MDT       2 
+LINW1   LIND  (3 NE)                      WA    PST8PDT       2 
+LIT     LITTLE ROCK                       AR    CST6CDT       2 
+LJF     LITCHFIELD_MUNI                   MN    CST6CDT       2 
+LKMW3   LAKE MILLS                        WI    CST6CDT       2 
+LKN     ELKO                              NV    PST8PDT       2 
+LKTU1   LAKETOWN  (1 W)                   UT    MST7MDT       2 
+LKV     LAKEVIEW  (5 SW)                  OR    PST8PDT       2 
+LLJ     CHALLIS                           ID    MST7MDT       2 
+LLQ     MONTICELLO                        AR    CST6CDT       2 
+LMBM6   LAMBERT  (5 E)                    MS    CST6CDT       2 
+LMGC1   LEMON GROVE                       CA    PST8PDT       2 
+LMGN8   BOTTINEAU  (12 NNE)               ND    CST6CDT       2 
+LMK     LOUISVILLE                        KY    EST5EDT       2 
+LMRC2   LAMAR                             CO    MST7MDT       2 
+LMT     KLAMATH FALLS  (5 SE)             OR    PST8PDT       2 
+LNCT1   LANCASTER                         TN    CST6CDT       2 
+LND     LANDER                            WY    MST7MDT       2 
+LNK     LINCOLN                           NE    CST6CDT       2 
+LNL     LAND O' LAKES                     WI    CST6CDT       2 
+LNNN7   LINVILLE  (3 NE)                  NC    EST5EDT       2 
+LNNT1   LEBANON  (6 NE)                   TN    CST6CDT       2 
+LNR     LONE ROCK                         WI    CST6CDT       2 
+LNRW4   LANDER  (1 N)                     WY    MST7MDT       2 
+LOAU1   LOA                               UT    MST7MDT       2 
+LOGO3   LONG CREEK                        OR    PST8PDT       2 
+LOIN2   LAMOILLE  (2 N)                   NV    PST8PDT       2 
+LOKW3   LAND O LAKES  (10 W)              WI    CST6CDT       2 
+LOL     LOVELOCK  (9 SSW)                 NV    PST8PDT       2 
+LOOO3   LOOKINGGLASS                      OR    PST8PDT       2 
+LOR     FORT RUCKER                       AL    CST6CDT       2 
+LOSC1   LOS BANOS  (1 WSW)                CA    PST8PDT       2 
+LOT     ROMEOVILLE                        IL    CST6CDT       2 
+LOZ     LONDON                            KY    EST5EDT       2 
+LPC     LOMPOC                            CA    PST8PDT       2 
+LPOW1   COLVILLE  (10 SE)                 WA    PST8PDT       2 
+LPR     LORAIN/ELYRIA                     OH    EST5EDT       2 
+LRD     LAREDO                            TX    CST6CDT       2 
+LRF     JACKSONVILLE                      AR    CST6CDT       2 
+LRMW4   LARAMIE  (4 SE)                   WY    MST7MDT       2 
+LRYT2   LIBERTY                           TX    CST6CDT       2 
+LSAM5   MINNEAPOLIS                       MN    CST6CDT       2 
+LSBT1   LEWISBURG  (3 SE)                 TN    CST6CDT       2 
+LSDU1   NEPHI  (21 N)                     UT    MST7MDT       2 
+LSE     LA CROSSE                         WI    CST6CDT       2 
+LSPF1   LAKE MARY  (5 WNW)                FL    EST5EDT       2 
+LSV     LAS VEGAS                         NV    PST8PDT       2 
+LTCA3   LITCHFIELD PARK                   AZ    MST7          2 
+LUB     LUBBOCK                           TX    CST6CDT       2 
+LUK     CINCINNATI                        OH    EST5EDT       2 
+LUSM7   LOUISIANA                         MO    CST6CDT       2 
+LVDT2   GOODRICH  (5 NW)                  TX    CST6CDT       2 
+LVDW3   PHELPS  (5 NW)                    WI    CST6CDT       2 
+LVGT1   LIVINGSTON                        TN    CST6CDT       2 
+LVJ     HOUSTON                           TX    CST6CDT       2 
+LVK     LIVERMORE  (3 NW)                 CA    PST8PDT       2 
+LVM     LIVINGSTON  (6 ENE)               MT    MST7MDT       2 
+LVN     AIRLAKE                           MN    CST6CDT       2 
+LVNT1   LIVINGSTON                        TN    CST6CDT       2 
+LVOF1   LIVE OAK                          FL    EST5EDT       2 
+LVST2   LIVINGSTON  (2 NNE)               TX    CST6CDT       2 
+LVWI3   LEAVENWORTH  (2 NW)               IN    EST5EDT       2 
+LVXW3   LAND O LAKES                      WI    CST6CDT       2 
+LWC     LAWRENCE                          KS    CST6CDT       2 
+LWD     LAMONI                            IA    CST6CDT       2 
+LWDI4   LOWDEN                            IA    CST6CDT       2 
+LWPK2   LEWISPORT  (4 S)                  KY    CST6CDT       2 
+LWS     LEWISTON                          ID    PST8PDT       2 
+LWST1   LEWISBURG  (2 SSW)                TN    CST6CDT       2 
+LWT     LEWISTOWN  (3 SW)                 MT    MST7MDT       2 
+LWV     LAWRENCEVILLE                     IL    CST6CDT       2 
+LXL     LITTLE_FALLS_(AWOS)               MN    CST6CDT       2 
+LXN     LEXINGTON                         NE    CST6CDT       2 
+LXT     LEES SUMMIT                       MO    CST6CDT       2 
+LXTI3   LEXINGTON  (3 N)                  IN    EST5EDT       2 
+LXV     LEADVILLE  (2 SW)                 CO    MST7MDT       2 
+LYBM8   LIBBY  (32 SSE)                   MT    MST7MDT       2 
+LYH     LYNCHBURG                         VA    EST5EDT       2 
+LYNG1   LYONS                             GA    EST5EDT       2 
+LZK     NORTH LITTLE ROCK  (1 NE)         AR    CST6CDT       2 
+MABG1   MABLETON                          GA    EST5EDT       2 
+MACI2   MACKINAW  (1 N)                   IL    CST6CDT       2 
+MAF     MIDLAND                           TX    CST6CDT       2 
+MAI     MARIANNA                          FL    CST6CDT       2 
+MAIW3   MADELINE ISLAND                   WI    CST6CDT       2 
+MALC1   MAMMOTH LAKES  (2 E)              CA    PST8PDT       2 
+MANT1   MANCHESTER                        TN    CST6CDT       2 
+MANU1   MANILA                            UT    MST7MDT       2 
+MANW1   MANSON  (2 NE)                    WA    PST8PDT       2 
+MANW3   MANITOWOC                         WI    CST6CDT       2 
+MARA3   MARICOPA  (4 N)                   AZ    MST7          2 
+MARF1   MARIANNA  (7 NE)                  FL    CST6CDT       2 
+MARI2   MARENGO                           IL    CST6CDT       2 
+MARM4   MARSHALL                          MI    EST5EDT       2 
+MASF1   MASCOTTE  (3 E)                   FL    EST5EDT       2 
+MAZW3   MAZOMANIE  (1 W)                  WI    CST6CDT       2 
+MBG     MOBRIDGE                          SD    CST6CDT       2 
+MBL     MANISTEE                          MI    EST5EDT       2 
+MBS     SAGINAW                           MI    EST5EDT       2 
+MCB     MCCOMB  (4 SW)                    MS    CST6CDT       2 
+MCDG1   MCDONOUGH  (5 E)                  GA    EST5EDT       2 
+MCDN2   MCDERMITT  (1 S)                  NV    PST8PDT       2 
+MCET1   MCEWEN                            TN    CST6CDT       2 
+MCGN2   MCGILL  (1 SE)                    NV    PST8PDT       2 
+MCGT1   MCMINNVILLE  (3 NE)               TN    CST6CDT       2 
+MCHN2   LAS VEGAS  (9 WNW)                NV    PST8PDT       2 
+MCI     KANSAS CITY                       MO    CST6CDT       2 
+MCK     MCCOOK                            NE    CST6CDT       2 
+MCLC1   MCCLOUD  (3 NE)                   CA    PST8PDT       2 
+MCN     MACON                             GA    EST5EDT       2 
+MCO     ORLANDO                           FL    EST5EDT       2 
+MCW     MASON CITY                        IA    CST6CDT       2 
+MCXN1   MCCOOK                            NE    CST6CDT       2 
+MDAO3   MADRAS  (2 N)                     OR    PST8PDT       2 
+MDDN1   MADRID                            NE    MST7MDT       2 
+MDH     CARBONDALE/MURPHYSBORO            IL    CST6CDT       2 
+MDIW3   MONDOVI                           WI    CST6CDT       2 
+MDLM4   MIDLAND                           MI    EST5EDT       2 
+MDSF1   MADISON  (1 S)                    FL    EST5EDT       2 
+MDTI2   MENDOTA  (1 SE)                   IL    CST6CDT       2 
+MDTK2   MIDDLETOWN                        KY    EST5EDT       2 
+MDW     CHICAGO                           IL    CST6CDT       2 
+MDWI2   BURBANK                           IL    CST6CDT       2 
+MDZ     MEDFORD                           WI    CST6CDT       2 
+MEAA3   MEADVIEW  (2 NE)                  AZ    MST7          2 
+MEDI2   MEDORA                            IL    CST6CDT       2 
+MEG     MEMPHIS                           TN    CST6CDT       2 
+MEH     MEACHAM                           OR    PST8PDT       2 
+MEI     MERIDIAN                          MS    CST6CDT       2 
+MEM     MEMPHIS                           TN    CST6CDT       2 
+MEQW3   MEQUON                            WI    CST6CDT       2 
+MERT1   HOHENWALD  (17 SE)                TN    CST6CDT       2 
+MEXU1   BLUFF  (20 WSW)                   UT    MST7MDT       2 
+MFD     MANSFIELD                         OH    EST5EDT       2 
+MFDI2   MILFORD  (5 NW)                   IL    CST6CDT       2 
+MFDW3   MARSHFIELD                        WI    CST6CDT       2 
+MFE     MC ALLEN                          TX    CST6CDT       2 
+MFI     MARSHFIELD                        WI    CST6CDT       2 
+MFR     MEDFORD  (4 N)                    OR    PST8PDT       2 
+MGBT1   BURNS                             TN    CST6CDT       2 
+MGE     MARIETTA                          GA    EST5EDT       2 
+MGG     MAPLE_LAKE                        MN    CST6CDT       2 
+MGM     MONTGOMERY                        AL    CST6CDT       2 
+MGNC1   MORGAN HILL                       CA    PST8PDT       2 
+MGR     MOULTRIE                          GA    EST5EDT       2 
+MGTN7   MORGANTON  (4 E)                  NC    EST5EDT       2 
+MGY     DAYTON                            OH    EST5EDT       2 
+MGZM8   WHITE SULPHUR SPRINGS  (27 NW)    MT    MST7MDT       2 
+MHE     MITCHELL                          SD    CST6CDT       2 
+MHK     MANHATTAN                         KS    CST6CDT       2 
+MHKM4   MOHAWK                            MI    EST5EDT       2 
+MHLN8   MARSHALL                          ND    MST7MDT       2 
+MHS     MT SHASTA                         CA    PST8PDT       2 
+MHSC1   MT SHASTA  (1 E)                  CA    PST8PDT       2 
+MHTK1   MANHATTAN                         KS    CST6CDT       2 
+MHV     MOJAVE                            CA    PST8PDT       2 
+MHYI2   MC HENRY                          IL    CST6CDT       2 
+MIA     MIAMI                             FL    EST5EDT       2 
+MIB     MINOT                             ND    CST6CDT       2 
+MIC     MINNEAPOLIS                       MN    CST6CDT       2 
+MIDI1   STANLEY  (40 N)                   ID    MST7MDT       2 
+MIDW1   MILES  (4 NE)                     WA    PST8PDT       2 
+MIE     MUNCIE                            IN    EST5EDT       2 
+MILM4   MILFORD                           MI    EST5EDT       2 
+MINI2   MINONK                            IL    CST6CDT       2 
+MINN1   MINDEN                            NE    CST6CDT       2 
+MITN8   MINOT                             ND    CST6CDT       2 
+MIW     MARSHALLTOWN                      IA    CST6CDT       2 
+MJQ     JACKSON_MUNI_(AWOS)               MN    CST6CDT       2 
+MKC     KANSAS CITY                       MO    CST6CDT       2 
+MKE     MILWAUKEE                         WI    CST6CDT       2 
+MKEC1   MARKLEEVILLE  (1 SE)              CA    PST8PDT       2 
+MKG     MUSKEGON                          MI    EST5EDT       2 
+MKL     JACKSON                           TN    CST6CDT       2 
+MKT     MANKATO                           MN    CST6CDT       2 
+MKTI4   MAQUOKETA  (2 W)                  IA    CST6CDT       2 
+MKX     SULLIVAN  (3 SE)                  WI    CST6CDT       2 
+MLAM8   MALTA                             MT    MST7MDT       2 
+MLB     MELBOURNE                         FL    EST5EDT       2 
+MLCM5   MILACA  (2 N)                     MN    CST6CDT       2 
+MLCW3   GREEN BAY  (9 WNW)                WI    CST6CDT       2 
+MLE     OMAHA                             NE    CST6CDT       2 
+MLF     MILFORD  (2 SSE)                  UT    MST7MDT       2 
+MLFK1   MILFORD  (6 S)                    KS    CST6CDT       2 
+MLI     MOLINE                            IL    CST6CDT       2 
+MLNC1   MOUNT LAGUNA                      CA    PST8PDT       2 
+MLP     MULLAN PASS                       ID    PST8PDT       2 
+MLPK2   LOUISVILLE                        KY    EST5EDT       2 
+MLS     MILES CITY  (2 NW)                MT    MST7MDT       2 
+MLTK1   MILTONVALE                        KS    CST6CDT       2 
+MLU     MONROE                            LA    CST6CDT       2 
+MLVG1   MILLEDGEVILLE                     GA    EST5EDT       2 
+MLVK1   MELVERN  (4 W)                    KS    CST6CDT       2 
+MMCW3   MILWAUKEE                         WI    CST6CDT       2 
+MMH     MAMMOTH LAKES  (7 E)              CA    PST8PDT       2 
+MML     MARSHALL                          MN    CST6CDT       2 
+MMLW1   MCMILLIN                          WA    PST8PDT       2 
+MMMG1   WARNER ROBINS                     GA    EST5EDT       2 
+MMOI2   MARSEILLES                        IL    CST6CDT       2 
+MMPM7   MEMPHIS                           MO    CST6CDT       2 
+MMTI2   MONMOUTH  (4 NW)                  IL    CST6CDT       2 
+MMTN7   BLACK MOUNTAIN  (10 NNE)          NC    EST5EDT       2 
+MMTO3   MONUMENT                          OR    PST8PDT       2 
+MMV     MCMINNVILLE                       OR    PST8PDT       2 
+MNCM7   MONROE CITY                       MO    CST6CDT       2 
+MNCT1   MANCHESTER                        TN    CST6CDT       2 
+MNFO3   MARION FORKS                      OR    PST8PDT       2 
+MNM     MENOMINEE                         MI    CST6CDT       2 
+MNN     MARION                            OH    EST5EDT       2 
+MNRW1   MONROE                            WA    PST8PDT       2 
+MNSM4   MUNISING                          MI    EST5EDT       2 
+MNTC2   MONTROSE  (1 N)                   CO    MST7MDT       2 
+MNYT1   MONTEREY                          TN    CST6CDT       2 
+MOB     MOBILE                            AL    CST6CDT       2 
+MOCW3   MANITOWOC  (1 S)                  WI    CST6CDT       2 
+MOD     MODESTO  (2 SE)                   CA    PST8PDT       2 
+MOEI2   MONEE  (3 SSW)                    IL    CST6CDT       2 
+MOLW3   MOLE LAKE                         WI    CST6CDT       2 
+MOMN2   ELY  (32 W)                       NV    PST8PDT       2 
+MOOI2   MATTOON  (1 NW)                   IL    CST6CDT       2 
+MOOW4   MOOSE                             WY    MST7MDT       2 
+MORI3   MOROCCO  (1 N)                    IN    CST6CDT       2 
+MORO3   MORO  (1 E)                       OR    PST8PDT       2 
+MOSI2   MORRIS  (1 NW)                    IL    CST6CDT       2 
+MOT     MINOT                             ND    CST6CDT       2 
+MOX     MORRIS_MUNI_(AWOS)                MN    CST6CDT       2 
+MPLT1   MOUNT PLEASANT                    TN    CST6CDT       2 
+MPOC1   MARIPOSA  (1 NW)                  CA    PST8PDT       2 
+MPV     BARRE/MONTPELIER                  VT    EST5EDT       2 
+MPXM5   CHANHASSEN                        MN    CST6CDT       2 
+MQB     MACOMB                            IL    CST6CDT       2 
+MQEM4   MARQUETTE CITY                    MI    EST5EDT       2 
+MQI     MANTEO  (2 W)                     NC    EST5EDT       2 
+MQRW3   MINOCQUA                          WI    CST6CDT       2 
+MQT     NEGAUNEE  (7 W)                   MI    EST5EDT       2 
+MQUI2   MOWEAQUA                          IL    CST6CDT       2 
+MRF     MARFA                             TX    CST6CDT       2 
+MRH     BEAUFORT                          NC    EST5EDT       2 
+MRHM6   MOORHEAD                          MS    CST6CDT       2 
+MRHN7   MARSHAL  (1 NE)                   NC    EST5EDT       2 
+MRIW3   MARINETTE                         WI    CST6CDT       2 
+MRJ     MINERAL_POINT                     WI    CST6CDT       2 
+MRNS2   OPAL                              SD    MST7MDT       2 
+MRPC1   WAWONA  (4 ESE)                   CA    PST8PDT       2 
+MRRM5   MORRIS                            MN    CST6CDT       2 
+MRST1   MORRISON                          TN    CST6CDT       2 
+MRTI2   MORTON  (1 E)                     IL    CST6CDT       2 
+MRTM8   MARTINSDALE  (3 NNW)              MT    MST7MDT       2 
+MRVI2   MORRISONVILLE                     IL    CST6CDT       2 
+MRVK1   MARYSVILLE                        KS    CST6CDT       2 
+MRX     MORRISTOWN                        TN    EST5EDT       2 
+MRYM8   ST. MARY  (1 SSW)                 MT    MST7MDT       2 
+MSCI4   MASON CITY                        IA    CST6CDT       2 
+MSL     MUSCLE SHOALS                     AL    CST6CDT       2 
+MSN     MADISON                           WI    CST6CDT       2 
+MSO     MISSOULA  (6 NW)                  MT    MST7MDT       2 
+MSOI2   MASON CITY  (1 E)                 IL    CST6CDT       2 
+MSP     MINNEAPOLIS                       MN    CST6CDT       2 
+MSS     MASSENA                           NY    EST5EDT       2 
+MSSS2   MISSION                           SD    CST6CDT       2 
+MSTI4   MUSCATINE  (2 N)                  IA    CST6CDT       2 
+MSVT2   MADISONVILLE                      TX    CST6CDT       2 
+MTC     MOUNT CLEMENS                     MI    EST5EDT       2 
+MTCF1   MONTICELLO  (1 NNE)               FL    EST5EDT       2 
+MTGT2   MATAGORDA                         TX    CST6CDT       2 
+MTH     MARATHON                          FL    EST5EDT       2 
+MTHC1   MOUNT HEBRON  (3 W)               CA    PST8PDT       2 
+MTJ     MONTROSE                          CO    MST7MDT       2 
+MTLO3   MITCHELL  (2 E)                   OR    PST8PDT       2 
+MTO     MATTOON/CHARLESTON                IL    CST6CDT       2 
+MTOI2   MOUNT OLIVE  (1 E)                IL    CST6CDT       2 
+MTPI2   MOUNT PULASKI                     IL    CST6CDT       2 
+MTPT1   MOUNT PLEASANT  (2 N)             TN    CST6CDT       2 
+MTR     MONTEREY                          CA    PST8PDT       2 
+MTTK1   MANHATTAN  (5 N)                  KS    CST6CDT       2 
+MTVI3   MOUNT VERNON                      IN    CST6CDT       2 
+MTW     MANITOWOC                         WI    CST6CDT       2 
+MTYT1   MONTEREY                          TN    CST6CDT       2 
+MTZG1   MONTEZUMA                         GA    EST5EDT       2 
+MUGT1   MURFREESBORO                      TN    CST6CDT       2 
+MUNI2   MUNDELEIN  (4 WSW)                IL    CST6CDT       2 
+MUO     MOUNTAIN HOME                     ID    MST7MDT       2 
+MURN7   MURPHY  (2 NE)                    NC    EST5EDT       2 
+MURT1   MURFREESBORO  (5 N)               TN    CST6CDT       2 
+MUT     MUSCATINE                         IA    CST6CDT       2 
+MVE     MONTEVIDEO(AWOS)                  MN    CST6CDT       2 
+MVL     MORRISVILLE  (2 SSW)              VT    EST5EDT       2 
+MVLS2   MILESVILLE  (8 NE)                SD    MST7MDT       2 
+MVPC2   CORTEZ  (12 SE)                   CO    MST7MDT       2 
+MVRM7   MT. VERNON                        MO    CST6CDT       2 
+MVSC2   MONTE VISTA  (2 N)                CO    MST7MDT       2 
+MWC     MILWAUKEE                         WI    CST6CDT       2 
+MWH     MOSES LAKE                        WA    PST8PDT       2 
+MWL     MINERAL WELLS                     TX    CST6CDT       2 
+MWM     WINDOM_MUNI_AIRPORT               MN    CST6CDT       2 
+MWSC1   LA CANADA                         CA    PST8PDT       2 
+MWT     MOUNT IDA                         AR    CST6CDT       2 
+MWTW4   MIDWEST                           WY    MST7MDT       2 
+MXHU1   MEXICAN HAT  (10 NNW)             UT    MST7MDT       2 
+MXO     MONTICELLO_MUNI                   IA    CST6CDT       2 
+MXWI4   MAXWELL                           IA    CST6CDT       2 
+MYF     SAN DIEGO                         CA    PST8PDT       2 
+MYL     MCCALL                            ID    MST7MDT       2 
+MYSM8   FISHTAIL  (18 SW)                 MT    MST7MDT       2 
+MYV     MARYSVILLE  (3 S)                 CA    PST8PDT       2 
+MZAW1   MAZAMA  (2 NW)                    WA    PST8PDT       2 
+MZH     MOOSE_LAKE                        MN    CST6CDT       2 
+N60     GARRISON  (1 W)                   ND    CST6CDT       2 
+NAHG1   NAHUNTA  (6 NE)                   GA    EST5EDT       2 
+NASM8   NASHUA                            MT    MST7MDT       2 
+NATM6   NATCHEZ                           MS    CST6CDT       2 
+NBMU1   BLANDING  (28 W)                  UT    MST7MDT       2 
+NBSF1   TAYLOR CREEK  (3 ESE)             FL    EST5EDT       2 
+NCAC2   TIMNATH  (2  E)                   CO    MST7MDT       2 
+NCAT2   NEW CANEY  (2 E)                  TX    CST6CDT       2 
+NCHK2   CARLISLE  (4 WNW)                 KY    EST5EDT       2 
+NCLW4   NEWCASTLE                         WY    MST7MDT       2 
+NCSF1   FORT PIERCE  (8 W)                FL    EST5EDT       2 
+NCSW1   WINTHROP  (5 SE)                  WA    PST8PDT       2 
+NDPT1   NORMANDY  (2 NE)                  TN    CST6CDT       2 
+NEFW1   NESPELEM                          WA    PST8PDT       2 
+NELF1   INDIANTOWN  (12 WNW)              FL    EST5EDT       2 
+NEVM7   NEVADA                            MO    CST6CDT       2 
+NEWW3   NEW LONDON                        WI    CST6CDT       2 
+NFKW4   CODY  (20 W)                      WY    MST7MDT       2 
+NFL     FALLON                            NV    PST8PDT       2 
+NGP     CORPUS CHRISTI                    TX    CST6CDT       2 
+NHRM8   NEIHART  (7  W)                   MT    MST7MDT       2 
+NHRU1   NEW HARMONY  (1 SE)               UT    MST7MDT       2 
+NID     CHINA LAKE  (4 N)                 CA    PST8PDT       2 
+NIP     JACKSONVILLE                      FL    EST5EDT       2 
+NJNT1   NEW JOHNSONVILLE                  TN    CST6CDT       2 
+NKT     CHERRY POINT                      NC    EST5EDT       2 
+NKX     SAN DIEGO                         CA    PST8PDT       2 
+NLC     LEMOORE  (8 W)                    CA    PST8PDT       2 
+NLVN2   NORTH LAS VEGAS  (2 N)            NV    PST8PDT       2 
+NOLK2   NOLIN                             KY    CST6CDT       2 
+NOOK1   NORTON                            KS    CST6CDT       2 
+NPAC1   NAPA  (4 N)                       CA    PST8PDT       2 
+NPDW3   NORTHPORT                         WI    CST6CDT       2 
+NPLN1   NORTH PLATTE  (5 S)               NE    CST6CDT       2 
+NPTW1   NEWPORT                           WA    PST8PDT       2 
+NQI     KINGSVILLE                        TX    CST6CDT       2 
+NRB     MAYPORT  (4 NNW)                  FL    EST5EDT       2 
+NRLI2   NORMAL  (4 NE)                    IL    CST6CDT       2 
+NSHI2   NASHVILLE  (4 NE)                 IL    CST6CDT       2 
+NSHT1   OLD HICKORY                       TN    CST6CDT       2 
+NTNI2   NEWTON                            IL    CST6CDT       2 
+NUNM4   NUNICA  (4 W)                     MI    EST5EDT       2 
+NUQ     MOUNTAIN VIEW  (3 N)              CA    PST8PDT       2 
+NUW     OAK HARBOR                        WA    PST8PDT       2 
+NWKI2   NEWARK  (2 SSE)                   IL    CST6CDT       2 
+NWMW1   NEWHALEM                          WA    PST8PDT       2 
+NXP     TWENTYNINE PALMS                  CA    PST8PDT       2 
+NYEM8   NYE                               MT    MST7MDT       2 
+NYL     YUMA                              AZ    MST7          2 
+NYSO3   NYSSA                             OR    MST7MDT       2 
+NZAC1   ANZA  (2 NW)                      CA    PST8PDT       2 
+OACC1   KLAMATH RIVER  (2 WSW)            CA    PST8PDT       2 
+OAGW1   OMAK  (2 SW)                      WA    PST8PDT       2 
+OAJ     JACKSONVILLE                      NC    EST5EDT       2 
+OAK     OAKLAND                           CA    PST8PDT       2 
+OAKF1   OKEECHOBEE  (4 N)                 FL    EST5EDT       2 
+OAKK1   OAKLEY  (4 W)                     KS    CST6CDT       2 
+OAMC1   OAKLAND                           CA    PST8PDT       2 
+OASN2   OASIS                             NV    PST8PDT       2 
+OAX     VALLEY                            NE    CST6CDT       2 
+OBRK1   OBERLIN                           KS    CST6CDT       2 
+OCAF1   OCALA  (8 SSE)                    FL    EST5EDT       2 
+OCDN1   ORCHARD  (12 N)                   NE    CST6CDT       2 
+OCH     NACOGDOCHES                       TX    CST6CDT       2 
+OCHI4   OCHEYEDAN                         IA    CST6CDT       2 
+OCKC2   OAK CREEK  (7  SW)                CO    MST7MDT       2 
+OCOW3   OCONOMOWOC                        WI    CST6CDT       2 
+OCTC1   OCOTILLO WELLS  (2 W)             CA    PST8PDT       2 
+ODO     ODESSA                            TX    CST6CDT       2 
+ODSW1   ODESSA  (9 W)                     WA    PST8PDT       2 
+ODX     ORD                               NE    CST6CDT       2 
+ODYC2   ORDWAY  (21 N)                    CO    MST7MDT       2 
+OELS2   OELRICHS                          SD    MST7MDT       2 
+OEO     OSCEOLA                           WI    CST6CDT       2 
+OFF     OMAHA                             NE    CST6CDT       2 
+OFK     NORFOLK                           NE    CST6CDT       2 
+OFLW4   FT. LARAMIE  (2 WSW)              WY    MST7MDT       2 
+OGA     OGALALLA                          NE    MST7MDT       2 
+OGAS2   OGLALA  (1 S)                     SD    MST7MDT       2 
+OGD     OGDEN                             UT    MST7MDT       2 
+OGDI2   OGDEN                             IL    CST6CDT       2 
+OGDI4   OGDEN                             IA    CST6CDT       2 
+OGNU1   HUNTSVILLE  (4 W)                 UT    MST7MDT       2 
+OHAW1   PACKWOOD  (10 NNE)                WA    PST8PDT       2 
+OHIT1   OLD HICKORY  (3 NNW)              TN    CST6CDT       2 
+OJAC1   OJAI  (1 E)                       CA    PST8PDT       2 
+OJC     OLATHE                            KS    CST6CDT       2 
+OKB     OCEANSIDE                         CA    PST8PDT       2 
+OKKI2   OAK BROOK  (2 W)                  IL    CST6CDT       2 
+OKNN8   OAKES  (4 S)                      ND    CST6CDT       2 
+OLEO3   CRESCENT LAKE  (3 N)              OR    PST8PDT       2 
+OLF     WOLF POINT                        MT    MST7MDT       2 
+OLFW4   OLD FAITHFUL                      WY    MST7MDT       2 
+OLM     OLYMPIA  (3 S)                    WA    PST8PDT       2 
+OLNM8   OLNEY                             MT    MST7MDT       2 
+OLS     NOGALES                           AZ    MST7          2 
+OLU     COLUMBUS                          NE    CST6CDT       2 
+OLY     OLNEY-NOBLE                       IL    CST6CDT       2 
+OLZ     OELWEN                            IA    CST6CDT       2 
+OMA     OMAHA                             NE    CST6CDT       2 
+OMK     OMAK  (4 N)                       WA    PST8PDT       2 
+OMNM7   OLD MONROE                        MO    CST6CDT       2 
+ONA     WINONA                            MN    CST6CDT       2 
+ONL     O'NEILL                           NE    CST6CDT       2 
+ONO     ONTARIO                           OR    MST7MDT       2 
+ONP     NEWPORT  (7 S)                    OR    PST8PDT       2 
+ONT     ONTARIO  (2 E)                    CA    PST8PDT       2 
+ONTM4   ONTONAGON  (6 SE)                 MI    EST5EDT       2 
+ONZ     GROSSE ILE                        MI    EST5EDT       2 
+OPF     MIAMI                             FL    EST5EDT       2 
+OPNM8   OPHEIM  (10 N)                    MT    MST7MDT       2 
+ORB     ORR                               MN    CST6CDT       2 
+ORC     ORANGE_CITY                       IA    CST6CDT       2 
+ORD     CHICAGO                           IL    CST6CDT       2 
+ORDC2   ORDWAY  (2 ENE)                   CO    MST7MDT       2 
+ORF     NORFOLK                           VA    EST5EDT       2 
+ORGA3   AJO  (29 SSE)                     AZ    MST7          2 
+ORL     ORLANDO                           FL    EST5EDT       2 
+ORLS2   ORAL                              SD    MST7MDT       2 
+ORLT1   ORLINDA                           TN    CST6CDT       2 
+ORNF1   ORLANDO  (6 S)                    FL    EST5EDT       2 
+ORVN2   OROVADA  (3 W)                    NV    PST8PDT       2 
+OSAI4   OSAGE                             IA    CST6CDT       2 
+OSC     OSCODA                            MI    EST5EDT       2 
+OSGK1   OSAGE CITY                        KS    CST6CDT       2 
+OSH     OSHKOSH                           WI    CST6CDT       2 
+OSU     COLUMBUS                          OH    EST5EDT       2 
+OTG     WORTHINGTON                       MN    CST6CDT       2 
+OTH     NORTH BEND                        OR    PST8PDT       2 
+OTM     OTTUMWA                           IA    CST6CDT       2 
+OTOW1   OTHELLO  (8 W)                    WA    PST8PDT       2 
+OTTI2   OTTAWA  (4 SW)                    IL    CST6CDT       2 
+OTTK1   OTTAWA                            KS    CST6CDT       2 
+OTX     SPOKANE                           WA    PST8PDT       2 
+OVLW1   OROVILLE  (4 NW)                  WA    PST8PDT       2 
+OVS     BOSCOBEL                          WI    CST6CDT       2 
+OWA     OWATONNA                          MN    CST6CDT       2 
+OWB     OWENSBORO                         KY    CST6CDT       2 
+OWYO3   ADRIAN  (11 SW)                   OR    MST7MDT       2 
+OXFM6   OXFORD                            MS    CST6CDT       2 
+OZR     FORT RUCKER                       AL    CST6CDT       2 
+OZW     HOWELL                            MI    EST5EDT       2 
+P28     MEDICINE LODGE  (1 E)             KS    CST6CDT       2 
+P53     MONONGAHELA  (2 N)                PA    EST5EDT       2 
+P58     HARBOR BEACH                      MI    EST5EDT       2 
+P59     COPPER HARBOR                     MI    EST5EDT       2 
+P60     CODY  (70 W)                      WY    MST7MDT       2 
+P68     EUREKA                            NV    PST8PDT       2 
+P69     LOWELL                            ID    PST8PDT       2 
+P92     SALT POINT  (20 SSW)              LA    CST6CDT       2 
+PADW3   PADDOCK LAKE  (1  NE)             WI    CST6CDT       2 
+PAE     EVERETT                           WA    PST8PDT       2 
+PAGU1   PANGUITCH  (1 E)                  UT    MST7MDT       2 
+PAH     PADUCAH                           KY    CST6CDT       2 
+PAM     PANAMA CITY  (8 SE)               FL    CST6CDT       2 
+PARC2   PARADOX  (2 N)                    CO    MST7MDT       2 
+PASI2   PALESTINE  (2 W)                  IL    CST6CDT       2 
+PASO3   PAISLEY                           OR    PST8PDT       2 
+PATG1   PATTERSON  (1 SE)                 GA    EST5EDT       2 
+PAWI2   PAW PAW  (1 E)                    IL    CST6CDT       2 
+PBF     PINE BLUFF                        AR    CST6CDT       2 
+PBG     PLATTSBURGH                       NY    EST5EDT       2 
+PBH     PHILLIPS/PRICE_CO.                WI    CST6CDT       2 
+PBI     WEST PALM BEACH                   FL    EST5EDT       2 
+PBRC2   PUEBLO  (6 W)                     CO    MST7MDT       2 
+PCUS2   PORCUPINE  (16 NW)                SD    MST7MDT       2 
+PDC     PRAIRIE_DU_CHIEN_MUNI_A           WI    CST6CDT       2 
+PDK     ATLANTA                           GA    EST5EDT       2 
+PDNK2   PROVIDENCE                        KY    CST6CDT       2 
+PDT     PENDLETON  (3 NW)                 OR    PST8PDT       2 
+PDX     PORTLAND                          OR    PST8PDT       2 
+PELO3   MADRAS  (8 NW)                    OR    PST8PDT       2 
+PELT1   PELHAM                            TN    CST6CDT       2 
+PENO3   PENDLETON                         OR    PST8PDT       2 
+PENT1   CELINA  (9 SW)                    TN    CST6CDT       2 
+PEOI2   PEOTONE                           IL    CST6CDT       2 
+PEQ     PECOS                             TX    CST6CDT       2 
+PESW3   PESHTIGO                          WI    CST6CDT       2 
+PEYI2   PERRY  (6 NW)                     IL    CST6CDT       2 
+PFSW4   POWELL                            WY    MST7MDT       2 
+PGA     PAGE  (1 E)                       AZ    MST7          2 
+PGBM6   PORT GIBSON  (1 NW)               MS    CST6CDT       2 
+PGD     PUNTA GORDA                       FL    EST5EDT       2 
+PGEW3   PORTAGE  (3  E)                   WI    CST6CDT       2 
+PGV     GREENVILLE                        NC    EST5EDT       2 
+PGWO3   PORTLAND                          OR    PST8PDT       2 
+PHD     NEW PHILADELPHIA  (2 SE)          OH    EST5EDT       2 
+PHF     NEWPORT NEWS                      VA    EST5EDT       2 
+PHIM8   PHILIPSBURG  (2 S)                MT    MST7MDT       2 
+PHN     PORT HURON                        MI    EST5EDT       2 
+PHP     PHILIP                            SD    MST7MDT       2 
+PHX     PHOENIX                           AZ    MST7          2 
+PIA     PEORIA                            IL    CST6CDT       2 
+PICA3   PICACHO  (8 SE)                   AZ    MST7          2 
+PIE     ST PETERSBURG-CLEARWATER          FL    EST5EDT       2 
+PIH     POCATELLO  (7 NW)                 ID    MST7MDT       2 
+PION2   PIOCHE                            NV    PST8PDT       2 
+PIPA3   MOCCASIN  (2 S)                   AZ    MST7          2 
+PIR     PIERRE                            SD    CST6CDT       2 
+PIRN1   PIERCE                            NE    CST6CDT       2 
+PISC1   PISMO BEACH  (1 NW)               CA    PST8PDT       2 
+PKD     PARK RAPIDS  (2 S)                MN    CST6CDT       2 
+PKFI2   PARK FOREST                       IL    CST6CDT       2 
+PLEM8   PLEVNA                            MT    MST7MDT       2 
+PLKI1   COOLIN  (8 NW)                    ID    PST8PDT       2 
+PLKK1   POMONA  (6 WNW)                   KS    CST6CDT       2 
+PLN     PELLSTON                          MI    EST5EDT       2 
+PLNG1   PLAINS  (2 N)                     GA    EST5EDT       2 
+PLNW1   PLAIN                             WA    PST8PDT       2 
+PLRC1   PALOMAR MOUNTAIN  (3 N)           CA    PST8PDT       2 
+PLTU1   CHARLESTON  (5 SW)                UT    MST7MDT       2 
+PLZU1   PLEASANT GROVE                    UT    MST7MDT       2 
+PMD     PALMDALE  (6 NW)                  CA    PST8PDT       2 
+PMP     POMPANO BEACH                     FL    EST5EDT       2 
+PNM     PRINCETON                         MN    CST6CDT       2 
+PNS     PENSACOLA                         FL    CST6CDT       2 
+POE     FORT POLK                         LA    CST6CDT       2 
+POF     POPLAR BLUFF                      MO    CST6CDT       2 
+POGM8   LORING  (15 N)                    MT    MST7MDT       2 
+POMC1   POMONA                            CA    PST8PDT       2 
+POMW1   POMEROY                           WA    PST8PDT       2 
+PORW3   PORTAGE                           WI    CST6CDT       2 
+POTI1   POTLATCH  (1 N)                   ID    PST8PDT       2 
+POWC1   POWAY  (4 NNW)                    CA    PST8PDT       2 
+POWM8   POWDERVILLE  (8 NNE)              MT    MST7MDT       2 
+POYW3   POY SIPPI  (2  W)                 WI    CST6CDT       2 
+PPF     PARSONS                           KS    CST6CDT       2 
+PPKA3   SCOTTSDALE                        AZ    MST7          2 
+PPLN1   PAPILLION                         NE    CST6CDT       2 
+PPQ     PITTSFIELD  (3 NE)                IL    CST6CDT       2 
+PQL     PASCAGOULA                        MS    CST6CDT       2 
+PQN     PIPESTONE_(AWOS)                  MN    CST6CDT       2 
+PRAC1   PORTOLA                           CA    PST8PDT       2 
+PRB     PASO ROBLES  (5 NE)               CA    PST8PDT       2 
+PRC     PRESCOTT                          AZ    MST7          2 
+PRCI2   PRAIRIE CITY  (2 S)               IL    CST6CDT       2 
+PRDA3   PERIDOT  (9 SW)                   AZ    MST7          2 
+PRDC1   PARADISE                          CA    PST8PDT       2 
+PRDG1   PRIDGEN                           GA    EST5EDT       2 
+PRFF1   OKAHUMPKA                         FL    EST5EDT       2 
+PRG     PARIS  (5 N)                      IL    CST6CDT       2 
+PRHM4   PORT HURON  (1 NNE)               MI    EST5EDT       2 
+PRII2   PRINCEVILLE  (2 W)                IL    CST6CDT       2 
+PRLI3   DUBOIS                            IN    EST5EDT       2 
+PRMI1   PARMA  (1 N)                      ID    MST7MDT       2 
+PROU1   PROVO  (1 W)                      UT    MST7MDT       2 
+PRRK1   PERRY  (3 NW)                     KS    CST6CDT       2 
+PRSK2   PARIS                             KY    EST5EDT       2 
+PRSM7   PARIS                             MO    CST6CDT       2 
+PRSM8   WOLF POINT  (29 NE)               MT    MST7MDT       2 
+PRSO3   PROSPECT  (2 SW)                  OR    PST8PDT       2 
+PRSW4   POWDER RIVER                      WY    MST7MDT       2 
+PRTT1   PORTLAND                          TN    CST6CDT       2 
+PRUI2   PERU                              IL    CST6CDT       2 
+PRX     PARIS                             TX    CST6CDT       2 
+PRXI1   PRIEST RIVER  (8 S)               ID    PST8PDT       2 
+PSAC1   PASADENA                          CA    PST8PDT       2 
+PSC     PASCO                             WA    PST8PDT       2 
+PSKT1   PULASKI                           TN    CST6CDT       2 
+PSLF1   PORT ST LUCIE                     FL    EST5EDT       2 
+PSNA1   PINSON                            AL    CST6CDT       2 
+PSNM8   POLSON  (1 SW)                    MT    MST7MDT       2 
+PSP     PALM SPRINGS  (2 E)               CA    PST8PDT       2 
+PSPK2   PROSPECT                          KY    EST5EDT       2 
+PSTA3   PRESCOTT  (2 NE)                  AZ    MST7          2 
+PSX     PALACIOS                          TX    CST6CDT       2 
+PTFA3   PETRIFIED FOREST  (23 SSW)        AZ    MST7          2 
+PTK     PONTIAC                           MI    EST5EDT       2 
+PTKI2   PATOKA                            IL    CST6CDT       2 
+PTMF1   INDIANTOWN  (9 WSW)               FL    EST5EDT       2 
+PTN     PATTERSON                         LA    CST6CDT       2 
+PTNW4   UPTON  (14 NE)                    WY    MST7MDT       2 
+PTSM7   POTOSI  (3 N)                     MO    CST6CDT       2 
+PTT     PRATT                             KS    CST6CDT       2 
+PTV     PORTERVILLE                       CA    PST8PDT       2 
+PTWW3   PORT WASHINGTON                   WI    CST6CDT       2 
+PUB     PUEBLO                            CO    MST7MDT       2 
+PUC     PRICE                             UT    MST7MDT       2 
+PUW     PULLMAN/MOSCOW                    WA    PST8PDT       2 
+PVRN1   HEMINGFORD  (25 WSW)              NE    MST7MDT       2 
+PWC     PINE_RIVER                        MN    CST6CDT       2 
+PWK     CHICAGO/WHEELING                  IL    CST6CDT       2 
+PWMN2   ALAMO  (7 SSE)                    NV    PST8PDT       2 
+PWWI2   PARIS                             IL    CST6CDT       2 
+PXNI2   PAXTON                            IL    CST6CDT       2 
+PYSA3   PAYSON                            AZ    MST7          2 
+Q67     TAHOE CITY                        CA    PST8PDT       2 
+QCYC1   QUINCY                            CA    PST8PDT       2 
+QLDI2   QUINCY  (3 SSW)                   IL    CST6CDT       2 
+QUIW1   QUINCY                            WA    PST8PDT       2 
+RAC     RACINE                            WI    CST6CDT       2 
+RACS2   RAPID CITY                        SD    MST7MDT       2 
+RAL     RIVERSIDE                         CA    PST8PDT       2 
+RALM6   RALEIGH  (7 NW)                   MS    CST6CDT       2 
+RAMI2   RAMSEY                            IL    CST6CDT       2 
+RANC1   JOHANNESBURG                      CA    PST8PDT       2 
+RANU1   RANDOLPH  (1 SW)                  UT    MST7MDT       2 
+RAP     RAPID CITY                        SD    MST7MDT       2 
+RAPS2   RAPID CITY  (13 W)                SD    MST7MDT       2 
+RBG     ROSEBURG                          OR    PST8PDT       2 
+RBGW3   REEDSBURG  (2 E)                  WI    CST6CDT       2 
+RBNN7   ROBBINSVILLE                      NC    EST5EDT       2 
+RBSI2   ROBINSON  (2 W)                   IL    CST6CDT       2 
+RCHI2   ROCHELLE                          IL    CST6CDT       2 
+RCKG1   THE ROCK                          GA    EST5EDT       2 
+RCNW3   RACINE                            WI    CST6CDT       2 
+RDBW3   REEDSBURG  (1 NNE)                WI    CST6CDT       2 
+RDD     REDDING                           CA    PST8PDT       2 
+RDK     RED_OAK                           IA    CST6CDT       2 
+RDM     REDMOND                           OR    PST8PDT       2 
+RDMK2   RUDDELS MILLS                     KY    EST5EDT       2 
+RDOC1   REDONDO BEACH                     CA    PST8PDT       2 
+RDR     GRAND FORKS                       ND    CST6CDT       2 
+RDWM5   REDWING                           MN    CST6CDT       2 
+REDI2   RED BUD                           IL    CST6CDT       2 
+RELM8   RED LODGE  (2 N)                  MT    MST7MDT       2 
+REO     ROME  (21 SW)                     OR    MST7MDT       2 
+REV     RENO                              NV    PST8PDT       2 
+REWM5   REDWOOD FALLS                     MN    CST6CDT       2 
+RFD     ROCKFORD                          IL    CST6CDT       2 
+RFDM5   ROCKFORD                          MN    CST6CDT       2 
+RGK     RED_WING                          MN    CST6CDT       2 
+RHI     RHINELANDER                       WI    CST6CDT       2 
+RHIW3   RHINELANDER                       WI    CST6CDT       2 
+RHTW3   ROSHOLT  (9 NNE)                  WI    CST6CDT       2 
+RIC     RICHMOND                          VA    EST5EDT       2 
+RIFU1   RICHFIELD                         UT    MST7MDT       2 
+RIL     RIFLE  (3 ESE)                    CO    MST7MDT       2 
+RIPI2   RIPLEY                            IL    CST6CDT       2 
+RIV     RIVERSIDE                         CA    PST8PDT       2 
+RIW     RIVERTON  (3 NW)                  WY    MST7MDT       2 
+RKP     ROCKPORT                          TX    CST6CDT       2 
+RKS     ROCK SPRINGS  (8 E)               WY    MST7MDT       2 
+RKVI4   ROCK VALLEY                       IA    CST6CDT       2 
+RLAM8   ROUNDUP  (15 SW)                  MT    MST7MDT       2 
+RLD     RICHLAND                          WA    PST8PDT       2 
+RLGW1   LONGMIRE                          WA    PST8PDT       2 
+RLLK1   RUSSELL SPRINGS  (3 N)            KS    CST6CDT       2 
+RLTC1   RIALTO  (1 NNW)                   CA    PST8PDT       2 
+RMG     ROME                              GA    EST5EDT       2 
+RMGI3   REMINGTON  (2 NNW)                IN    CST6CDT       2 
+RMOT2   RICHMOND                          TX    CST6CDT       2 
+RNDN2   RYNDON  (1 NW)                    NV    PST8PDT       2 
+RNGC2   RANGELY  (2 E)                    CO    MST7MDT       2 
+RNM     RAMONA                            CA    PST8PDT       2 
+RNMS2   KEYSTONE  (2 SW)                  SD    MST7MDT       2 
+RNO     RENO  (1 SE)                      NV    PST8PDT       2 
+ROA     ROANOKE                           VA    EST5EDT       2 
+ROAI2   ROANOKE                           IL    CST6CDT       2 
+ROBN7   ROBBINSVILLE  (5 NE)              NC    EST5EDT       2 
+ROG     ROGERS  (4 NNE)                   AR    CST6CDT       2 
+ROGO3   ROSEBURG  (1 NW)                  OR    PST8PDT       2 
+ROOA3   ROOSEVELT                         AZ    MST7          2 
+ROPM8   ROUNDUP                           MT    MST7MDT       2 
+ROSU1   ROOSEVELT  (2 ESE)                UT    MST7MDT       2 
+ROX     ROSEAU                            MN    CST6CDT       2 
+RPD     RICE_LAKE                         WI    CST6CDT       2 
+RPJM8   RAPELJE  (4 S)                    MT    MST7MDT       2 
+RQB     BIG RAPIDS                        MI    EST5EDT       2 
+RQE     WINDOW ROCK                       AZ    MST7          2 
+RRGM7   ROLLA                             MO    CST6CDT       2 
+RRL     MERRILL MUNICIPAL AIRPO           WI    CST6CDT       2 
+RRLK2   FALLS OF ROUGH                    KY    CST6CDT       2 
+RRT     WARROAD_INTL_ARPT                 MN    CST6CDT       2 
+RRVM4   RAPID RIVER  (9 S)                MI    EST5EDT       2 
+RSCI2   ROSCOE  (2 SE)                    IL    CST6CDT       2 
+RSFW4   ROCK SPRINGS                      WY    MST7MDT       2 
+RSL     RUSSELL                           KS    CST6CDT       2 
+RSLW1   ROSALIA                           WA    PST8PDT       2 
+RST     ROCHESTER                         MN    CST6CDT       2 
+RSV     ROBINSON  (4 E)                   IL    CST6CDT       2 
+RSW     FORT MYERS                        FL    EST5EDT       2 
+RTHN2   ELY  (6 WNW)                      NV    PST8PDT       2 
+RUCO3   JACKSONVILLE  (8 SW)              OR    PST8PDT       2 
+RUE     RUSSELLVILLE                      AR    CST6CDT       2 
+RWCC1   REDWOOD CITY                      CA    PST8PDT       2 
+RWCI4   ROCKWELL CITY                     IA    CST6CDT       2 
+RWF     REDWOOD FALLS                     MN    CST6CDT       2 
+RWL     RAWLINS                           WY    MST7MDT       2 
+RXE     REXBURG                           ID    MST7MDT       2 
+RYGM8   RYEGATE  (18 NNW)                 MT    MST7MDT       2 
+RYV     WATERTOWN                         WI    CST6CDT       2 
+RZLI3   RENSSLEAR                         IN    CST6CDT       2 
+RZN     SIREN  (3 N)                      WI    CST6CDT       2 
+RZVW1   RITZVILLE                         WA    PST8PDT       2 
+S72     ST. MARIES                        ID    PST8PDT       2 
+SAA     SARATOGA                          WY    MST7MDT       2 
+SAAI2   ST ANNE                           IL    CST6CDT       2 
+SAC     SACRAMENTO                        CA    PST8PDT       2 
+SAD     SAFFORD                           AZ    MST7          2 
+SAFA3   SAFFORD  (2 SSE)                  AZ    MST7          2 
+SAN     SAN DIEGO  (2 SE)                 CA    PST8PDT       2 
+SANI4   ST ANSGAR                         IA    CST6CDT       2 
+SARC1   SAN RAFAEL  (2 N)                 CA    PST8PDT       2 
+SAT     SAN ANTONIO                       TX    CST6CDT       2 
+SAV     SAVANNAH                          GA    EST5EDT       2 
+SAW     GWINN                             MI    EST5EDT       2 
+SAYI2   SAYBROOK                          IL    CST6CDT       2 
+SAZ     STAPLES                           MN    CST6CDT       2 
+SBA     SANTA BARBARA  (11 W)             CA    PST8PDT       2 
+SBDW4   SHOSHONI  (13 NNW)                WY    MST7MDT       2 
+SBEW3   STURGEON BAY                      WI    CST6CDT       2 
+SBM     SHEBOYGAN                         WI    CST6CDT       2 
+SBMW1   LINCOLN  (4 NE)                   WA    PST8PDT       2 
+SBN     SOUTH BEND                        IN    EST5EDT       2 
+SBP     SAN LUIS OBISPO                   CA    PST8PDT       2 
+SBPC1   SAN LUIS OBISPO  (2 N)            CA    PST8PDT       2 
+SBRM8   HUNTLEY  (4 NE)                   MT    MST7MDT       2 
+SBS     STEAMBOAT SPRINGS  (1 NW)         CO    MST7MDT       2 
+SBTC2   STEAMBOAT SPRINGS  (1 NW)         CO    MST7MDT       2 
+SBY     SALISBURY                         MD    EST5EDT       2 
+SCHN1   SCHUYLER                          NE    CST6CDT       2 
+SCIA3   FLAGSTAFF  (15 NE)                AZ    MST7          2 
+SCK     STOCKTON  (5 SSE)                 CA    PST8PDT       2 
+SCKI2   ST. CHARLES  (7 NW)               IL    CST6CDT       2 
+SCOM8   SCOBEY  (4 NW)                    MT    MST7MDT       2 
+SCRC1   SANTA CRUZ                        CA    PST8PDT       2 
+SCTK2   SCOTTSVILLE  (3 SSW)              KY    CST6CDT       2 
+SDA     SHENANDOAH_MUNI                   IA    CST6CDT       2 
+SDB     SANDBERG                          CA    PST8PDT       2 
+SDF     LOUISVILLE                        KY    EST5EDT       2 
+SDHI4   SHENANDOAH  (1 NE)                IA    CST6CDT       2 
+SDL     SCOTTSDALE                        AZ    MST7          2 
+SDM     SAN DIEGO                         CA    PST8PDT       2 
+SDMA3   TUCSON  (11 WNW)                  AZ    MST7          2 
+SDNW4   SUNDANCE                          WY    MST7MDT       2 
+SDVI2   ST DAVID                          IL    CST6CDT       2 
+SDY     SIDNEY                            MT    MST7MDT       2 
+SDYM8   SIDNEY  (1 NE)                    MT    MST7MDT       2 
+SEA     SEATTLE  (1 NW)                   WA    PST8PDT       2 
+SELA3   SELIGMAN                          AZ    MST7          2 
+SELM8   SEELEY LAKE  (3 NW)               MT    MST7MDT       2 
+SELW1   SELAH  (2 NE)                     WA    PST8PDT       2 
+SENO3   SENACA                            OR    PST8PDT       2 
+SET     ST CHARLES                        MO    CST6CDT       2 
+SEVA3   SIERRA FIESTA                     AZ    MST7          2 
+SEW     SEATTLE  (7 NE)                   WA    PST8PDT       2 
+SFB     ORLANDO                           FL    EST5EDT       2 
+SFDI2   SPRINGFIELD  (3 N)                IL    CST6CDT       2 
+SFF     SPOKANE                           WA    PST8PDT       2 
+SFFM7   STEFFENVILLE                      MO    CST6CDT       2 
+SFKN2   ELKO  (12 SSW)                    NV    PST8PDT       2 
+SFO     SAN FRANCISCO                     CA    PST8PDT       2 
+SFOC1   SAN FRANCISCO                     CA    PST8PDT       2 
+SGF     SPRINGFIELD                       MO    CST6CDT       2 
+SGJ     ST AUGUSTINE                      FL    EST5EDT       2 
+SGLC2   LEADVILLE  (4 W)                  CO    MST7MDT       2 
+SGNM7   STE. GENEVIEVE                    MO    CST6CDT       2 
+SGR     HOUSTON                           TX    CST6CDT       2 
+SGS     SOUTH ST. PAUL                    MN    CST6CDT       2 
+SGT     STUTTGART                         AR    CST6CDT       2 
+SGUU1   SAINT GEORGE                      UT    MST7MDT       2 
+SGX     RANCHO BERNARDO  (1 W)            CA    PST8PDT       2 
+SHAW3   SHAWANO                           WI    CST6CDT       2 
+SHET1   SHELBYVILLE                       TN    CST6CDT       2 
+SHIW3   SHIOCTON                          WI    CST6CDT       2 
+SHLN1   SHELBY  (3 NE)                    NE    CST6CDT       2 
+SHLW4   SHELL                             WY    MST7MDT       2 
+SHMF1   CROSS CITY  (16 W)                FL    EST5EDT       2 
+SHN     SHELTON  (2 NW)                   WA    PST8PDT       2 
+SHNW3   SHEBOYGAN  (5 SW)                 WI    CST6CDT       2 
+SHR     SHERIDAN                          WY    MST7MDT       2 
+SHRI2   SHERMAN                           IL    CST6CDT       2 
+SHRK1   SHARON SPRINGS                    KS    MST7MDT       2 
+SHV     SHREVEPORT                        LA    CST6CDT       2 
+SHVC1   SHAVER LAKE POINT  (2 SE)         CA    PST8PDT       2 
+SIDI2   SIDELL  (5 NW)                    IL    CST6CDT       2 
+SIDW1   CLARKSTON  (7 W)                  WA    PST8PDT       2 
+SILI2   SULLIVAN  (3 S)                   IL    CST6CDT       2 
+SILM5   SILVER BAY                        MN    CST6CDT       2 
+SIPM8   SIMPSON  (6 NW)                   MT    MST7MDT       2 
+SIXI4   SIOUX CENTER  (2 SE)              IA    CST6CDT       2 
+SIY     MONTAGUE  (5 NE)                  CA    PST8PDT       2 
+SJC     SAN JOSE                          CA    PST8PDT       2 
+SJN     ST JOHNS                          AZ    MST7          2 
+SJT     SAN ANGELO                        TX    CST6CDT       2 
+SKSF1   OKEECHOBEE  (6 WSW)               FL    EST5EDT       2 
+SLBF1   BROOKSVILLE  (8 SE)               FL    EST5EDT       2 
+SLBM7   SHELBINA                          MO    CST6CDT       2 
+SLC     SALT LAKE CITY  (1 E)             UT    MST7MDT       2 
+SLCF1   INDIANTOWN  (10 WSW)              FL    EST5EDT       2 
+SLCU1   SALT LAKE CITY                    UT    MST7MDT       2 
+SLE     SALEM                             OR    PST8PDT       2 
+SLG     SILOAM SPRINGS                    AR    CST6CDT       2 
+SLK     SARANAC LAKE                      NY    EST5EDT       2 
+SLLM7   SULLIVAN                          MO    CST6CDT       2 
+SLLT1   RED BOILING SPRINGS  (1 NW)       TN    CST6CDT       2 
+SLN     SALINA                            KS    CST6CDT       2 
+SLO     SALEM                             IL    CST6CDT       2 
+SLOI2   SALEM                             IL    CST6CDT       2 
+SLVN2   SILVERPEAK                        NV    PST8PDT       2 
+SMCA1   CROSSVILLE                        AL    CST6CDT       2 
+SMIT1   SMITHVILLE  (2 SE)                TN    CST6CDT       2 
+SMN     SALMON                            ID    MST7MDT       2 
+SMNF1   TALLAHASSEE  (21 SSE)             FL    EST5EDT       2 
+SMO     SANTA MONICA                      CA    PST8PDT       2 
+SMP     STAMPEDE PASS  (9 NW)             WA    PST8PDT       2 
+SMTA3   GREER  (18 ESE)                   AZ    MST7          2 
+SMVC1   SIMI VALIEY                       CA    PST8PDT       2 
+SMX     SANTA MARIA  (6 S)                CA    PST8PDT       2 
+SNA     SANTA ANA  (2 NNW)                CA    PST8PDT       2 
+SNBI4   SANBORN                           IA    CST6CDT       2 
+SNGN8   LISBON  (18 E)                    ND    CST6CDT       2 
+SNKW4   SNAKE RIVER                       WY    MST7MDT       2 
+SNSC1   SALINAS                           CA    PST8PDT       2 
+SNT     STANLEY                           ID    MST7MDT       2 
+SNTC1   SANTEE                            CA    PST8PDT       2 
+SNVC1   SUSANVILLE  (2 SW)                CA    PST8PDT       2 
+SNWI2   STREAMWOOD  (1 NE)                IL    CST6CDT       2 
+SNY     SIDNEY                            NE    MST7MDT       2 
+SOL     ADDISON                           VT    EST5EDT       2 
+SOW     SHOW LOW  (1 SW)                  AZ    MST7          2 
+SOX     SANTA ANA MOUNTAINS               CA    PST8PDT       2 
+SPAT1   SPARTA  (2 NNW)                   TN    CST6CDT       2 
+SPB     SCAPPOOSE                         OR    PST8PDT       2 
+SPD     SPRINGFIELD                       CO    MST7MDT       2 
+SPEM7   ST LOUIS                          MO    CST6CDT       2 
+SPES2   SPEARFISH                         SD    MST7MDT       2 
+SPFU1   SPANISH FORK  (4 NW)              UT    MST7MDT       2 
+SPGC1   BEAR VALLEY  (9 WNW)              CA    PST8PDT       2 
+SPI     SPRINGFIELD                       IL    CST6CDT       2 
+SPNI2   SPRINGFIELD  (4 SE)               IL    CST6CDT       2 
+SPPN7   SPRUCE PINE                       NC    EST5EDT       2 
+SPRI2   SPARTA                            IL    CST6CDT       2 
+SPRT1   SPRINGFIELD  (3 SE)               TN    CST6CDT       2 
+SPS     WICHITA FALLS  (4 N)              TX    CST6CDT       2 
+SPSN2   SPARKS  (7 N)                     NV    PST8PDT       2 
+SPST1   SPRINGFIELD                       TN    CST6CDT       2 
+SPVA3   SPRINGERVILLE                     AZ    MST7          2 
+SPVC1   SPRING VALLEY  (4 SSE)            CA    PST8PDT       2 
+SPVN1   SPRINGVIEW                        NE    CST6CDT       2 
+SPVN2   PIOCHE  (16 NE)                   NV    PST8PDT       2 
+SPW     SPENCER                           IA    CST6CDT       2 
+SQI     STERLING ROCKFALLS                IL    CST6CDT       2 
+SRCN2   SEARCHLIGHT                       NV    PST8PDT       2 
+SRKN2   SPARKS  (2 NNE)                   NV    PST8PDT       2 
+SRQ     SARASOTA/BRADENTON                FL    EST5EDT       2 
+SSF     SAN ANTONIO                       TX    CST6CDT       2 
+SSHW4   SHOSHONI                          WY    MST7MDT       2 
+SSI     BRUNSWICK                         GA    EST5EDT       2 
+SSPW3   SOLON SPRINGS                     WI    CST6CDT       2 
+STAC1   SANTA ANA                         CA    PST8PDT       2 
+STAF1   ST. AUGUSTINE                     FL    EST5EDT       2 
+STAI2   STREATOR  (2 ENE)                 IL    CST6CDT       2 
+STAN2   STATELINE                         NV    PST8PDT       2 
+STAW3   STANLEY                           WI    CST6CDT       2 
+STBI2   ST. LIBORY                        IL    CST6CDT       2 
+STC     ST CLOUD                          MN    CST6CDT       2 
+STDI3   STENDAL                           IN    EST5EDT       2 
+STDN2   RENO  (8 NW)                      NV    PST8PDT       2 
+STE     STEVENS POINT                     WI    CST6CDT       2 
+STEW1   STEHEKIN  (4 NW)                  WA    PST8PDT       2 
+STJ     SAINT JOSEPH                      MO    CST6CDT       2 
+STL     ST LOUIS                          MO    CST6CDT       2 
+STLT1   STATESVILLE                       TN    CST6CDT       2 
+STOI2   STOCKTON  (1 N)                   IL    CST6CDT       2 
+STOM7   STOCKTON                          MO    CST6CDT       2 
+STOW3   STOUGHTON                         WI    CST6CDT       2 
+STOW4   STORY                             WY    MST7MDT       2 
+STP     ST. PAUL                          MN    CST6CDT       2 
+STPN1   SAINT PAUL                        NE    CST6CDT       2 
+STPW3   STEVENS POINT                     WI    CST6CDT       2 
+STRW1   STEHEKIN  (4 NW)                  WA    PST8PDT       2 
+STRW3   STRATFORD  (2 NNW)                WI    CST6CDT       2 
+STSC1   SANTA ROSA                        CA    PST8PDT       2 
+STWI2   STEWARD                           IL    CST6CDT       2 
+STYI4   STORY CITY                        IA    CST6CDT       2 
+SUBK1   SUBLETTE  (5 E)                   KS    CST6CDT       2 
+SUE     STURGEON BAY                      WI    CST6CDT       2 
+SUGT2   SUGAR LAND                        TX    CST6CDT       2 
+SULM8   SULA  (3 ENE)                     MT    MST7MDT       2 
+SUNW1   SUNNYSIDE                         WA    PST8PDT       2 
+SUNW4   SUNSHINE  (2 ENE)                 WY    MST7MDT       2 
+SUPM8   SUPERIOR                          MT    MST7MDT       2 
+SUS     ST LOUIS                          MO    CST6CDT       2 
+SUW     SUPERIOR_(AWOS)                   WI    CST6CDT       2 
+SUX     SIOUX CITY                        IA    CST6CDT       2 
+SVRM7   SAVERTON                          MO    CST6CDT       2 
+SWDC1   SAN DIEGO  (1 NW)                 CA    PST8PDT       2 
+SWLM8   SWAN LAKE                         MT    MST7MDT       2 
+SXGI4   SIOUX CITY                        IA    CST6CDT       2 
+SXT     SEXTON SUMMIT  (10 N)             OR    PST8PDT       2 
+SYGW3   SHEBOYGAN  (2 S)                  WI    CST6CDT       2 
+SYNW3   SHEBOYGAN  (1 SW)                 WI    CST6CDT       2 
+SZL     KNOB NOSTER                       MO    CST6CDT       2 
+TACA3   TACNA  (3 NE)                     AZ    MST7          2 
+TACC2   TACONY  (10 SE)                   CO    MST7MDT       2 
+TAD     TRINIDAD                          CO    MST7MDT       2 
+TAHC1   TAHOE CITY                        CA    PST8PDT       2 
+TAHW3   FOND DU LAC  (7 NE)               WI    CST6CDT       2 
+TAYN1   TAYLOR                            NE    CST6CDT       2 
+TAZ     TAYLORVILLE                       IL    CST6CDT       2 
+TBN     FORT LEONARDWOOD                  MO    CST6CDT       2 
+TCL     TUSCALOOSA                        AL    CST6CDT       2 
+TCM     TACOMA                            WA    PST8PDT       2 
+TCRM8   TROUT CREEK  (3 NW)               MT    MST7MDT       2 
+TDLC2   TRINIDAD  (3 WSW)                 CO    MST7MDT       2 
+TDZ     TOLEDO                            OH    EST5EDT       2 
+TEAU1   TEASDALE  (11 E)                  UT    MST7MDT       2 
+TELI3   TELL CITY                         IN    EST5EDT       2 
+TEX     TELLURIDE  (4 WNW)                CO    MST7MDT       2 
+TGPK1   STRONG CITY  (1 NW)               KS    CST6CDT       2 
+THMW4   THERMOPOLIS                       WY    MST7MDT       2 
+THOM8   THOMPSON FALLS                    MT    MST7MDT       2 
+THOT1   THOMPSONS STATION                 TN    CST6CDT       2 
+THVG1   THOMASVILLE  (3 NE)               GA    EST5EDT       2 
+TIP     RANTOUL  (1 SSE)                  IL    CST6CDT       2 
+TIW     TACOMA                            WA    PST8PDT       2 
+TKI     MCKINNEY                          TX    CST6CDT       2 
+TLCF1   TAYLOR CREEK                      FL    EST5EDT       2 
+TLH     TALLAHASSEE                       FL    EST5EDT       2 
+TLRK2   TAYLORSVILLE                      KY    EST5EDT       2 
+TMA     TIFTON                            GA    EST5EDT       2 
+TMB     MIAMI                             FL    EST5EDT       2 
+TMPK2   TOMPKINSVILLE                     KY    CST6CDT       2 
+TNAC1   TRONA                             CA    PST8PDT       2 
+TNMA3   CLARKDALE  (2 E)                  AZ    MST7          2 
+TNRM8   TURNER  (11 NNE)                  MT    MST7MDT       2 
+TNSW4   TEN SLEEP  (16 SSE)               WY    MST7MDT       2 
+TNU     OTTUMWA                           IA    CST6CDT       2 
+TOB     DODGE_CENTER                      MN    CST6CDT       2 
+TOEU1   TOOELE                            UT    MST7MDT       2 
+TOI     TROY                              AL    CST6CDT       2 
+TOL     TOLEDO                            OH    EST5EDT       2 
+TOMA3   TOMBSTONE  (1 ESE)                AZ    MST7          2 
+TOP     TOPEKA                            KS    CST6CDT       2 
+TOR     TORRINGTON                        WY    MST7MDT       2 
+TOUI2   TOULON  (2 SSW)                   IL    CST6CDT       2 
+TOWM5   TOWER  (3 S)                      MN    CST6CDT       2 
+TOWM8   TOWNSEND  (1 WNW)                 MT    MST7MDT       2 
+TPA     TAMPA                             FL    EST5EDT       2 
+TPH     TONOPAH  (7 E)                    NV    PST8PDT       2 
+TPKF1   STUART  (6 W)                     FL    EST5EDT       2 
+TPL     TEMPLE                            TX    CST6CDT       2 
+TQE     TEKAMAH                           NE    CST6CDT       2 
+TRBC2   ALMONT  (18 N)                    CO    MST7MDT       2 
+TRBK1   TRIBUNE  (1 W)                    KS    MST7MDT       2 
+TRI     BRISTOL/JOHNSON/KINGSPOR          TN    EST5EDT       2 
+TRK     TRUCKEE  (2 E)                    CA    PST8PDT       2 
+TRL     TERREL                            TX    CST6CDT       2 
+TRM     THERMAL  (1 WSW)                  CA    PST8PDT       2 
+TRMK2   MOREHEAD  (2 ESE)                 KY    EST5EDT       2 
+TSP     TEHACHAPI  (2 SE)                 CA    PST8PDT       2 
+TTD     PORTLAND                          OR    PST8PDT       2 
+TTF     MONROE                            MI    EST5EDT       2 
+TTNN1   TRENTON                           NE    CST6CDT       2 
+TUNM6   TUNICA                            MS    CST6CDT       2 
+TUP     TUPELO                            MS    CST6CDT       2 
+TUPM6   TUPELO                            MS    CST6CDT       2 
+TUS     TUCSON                            AZ    MST7          2 
+TUSI2   TUSCOLA                           IL    CST6CDT       2 
+TVC     TRAVERSE CITY                     MI    EST5EDT       2 
+TVF     THIEF RIVER FALLS                 MN    CST6CDT       2 
+TVL     SOUTH LAKE TAHOE                  CA    PST8PDT       2 
+TVLK2   TAYLORSVILLE                      KY    EST5EDT       2 
+TVR     VICKSBURG                         MS    CST6CDT       2 
+TWF     TWIN FALLS                        ID    MST7MDT       2 
+TWM     TWO_HARBORS                       MN    CST6CDT       2 
+TWNC2   TWIN LAKES  (2 NE)                CO    MST7MDT       2 
+TWRW1   CHENEY  (5 SE)                    WA    PST8PDT       2 
+TXK     TEXARKANA                         AR    CST6CDT       2 
+TYEC1   TWENTYNINE PALMS  (1 SE)          CA    PST8PDT       2 
+TYR     TYLER                             TX    CST6CDT       2 
+TYS     KNOXVILLE  (3 E)                  TN    EST5EDT       2 
+U24     DELTA  (1 SSW)                    UT    MST7MDT       2 
+UAHA1   HUNTSVILLE                        AL    CST6CDT       2 
+UAO     AURORA                            OR    PST8PDT       2 
+UBKW1   CONCRETE  (8 NNE)                 WA    PST8PDT       2 
+UCLC1   BEVERLY HILLS  (2 W)              CA    PST8PDT       2 
+UES     WAUKESHA                          WI    CST6CDT       2 
+UGN     WAUKEGAN                          IL    CST6CDT       2 
+UIL     QUILLAYUTE                        WA    PST8PDT       2 
+UIN     QUINCY                            IL    CST6CDT       2 
+UKI     UKIAH                             CA    PST8PDT       2 
+ULM     NEW ULM                           MN    CST6CDT       2 
+UMCM7   COLUMBIA                          MO    CST6CDT       2 
+UNGN1   UEHLING                           NE    CST6CDT       2 
+UNO     WEST PLAINS                       MO    CST6CDT       2 
+UNRS2   RAPID CITY                        SD    MST7MDT       2 
+UNU     JUNEAU                            WI    CST6CDT       2 
+UNVT1   UNIONVILLE                        TN    CST6CDT       2 
+UPSW3   UPSON                             WI    CST6CDT       2 
+URBI2   URBANA  (4 SSW)                   IL    CST6CDT       2 
+UTCN1   UTICA                             NE    CST6CDT       2 
+UTRU1   TOOELE  (49 NW)                   UT    MST7MDT       2 
+UTS     HUNTSVILLE                        TX    CST6CDT       2 
+VAD     VALDOSTA                          GA    EST5EDT       2 
+VALG1   VALDOSTA  (4 WNW)                 GA    EST5EDT       2 
+VALW3   VALDERS                           WI    CST6CDT       2 
+VBRM7   VIBURNUM                          MO    CST6CDT       2 
+VBT     BENTONVILLE  (2 S)                AR    CST6CDT       2 
+VCB     VACAVILLE                         CA    PST8PDT       2 
+VCKM4   VICKSBURG  (2 E)                  MI    EST5EDT       2 
+VCT     VICTORIA                          TX    CST6CDT       2 
+VEF     LAS VEGAS                         NV    PST8PDT       2 
+VEL     VERNAL  (1 SSE)                   UT    MST7MDT       2 
+VGT     LAS VEGAS                         NV    PST8PDT       2 
+VICM6   VICKSBURG                         MS    CST6CDT       2 
+VIH     VICHY                             MO    CST6CDT       2 
+VIS     VISALIA                           CA    PST8PDT       2 
+VLD     VALDOSTA                          GA    EST5EDT       2 
+VLRM8   VALIER                            MT    MST7MDT       2 
+VLYK1   VALLEY FALLS                      KS    CST6CDT       2 
+VNDM7   VANDALIA                          MO    CST6CDT       2 
+VNY     VAN NUYS                          CA    PST8PDT       2 
+VOFN2   OVERTON  (9 SE)                   NV    PST8PDT       2 
+VOK     CAMP DOUGLAS                      WI    CST6CDT       2 
+VPC     CARTERSVILLE                      GA    EST5EDT       2 
+VPOI3   VALPARAISO  (5 NNE)               IN    CST6CDT       2 
+VPS     VALPARAISO                        FL    CST6CDT       2 
+VPZ     VALPARAISO                        IN    CST6CDT       2 
+VRB     VERO BEACH                        FL    EST5EDT       2 
+VRCN2   VIRGINIA CITY                     NV    PST8PDT       2 
+VREI2   VIRGINIA                          IL    CST6CDT       2 
+VSF     SPRINGFIELD                       VT    EST5EDT       2 
+VSTC1   VISTA  (2 NNE)                    CA    PST8PDT       2 
+VTA     NEWARK                            OH    EST5EDT       2 
+VTN     VALENTINE  (1 N)                  NE    CST6CDT       2 
+VTUC1   VENTURA  (4 E)                    CA    PST8PDT       2 
+VUO     VANCOUVER                         WA    PST8PDT       2 
+VVV     ORTONVILLE                        MN    CST6CDT       2 
+VWU     WASKISH_MUNI_APRT                 MN    CST6CDT       2 
+WAL     WALLOPS ISLAND                    VA    EST5EDT       2 
+WALA3   FLAGSTAFF  (8 ESE)                AZ    MST7          2 
+WALC2   WALSENBURG                        CO    MST7MDT       2 
+WAMK1   WAMEGO                            KS    CST6CDT       2 
+WART1   WARTRACE  (6 E)                   TN    CST6CDT       2 
+WASC1   WASCO                             CA    PST8PDT       2 
+WASM5   WASECA                            MN    CST6CDT       2 
+WASM7   WASOLA                            MO    CST6CDT       2 
+WAST2   WASHINGTON                        TX    CST6CDT       2 
+WASW3   WASHINGTON ISLAND                 WI    CST6CDT       2 
+WATI2   WATSEKA  (2 NW)                   IL    CST6CDT       2 
+WATW3   WATERTOWN                         WI    CST6CDT       2 
+WAUI4   WAUKON                            IA    CST6CDT       2 
+WAVC2   WAVERLY  (1 W)                    CO    MST7MDT       2 
+WBNG1   WOODBINE                          GA    EST5EDT       2 
+WCBI4   WAUKEE  (4 NE)                    IA    CST6CDT       2 
+WCCI4   GRIMES  (4 WSW)                   IA    CST6CDT       2 
+WCCW3   WAUKESHA                          WI    CST6CDT       2 
+WCDI4   WAUKEE  (2 NNW)                   IA    CST6CDT       2 
+WCLM4   WHITE CLOUD  (4 SE)               MI    EST5EDT       2 
+WDBK2   WOODBURY                          KY    CST6CDT       2 
+WDBT1   WOODBURY                          TN    CST6CDT       2 
+WDEW3   WISCONSIN DELLS                   WI    CST6CDT       2 
+WDVM6   WOODVILLE  (4 ESE)                MS    CST6CDT       2 
+WEFN8   WILLISTON                         ND    CST6CDT       2 
+WELM5   WELLS  (1 NW)                     MN    CST6CDT       2 
+WELU1   WELLINGTON  (3 E)                 UT    MST7MDT       2 
+WFDW3   WATERFORD  (1 NW)                 WI    CST6CDT       2 
+WGLM8   WEST GLACIER  (1 N)               MT    MST7MDT       2 
+WGSM8   WHITE SULPHUR SPRINGS  (1 SE)     MT    MST7MDT       2 
+WGVN2   WINNEMUCCA  (2 SW)                NV    PST8PDT       2 
+WHGM7   WASHINGTON                        MO    CST6CDT       2 
+WHKN8   WISHEK                            ND    CST6CDT       2 
+WHLI2   WHITE HALL  (1 E)                 IL    CST6CDT       2 
+WHTI2   WHEATON  (3 SE)                   IL    CST6CDT       2 
+WHTW3   WHITEWATER                        WI    CST6CDT       2 
+WILA3   WILLCOX  (1 NNW)                  AZ    MST7          2 
+WING1   WINTERVILLE                       GA    EST5EDT       2 
+WINI1   WINCHESTER                        ID    PST8PDT       2 
+WINO3   WINCHESTER  (1 E)                 OR    PST8PDT       2 
+WISI2   WINDSOR                           IL    CST6CDT       2 
+WISM8   WISDOM                            MT    MST7MDT       2 
+WJF     LANCASTER  (5 NW)                 CA    PST8PDT       2 
+WKBA3   WICKENBURG                        AZ    MST7          2 
+WKYK1   WAKEENEY                          KS    CST6CDT       2 
+WLBI4   WILLIAMSBURG                      IA    CST6CDT       2 
+WLD     WINFIELD/ARKANSAS CITY            KS    CST6CDT       2 
+WLDM5   TAYLOR FALLS  (8 NW)              MN    CST6CDT       2 
+WLFI4   WALFORD  (2 SE)                   IA    CST6CDT       2 
+WLFM8   WOLF POINT                        MT    MST7MDT       2 
+WLLA3   WILLIAMS                          AZ    MST7          2 
+WLLK1   WALLACE                           KS    MST7MDT       2 
+WLSC2   WALSH  (1 W)                      CO    MST7MDT       2 
+WLSK1   WILSON  (10 N)                    KS    CST6CDT       2 
+WLWN8   WILLOW CITY                       ND    CST6CDT       2 
+WMAK1   WASHINGTON                        KS    CST6CDT       2 
+WMC     WINNEMUCCA                        NV    PST8PDT       2 
+WNBT1   WAYNESBORO                        TN    CST6CDT       2 
+WNDS2   HOT SPRINGS  (8 N)                SD    MST7MDT       2 
+WNOM6   WINONA  (5 E)                     MS    CST6CDT       2 
+WNPW1   WINTHROP  (1 WSW)                 WA    PST8PDT       2 
+WNRI2   WINCHESTER                        IL    CST6CDT       2 
+WOBI2   WOOD HULL  (7 E)                  IL    CST6CDT       2 
+WODI2   WOODSTOCK  (5 NW)                 IL    CST6CDT       2 
+WORI2   LOVINGTON                         IL    CST6CDT       2 
+WPKW3   MILWAUKEE                         WI    CST6CDT       2 
+WPPM7   WAPPAPELLO                        MO    CST6CDT       2 
+WPTA3   FLAGSTAFF  (28 W)                 AZ    MST7          2 
+WPTW3   WIND POINT  (2 SE)                WI    CST6CDT       2 
+WRIC1   WRIGHTWOOD                        CA    PST8PDT       2 
+WRL     WORLAND  (3 S)                    WY    MST7MDT       2 
+WROW3   WILD ROSE  (6  E)                 WI    CST6CDT       2 
+WRRG1   WARRENTON  (2 E)                  GA    EST5EDT       2 
+WSBM8   WESTBY                            MT    MST7MDT       2 
+WSCT2   WEST COLUMBIA  (1 ESE)            TX    CST6CDT       2 
+WSGF1   WHITE SPRINGS  (7 N)              FL    EST5EDT       2 
+WSHG1   WASHINGTON  (2 ESE)               GA    EST5EDT       2 
+WSKW3   WAUSAUKEE                         WI    CST6CDT       2 
+WSTN1   WESTERN                           NE    CST6CDT       2 
+WSTW3   WEST BEND FIRE STATION            WI    CST6CDT       2 
+WTMW1   WALLA WALLA  (6 WSW)              WA    PST8PDT       2 
+WTNM4   WATTON  (3 W)                     MI    EST5EDT       2 
+WTNM7   WARRENTON  (1 N)                  MO    CST6CDT       2 
+WTRM4   WATERSMEET  (12 SW)               MI    CST6CDT       2 
+WTTM5   WATERTOWN                         MN    CST6CDT       2 
+WUFW3   WOODRUFF  (2 E)                   WI    CST6CDT       2 
+WUPA3   WIKIEUP                           AZ    MST7          2 
+WYGW3   WEYAUWEGA                         WI    CST6CDT       2 
+WYS     WEST YELLOWSTONE                  MT    MST7MDT       2 
+WYVN7   WAYNESVILLE  (1 E)                NC    EST5EDT       2 
+XMRA1   HUNTSVILLE                        AL    CST6CDT       2 
+XNA     FAYETTEVILLE/SPRINGDALE           AR    CST6CDT       2 
+XVG     LONGVILLE                         MN    CST6CDT       2 
+Y01W3   MADISON                           WI    CST6CDT       2 
+Y04W3   PORTAGE                           WI    CST6CDT       2 
+Y07W3   WEST BEND                         WI    CST6CDT       2 
+Y91W3   MERRILL                           WI    CST6CDT       2 
+YBLC1   YORBA LINDA                       CA    PST8PDT       2 
+YELK2   MIDDLESBORO  (2 SE)               KY    EST5EDT       2 
+YIP     DETROIT                           MI    EST5EDT       2 
+YKAC1   YREKA  (2 S)                      CA    PST8PDT       2 
+YKM     YAKIMA  (3 SW)                    WA    PST8PDT       2 
+YKN     YANKTON                           SD    CST6CDT       2 
+YNG     YOUNGSTOWN                        OH    EST5EDT       2 
+YOUA3   YOUNGTOWN                         AZ    MST7          2 
+YPBI1   DIXIE  (10 E)                     ID    PST8PDT       2 
+YRGN2   YERINGTON                         NV    PST8PDT       2 
+YUMC2   YUMA                              CO    MST7MDT       2 
+YYVC1   YOSEMITE VILLAGE  (1 NNW)         CA    PST8PDT       2 
+ZALM7   ZALMA  (4 E)                      MO    CST6CDT       2 
+ZNOM4   NORWAY                            MI    CST6CDT       2 
+ZNPU1   ZION NATIONAL PARK                UT    MST7MDT       2 
+ZZV     ZANESVILLE  (6 E)                 OH    EST5EDT       2 

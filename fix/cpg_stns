@@ -1,0 +1,1656 @@
+#  Notes:
+#  1.  The entries below must be sorted in ascending order with respect to
+#      the METAR station ID (i.e. the 1st field).
+#  2.  The fields within each entry must be separated by the correct number
+#      of space characters (i.e. no tab characters!).
+#  3.  USAGE values (i.e. the 5th field) are:
+#	1 - Use this entry only within the Selected Cities (ObX) product.
+#	2 - Use this entry only within the Temperature Extremes (TeX) product.
+#	3 - Use this entry within both products.
+#
+# ID    STATION NAME                    STATE   TIMEZONE    USAGE
+# --    ------------                    -----   --------    -----
+K04V    Saguache                          CO    MST7MDT       2
+K11R    Brenham                           TX    CST6CDT       2
+K12N    Andover                           NJ    EST5EDT       2
+K1A5    Macon County                      NC    EST5EDT       2
+K1A6    Middlesboro                       KY    EST5EDT       2
+K1H2    Effingham County                  IL    CST6CDT       2
+K1P1    Plymouth                          NH    EST5EDT       2
+K1V4    St. Johnsbury                     VT    EST5EDT       2
+K2WX    Buffalo                           SD    MST7MDT       2
+K3DU    Drummond                          MT    MST7MDT       2
+K3I2    Mason County                      WV    EST5EDT       2
+K3J7    Greene County                     GA    EST5EDT       2
+K3LF    Litchfield                        IL    CST6CDT       2
+K3R1    Bay City                          TX    CST6CDT       2
+K3T5    Fayette                           TX    CST6CDT       2
+K40B    Clayton Lake                      ME    EST5EDT       2
+K40J    Perry-Foley                       FL    EST5EDT       2
+K47A    Cherokee County                   GA    EST5EDT       2
+K48I    Braxton County                    WV    EST5EDT       2
+K4BL    Blanding                          UT    MST7MDT       2
+K4CR    Corona                            NM    MST7MDT       2
+K4HV    Hanksville                        UT    MST7MDT       2
+K4MY    Moriarty                          NM    MST7MDT       2
+K4O4    Idabel                            OK    CST6CDT       2
+K4SL    Torreon                           NM    MST7MDT       2
+K6R6    Terrell County                    TX    CST6CDT       2
+K6V3    Tazewell County                   VA    EST5EDT       2
+K76S    Oak Harbor                        WA    PST8PDT       2
+K77M    Malta                             ID    MST7MDT       2
+K79J    Andalusia                         AL    CST6CDT       2
+K7R3    Amelia                            LA    CST6CDT       2
+K7R4    Intracoastal City                 LA    CST6CDT       2
+K8A0    Albertville                       AL    CST6CDT       2
+K8D3    Sisseton                          SD    CST6CDT       2
+K9BB    Wells                             NV    PST8PDT       2
+K9F2    Fourchon                          LA    CST6CDT       2
+K9V9    Chamberlain                       SD    CST6CDT       2
+KAAA    Lincoln                           IL    CST6CDT       2
+KAAF    Apalachicola                      FL    EST5EDT       2
+KAAO    Wichita (Jabara)                  KS    CST6CDT       2
+KAAT    Alturas                           CA    PST8PDT       2
+KABE    Allentown                         PA    EST5EDT       3
+KABI    Abilene                           TX    CST6CDT       3
+KABQ    Albuquerque                       NM    MST7MDT       3
+KABR    Aberdeen                          SD    CST6CDT       2
+KABY    Albany                            GA    EST5EDT       2
+KACB    Bellaire                          MI    EST5EDT       2
+KACK    Nantucket                         MA    EST5EDT       2
+KACP    Allen Parish                      LA    CST6CDT       2
+KACQ    Waseca                            MN    CST6CDT       2
+KACT    Waco                              TX    CST6CDT       3
+KACV    Eureka                            CA    PST8PDT       2
+KACY    Atlantic City                     NJ    EST5EDT       3
+KADC    Wadena                            MN    CST6CDT       2
+KADG    Adrian                            MI    EST5EDT       2
+KADH    Ada                               OK    CST6CDT       2
+KADM    Ardmore                           OK    CST6CDT       2
+KADS    Dallas (Addison)                  TX    CST6CDT       2
+KADU    Audubon County                    IA    CST6CDT       2
+KADW    Andrews AFB                       MD    EST5EDT       2
+KAEG    Albuquerque (Double Eagle)        NM    MST7MDT       2
+KAEL    Albert Lea                        MN    CST6CDT       2
+KAEX    England AFB                       LA    CST6CDT       2
+KAFF    Air Force Academy                 CO    MST7MDT       2
+KAFJ    Washington                        PA    EST5EDT       2
+KAFK    Nebraska City                     NE    CST6CDT       2
+KAFN    Jaffrey                           NH    EST5EDT       2
+KAFW    Fort Worth (Alliance)             TX    CST6CDT       2
+KAGC    Pittsburgh (Allegheny)            PA    EST5EDT       2
+KAGS    Augusta (Bush)                    GA    EST5EDT       2
+KAHN    Athens                            GA    EST5EDT       2
+KAIA    Alliance                          NE    MST7MDT       2
+KAID    Anderson                          IN    EST5EDT       2
+KAIG    Antigo                            WI    CST6CDT       2
+KAIO    Atlantic                          IA    CST6CDT       2
+KAIT    Aitkin                            MN    CST6CDT       2
+KAIZ    Kaiser                            MO    CST6CDT       2
+KAJG    Mount Carmel                      IL    CST6CDT       2
+KAKH    Gastonia                          NC    EST5EDT       2
+KAKO    Akron                             CO    MST7MDT       2
+KAKQ    Wakefield                         VA    EST5EDT       2
+KAKR    Akron (Fulton)                    OH    EST5EDT       2
+KALB    Albany                            NY    EST5EDT       3
+KALI    Alice                             TX    CST6CDT       2
+KALM    Alamogordo                        NM    MST7MDT       2
+KALN    Alton                             IL    CST6CDT       2
+KALO    Waterloo                          IA    CST6CDT       2
+KALS    Alamosa                           CO    MST7MDT       2
+KALW    Walla Walla                       WA    PST8PDT       2
+KAMA    Amarillo                          TX    CST6CDT       3
+KAMG    Alma                              GA    EST5EDT       2
+KAMN    Alma                              MI    EST5EDT       2
+KAMW    Ames                              IA    CST6CDT       2
+KANB    Anniston                          AL    CST6CDT       2
+KAND    Anderson County                   SC    EST5EDT       2
+KANE    Minneapolis (Blaine)              MN    CST6CDT       2
+KANJ    Sault Ste. Marie                  MI    EST5EDT       3
+KANW    Ainsworth                         NE    CST6CDT       2
+KAOH    Lima                              OH    EST5EDT       2
+KAOO    Altoona                           PA    EST5EDT       2
+KAPA    Denver (Centennial)               CO    MST7MDT       2
+KAPC    Napa County                       CA    PST8PDT       2
+KAPF    Naples                            FL    EST5EDT       2
+KAPG    Aberdeen Proving Grounds          MD    EST5EDT       2
+KAPN    Alpena                            MI    EST5EDT       2
+KAQO    Llano                             TX    CST6CDT       2
+KAQP    Appleton                          MN    CST6CDT       2
+KAQR    Atoka                             OK    CST6CDT       2
+KAQV    Peason Ridge                      LA    CST6CDT       2
+KAQW    North Adams                       MA    EST5EDT       2
+KARA    New Iberia                        LA    CST6CDT       2
+KARB    Ann Arbor                         MI    EST5EDT       2
+KARG    Walnut Ridge                      AR    CST6CDT       2
+KARM    Wharton                           TX    CST6CDT       2
+KARR    Aurora                            IL    CST6CDT       2
+KART    Watertown                         NY    EST5EDT       2
+KARV    Minocqua                          WI    CST6CDT       2
+KASD    Slidell                           LA    CST6CDT       2
+KASE    Aspen                             CO    MST7MDT       2
+KASG    Springdale                        AR    CST6CDT       2
+KASH    Nashua                            NH    EST5EDT       2
+KASJ    Ahoskie                           NC    EST5EDT       2
+KAST    Astoria                           OR    PST8PDT       2
+KASW    Warsaw                            IN    EST5EDT       2
+KASX    Ashland                           WI    CST6CDT       2
+KATL    Atlanta                           GA    EST5EDT       3
+KATS    Artesia                           NM    MST7MDT       2
+KATT    Austin City                       TX    CST6CDT       2
+KATW    Appleton                          WI    CST6CDT       2
+KATY    Watertown                         SD    CST6CDT       2
+KAUG    Augusta                           ME    EST5EDT       2
+KAUH    Aurora                            NE    CST6CDT       2
+KAUM    Austin                            MN    CST6CDT       2
+KAUN    Auburn                            CA    PST8PDT       2
+KAUO    Auburn                            AL    CST6CDT       2
+KAUS    Austin                            TX    CST6CDT       3
+KAUW    Wausau                            WI    CST6CDT       2
+KAVC    South Hill                        VA    EST5EDT       2
+KAVK    Alva                              OK    CST6CDT       2
+KAVL    Asheville                         NC    EST5EDT       3
+KAVP    Wilkes-Barre                      PA    EST5EDT       3
+KAVX    Avalon                            CA    PST8PDT       2
+KAWG    Washington                        IA    CST6CDT       2
+KAWH    Wildhorse Reservation             NV    PST8PDT       2
+KAWM    West Memphis                      AR    CST6CDT       2
+KAWO    Arlington                         WA    PST8PDT       2
+KAXA    Algona                            IA    CST6CDT       2
+KAXN    Alexandria                        MN    CST6CDT       2
+KAXO    Grand Isle                        LA    CST6CDT       2
+KAXS    Altus                             OK    CST6CDT       2
+KAYS    Waycross                          GA    EST5EDT       2
+KAZO    Kalamazoo                         MI    EST5EDT       2
+KB23    Battle Mountain                   NV    PST8PDT       2
+KBAB    Beale AFB                         CA    PST8PDT       2
+KBAD    Barksdale AFB                     LA    CST6CDT       2
+KBAF    Westfield                         MA    EST5EDT       2
+KBAK    Columbus                          IN    EST5EDT       2
+KBAX    Huron County                      MI    EST5EDT       2
+KBAZ    New Braunfels                     TX    CST6CDT       2
+KBBB    Benson                            MN    CST6CDT       2
+KBBD    Brady                             TX    CST6CDT       2
+KBBW    Broken Bow                        NE    CST6CDT       2
+KBCB    Blacksburg                        VA    EST5EDT       2
+KBCE    Bryce Canyon                      UT    MST7MDT       2
+KBCT    Boca Raton                        FL    EST5EDT       2
+KBDE    Baudette                          MN    CST6CDT       2
+KBDL    Hartford/Springfield              CT    EST5EDT       3
+KBDR    Bridgeport                        CT    EST5EDT       3
+KBED    Bedford                           MA    EST5EDT       2
+KBEH    Benton Harbor                     MI    EST5EDT       2
+KBFD    Bradford                          PA    EST5EDT       2
+KBFF    Scottsbluff                       NE    MST7MDT       2
+KBFI    Seattle (Boeing)                  WA    PST8PDT       2
+KBFL    Bakersfield                       CA    PST8PDT       2
+KBFM    Mobile (Downtown)                 AL    CST6CDT       2
+KBFW    Silver Bay                        MN    CST6CDT       2
+KBGD    Borger                            TX    CST6CDT       2
+KBGE    Decatur County                    GA    EST5EDT       2
+KBGM    Binghamton                        NY    EST5EDT       2
+KBGR    Bangor                            ME    EST5EDT       2
+KBHB    Bar Harbor                        ME    EST5EDT       2
+KBHK    Baker                             MT    MST7MDT       2
+KBHM    Birmingham                        AL    CST6CDT       3
+KBID    Block Island                      RI    EST5EDT       2
+KBIE    Beatrice                          NE    CST6CDT       2
+KBIH    Bishop                            CA    PST8PDT       2
+KBIJ    Early County                      GA    EST5EDT       2
+KBIL    Billings                          MT    MST7MDT       3
+KBIS    Bismarck                          ND    CST6CDT       3
+KBIV    Holland                           MI    EST5EDT       2
+KBIX    Keesler AFB                       MS    EST5EDT       2
+KBJC    Broomfield                        CO    MST7MDT       2
+KBJI    Bemidji                           MN    CST6CDT       2
+KBJJ    Wooster                           OH    EST5EDT       2
+KBJN    Tonopah Range                     NV    PST8PDT       2
+KBKB    Fullerton Landing                 LA    CST6CDT       2
+KBKE    Baker                             OR    PST8PDT       2
+KBKF    Buckley AFB                       CO    MST7MDT       2
+KBKL    Cleveland (Burkelake)             OH    EST5EDT       2
+KBKS    Brooks County                     TX    CST6CDT       2
+KBKV    Brooksville                       FL    EST5EDT       2
+KBKW    Beckley                           WV    EST5EDT       2
+KBKX    Brookings                         SD    CST6CDT       2
+KBLF    Bluefield                         WV    EST5EDT       2
+KBLH    Blythe                            CA    PST8PDT       2
+KBLI    Bellingham                        WA    PST8PDT       2
+KBLM    Belmar                            NJ    EST5EDT       2
+KBLU    Blue Canyon                       CA    PST8PDT       2
+KBLV    Scott AFB                         IL    CST6CDT       2
+KBMG    Bloomington                       IN    EST5EDT       2
+KBMI    Bloomington                       IL    CST6CDT       2
+KBML    Berlin                            NH    EST5EDT       2
+KBMQ    Burnet                            TX    CST6CDT       2
+KBNA    Nashville                         TN    CST6CDT       3
+KBNO    Burns                             OR    PST8PDT       2
+KBNW    Boone                             IA    CST6CDT       2
+KBOI    Boise                             ID    MST7MDT       3
+KBOK    Brookings                         OR    PST8PDT       2
+KBOS    Boston                            MA    EST5EDT       3
+KBOW    Bartow                            FL    EST5EDT       2
+KBPG    Big Spring                        TX    CST6CDT       2
+KBPI    Big Piney                         WY    MST7MDT       2
+KBPK    Baxter County                     AR    CST6CDT       2
+KBPT    Beaumont/Port Arthur              TX    CST6CDT       2
+KBQK    Brunswick                         GA    EST5EDT       2
+KBRD    Brainerd                          MN    CST6CDT       2
+KBRL    Burlington                        IA    CST6CDT       2
+KBRO    Brownsville                       TX    CST6CDT       3
+KBTL    Battle Creek                      MI    EST5EDT       2
+KBTM    Butte                             MT    MST7MDT       2
+KBTP    Butler County                     PA    EST5EDT       2
+KBTR    Baton Rouge                       LA    CST6CDT       3
+KBTV    Burlington                        VT    EST5EDT       3
+KBUF    Buffalo                           NY    EST5EDT       3
+KBUR    Burbank                           CA    PST8PDT       2
+KBUU    Burlington                        WI    CST6CDT       2
+KBUY    Burlington                        NC    EST5EDT       2
+KBVE    Boothville                        LA    CST6CDT       2
+KBVI    Beaver Falls                      PA    EST5EDT       2
+KBVN    Albion                            NE    CST6CDT       2
+KBVO    Bartlesville                      OK    CST6CDT       2
+KBVS    Skagit                            WA    PST8PDT       2
+KBVX    Batesville                        AR    CST6CDT       2
+KBVY    Beverly                           MA    EST5EDT       2
+KBWD    Brownwood                         TX    CST6CDT       2
+KBWG    Bowling Green                     KY    CST6CDT       2
+KBWI    Baltimore                         MD    EST5EDT       3
+KBWP    Wahpeton                          ND    CST6CDT       2
+KBYG    Buffalo                           WY    MST7MDT       2
+KBYH    Eaker AFB                         AR    CST6CDT       2
+KBYI    Burley                            ID    MST7MDT       2
+KBYY    Bay City                          TX    CST6CDT       2
+KBZN    Bozeman                           MT    MST7MDT       2
+KC09    Morris                            IL    CST6CDT       2
+KC75    Lacon                             IL    CST6CDT       2
+KCAD    Cadillac                          MI    EST5EDT       2
+KCAE    Columbia                          SC    EST5EDT       3
+KCAG    Craig                             CO    MST7MDT       2
+KCAK    Akron/Canton                      OH    EST5EDT       3
+KCAO    Clayton                           NM    MST7MDT       2
+KCAR    Caribou                           ME    EST5EDT       3
+KCAV    Clarion                           IA    CST6CDT       2
+KCBE    Cumberland                        MD    EST5EDT       2
+KCBF    Council Bluffs                    IA    CST6CDT       2
+KCBG    Cambridge                         MN    CST6CDT       2
+KCBM    Columbus AFB                      MS    CST6CDT       2
+KCCO    Newnan                            GA    EST5EDT       2
+KCCR    Concord                           CA    PST8PDT       2
+KCCY    Charles City                      IA    CST6CDT       2
+KCDC    Cedar City                        UT    MST7MDT       2
+KCDD    Crane Lake                        MN    CST6CDT       2
+KCDJ    Chillicothe                       MO    CST6CDT       2
+KCDR    Chadron                           NE    MST7MDT       2
+KCDS    Childress                         TX    CST6CDT       2
+KCDW    Caldwell                          NJ    EST5EDT       2
+KCEC    Crescent City                     CA    PST8PDT       2
+KCEF    Chicopee                          MA    EST5EDT       2
+KCEU    Clemson                           SC    EST5EDT       2
+KCEW    Crestview                         FL    CST6CDT       2
+KCEZ    Cortez                            CO    MST7MDT       2
+KCFE    Buffalo                           MN    CST6CDT       2
+KCFS    Caro                              MI    EST5EDT       2
+KCFV    Coffeyville                       KS    CST6CDT       2
+KCGF    Cleveland (Cuyahoga)              OH    EST5EDT       2
+KCGI    Cape Girardeau                    MO    CST6CDT       2
+KCGZ    Casa Grande                       AZ    MST7          2
+KCHA    Chattanooga                       TN    EST5EDT       3
+KCHD    Chandler                          AZ    MST7          2
+KCHH    Chatham                           MA    EST5EDT       2
+KCHK    Chickasha                         OK    CST6CDT       2
+KCHO    Charlottesville                   VA    EST5EDT       2
+KCHS    Charleston                        SC    EST5EDT       3
+KCIC    Chico                             CA    PST8PDT       2
+KCID    Cedar Rapids                      IA    CST6CDT       2
+KCIN    Carroll                           IA    CST6CDT       2
+KCIR    Cairo                             IL    CST6CDT       2
+KCIU    Chippewa                          MI    EST5EDT       2
+KCJR    Culpeper                          VA    EST5EDT       2
+KCKB    Clarksburg                        WV    EST5EDT       2
+KCKC    Grand Marais                      MN    CST6CDT       2
+KCKL    Centreville                       AL    CST6CDT       2
+KCKN    Crookston                         MN    CST6CDT       2
+KCKP    Cherokee                          IA    CST6CDT       2
+KCKV    Clarksville                       TN    CST6CDT       2
+KCLE    Cleveland                         OH    EST5EDT       3
+KCLI    Clintonville                      WI    CST6CDT       2
+KCLK    Clinton                           OK    CST6CDT       2
+KCLL    College Station                   TX    CST6CDT       2
+KCLM    Port Angeles                      WA    PST8PDT       2
+KCLT    Charlotte                         NC    EST5EDT       3
+KCMA    Camarillo                         CA    PST8PDT       2
+KCMH    Columbus                          OH    EST5EDT       3
+KCMI    Champaign/Urbana                  IL    CST6CDT       2
+KCMX    Houghton County                   MI    EST5EDT       2
+KCMY    Sparta                            WI    CST6CDT       2
+KCNB    Canby                             MN    CST6CDT       2
+KCNC    Chariton                          IA    CST6CDT       2
+KCNK    Concordia                         KS    CST6CDT       2
+KCNM    Carlsbad                          NM    MST7MDT       2
+KCNO    Chino                             CA    PST8PDT       2
+KCNU    Chanute                           KS    CST6CDT       2
+KCNY    Moab                              UT    MST7MDT       2
+KCOD    Cody                              WY    MST7MDT       2
+KCOE    Coeur d'Alene                     ID    PST8PDT       2
+KCOF    Patrick AFB                       FL    EST5EDT       2
+KCON    Concord                           NH    EST5EDT       3
+KCOQ    Cloquet                           MN    CST6CDT       2
+KCOS    Colorado Springs                  CO    MST7MDT       3
+KCOT    Cotulla                           TX    CST6CDT       2
+KCOU    Columbia                          MO    CST6CDT       2
+KCPC    Columbus County                   NC    EST5EDT       2
+KCPK    Chesapeake                        VA    EST5EDT       2
+KCPR    Casper                            WY    MST7MDT       3
+KCPS    Cahokia                           IL    CST6CDT       2
+KCPT    Cleburne                          TX    CST6CDT       2
+KCQB    Chandler                          OK    CST6CDT       2
+KCQC    Clines Corners                    NM    MST7MDT       2
+KCQM    Cook                              MN    CST6CDT       2
+KCQT    Los Angeles                       CA    PST8PDT       3
+KCQX    Chatham                           MA    EST5EDT       2
+KCRE    North Myrtle Beach                SC    EST5EDT       2
+KCRG    Jacksonville (Craig)              FL    EST5EDT       2
+KCRP    Corpus Christi                    TX    CST6CDT       3
+KCRQ    Carlsbad                          CA    PST8PDT       2
+KCRS    Corsicana                         TX    CST6CDT       2
+KCRW    Charleston                        WV    EST5EDT       3
+KCSG    Columbus                          GA    EST5EDT       3
+KCSQ    Creston                           IA    CST6CDT       2
+KCSV    Crossville                        TN    CST6CDT       2
+KCTB    Cut Bank                          MT    MST7MDT       2
+KCTY    Cross City                        FL    EST5EDT       2
+KCTZ    Clinton                           NC    EST5EDT       2
+KCUB    Columbia (Owens)                  SC    EST5EDT       2
+KCUH    Cushing                           OK    CST6CDT       2
+KCUL    Carmi                             IL    CST6CDT       2
+KCUT    Custer                            SD    MST7MDT       2
+KCVG    Cincinnati                        OH    EST5EDT       3
+KCVN    Clovis                            NM    MST7MDT       2
+KCVO    Corvallis                         OR    PST8PDT       2
+KCVS    Cannon AFB                        NM    MST7MDT       2
+KCVX    Charlevoix                        MI    EST5EDT       2
+KCWA    Mosinee                           WI    CST6CDT       2
+KCWF    Chenault Airpark                  LA    CST6CDT       2
+KCWI    Clinton                           IA    CST6CDT       2
+KCXO    Conroe                            TX    CST6CDT       2
+KCYS    Cheyenne                          WY    MST7MDT       3
+KCZK    Cascade Locks                     OR    PST8PDT       2
+KCZZ    Campo                             CA    PST8PDT       2
+KD07    Faith                             SD    MST7MDT       2
+KDAA    Fort Belvoir                      VA    EST5EDT       2
+KDAB    Daytona Beach                     FL    EST5EDT       3
+KDAG    Barstow                           CA    PST8PDT       2
+KDAL    Dallas (Love)                     TX    CST6CDT       2
+KDAN    Danville                          VA    EST5EDT       2
+KDAW    Rochester                         NH    EST5EDT       2
+KDAY    Dayton                            OH    EST5EDT       3
+KDBN    Dublin                            GA    EST5EDT       2
+KDBQ    Dubuque                           IA    CST6CDT       2
+KDCA    Washington DC                     DC    EST5EDT       3
+KDCU    Decatur                           AL    CST6CDT       2
+KDDC    Dodge City                        KS    CST6CDT       2
+KDDH    Bennington                        VT    EST5EDT       2
+KDEC    Decatur                           IL    CST6CDT       2
+KDEH    Decorah                           IA    CST6CDT       2
+KDEN    Denver                            CO    MST7MDT       3
+KDEQ    De Queen                          AR    CST6CDT       2
+KDET    Detroit (City)                    MI    EST5EDT       2
+KDEW    Deer Park                         WA    PST8PDT       2
+KDFI    Defiance                          OH    EST5EDT       2
+KDFW    Dallas/Fort Worth                 TX    CST6CDT       3
+KDGW    Douglas                           WY    MST7MDT       2
+KDHN    Dothan                            AL    CST6CDT       2
+KDHT    Dalhart                           TX    CST6CDT       2
+KDIJ    Driggs                            ID    MST7MDT       2
+KDIK    Dickinson                         ND    MST7MDT       2
+KDKB    De Kalb                           IL    CST6CDT       2
+KDKK    Dunkirk                           NY    EST5EDT       2
+KDKR    Crocket                           TX    CST6CDT       2
+KDLF    Laughlin AFB                      TX    CST6CDT       2
+KDLH    Duluth                            MN    CST6CDT       3
+KDLL    Baraboo                           WI    CST6CDT       2
+KDLN    Dillon                            MT    MST7MDT       2
+KDLS    The Dalles                        OR    PST8PDT       2
+KDMH    Baltimore (Downtown)              MD    EST5EDT       2
+KDMN    Deming                            NM    MST7MDT       2
+KDMO    Sedalia                           MO    CST6CDT       2
+KDNL    Augusta (Daniel)                  GA    EST5EDT       2
+KDNN    Dalton                            GA    EST5EDT       2
+KDNS    Denison                           IA    CST6CDT       2
+KDNV    Danville                          IL    CST6CDT       2
+KDOV    Dover AFB                         DE    EST5EDT       2
+KDPA    Du Page                           IL    CST6CDT       2
+KDPG    Dugway Proving Grounds            UT    MST7MDT       2
+KDPL    Kenansville                       NC    EST5EDT       2
+KDQH    Douglas                           GA    EST5EDT       2
+KDRA    Desert Rock                       NV    PST8PDT       2
+KDRI    Beauregard                        LA    CST6CDT       2
+KDRM    Drummond Island                   MI    EST5EDT       2
+KDRO    Durango                           CO    MST7MDT       2
+KDRT    Del Rio                           TX    CST6CDT       2
+KDSM    Des Moines                        IA    CST6CDT       3
+KDSV    Dansville                         NY    EST5EDT       2
+KDTL    Detroit Lakes                     MN    CST6CDT       2
+KDTN    Shreveport (Downtown)             LA    CST6CDT       2
+KDTO    Denton                            TX    CST6CDT       2
+KDTS    Destin                            FL    CST6CDT       2
+KDTW    Detroit                           MI    EST5EDT       3
+KDUA    Durant                            OK    CST6CDT       2
+KDUC    Duncan                            OK    CST6CDT       2
+KDUH    Toledo                            MI    EST5EDT       2
+KDUJ    Du Bois                           PA    EST5EDT       2
+KDUX    Moore County                      TX    CST6CDT       2
+KDVL    Devils Lake                       ND    CST6CDT       2
+KDVN    Quad Cities                       IA    CST6CDT       2
+KDVP    Slayton                           MN    CST6CDT       2
+KDVT    Phoenix (Deer Valley)             AZ    MST7          2
+KDWH    Houston (D.W. Hooks)              TX    CST6CDT       2
+KDXR    Danbury                           CT    EST5EDT       2
+KDXX    Madison                           MN    CST6CDT       2
+KDYL    Doylestown                        PA    EST5EDT       2
+KDYR    Dyersburg                         TN    CST6CDT       2
+KDYS    Dyess AFB                         TX    CST6CDT       2
+KDYT    Duluth Harbor                     MN    CST6CDT       2
+KE33    Chama                             NM    MST7MDT       2
+KE38    Alpine                            TX    CST6CDT       2
+KEAR    Kearney                           NE    CST6CDT       2
+KEAT    Wenatchee                         WA    PST8PDT       2
+KEAU    Eau Claire                        WI    CST6CDT       2
+KEBG    Edinburg                          TX    CST6CDT       2
+KEBS    Webster City                      IA    CST6CDT       2
+KECG    Elizabeth City                    NC    EST5EDT       2
+KECU    Edwards County                    TX    CST6CDT       2
+KEDE    Edenton                           NC    EST5EDT       2
+KEDW    Edwards AFB                       CA    PST8PDT       2
+KEED    Needles                           CA    PST8PDT       2
+KEEN    Keene                             NH    EST5EDT       2
+KEEO    Meeker                            CO    MST7MDT       2
+KEET    Alabaster                         AL    CST6CDT       2
+KEFD    Houston (Ellington)               TX    CST6CDT       2
+KEFT    Monroe                            WI    CST6CDT       2
+KEGE    Eagle County                      CO    MST7MDT       2
+KEGI    Crestview                         FL    CST6CDT       2
+KEGV    Eagle River                       WI    CST6CDT       2
+KEHA    Elkhart                           KS    CST6CDT       2
+KEHO    Shelby                            NC    EST5EDT       2
+KEHR    Henderson City                    KY    CST6CDT       2
+KEKM    Elkhart                           IN    EST5EDT       2
+KEKN    Elkins                            WV    EST5EDT       3
+KEKQ    Wayne County                      KY    EST5EDT       2
+KELD    El Dorado                         AR    CST6CDT       2
+KELM    Elmira                            NY    EST5EDT       2
+KELN    Ellensburg                        WA    PST8PDT       2
+KELO    Ely                               MN    CST6CDT       2
+KELP    El Paso                           TX    MST7MDT       3
+KELY    Ely                               NV    PST8PDT       2
+KELZ    Wellsville                        NY    EST5EDT       2
+KEMP    Emporia                           KS    CST6CDT       2
+KEMT    El Monte                          CA    PST8PDT       2
+KEMV    Emporia                           VA    EST5EDT       2
+KEND    Vance AFB                         OK    CST6CDT       2
+KENL    Centralia                         IL    CST6CDT       2
+KENV    Wendover                          UT    MST7MDT       2
+KENW    Kenosha                           WI    CST6CDT       2
+KEOK    Keokuk                            IA    CST6CDT       2
+KEPH    Ephrata                           WA    PST8PDT       2
+KEPZ    Santa Teresa                      NM    MST7MDT       2
+KEQY    Monroe                            NC    EST5EDT       2
+KERI    Erie                              PA    EST5EDT       3
+KERV    Kerrville                         TX    CST6CDT       2
+KERY    Newberry                          MI    EST5EDT       2
+KESC    Escanaba                          MI    EST5EDT       2
+KESF    Alexandria                        LA    CST6CDT       2
+KESN    Easton                            MD    EST5EDT       2
+KEST    Estherville                       IA    CST6CDT       2
+KETB    West Bend                         WI    CST6CDT       2
+KETH    Wheaton                           MN    CST6CDT       2
+KEUG    Eugene                            OR    PST8PDT       3
+KEUL    Caldwell                          ID    MST7MDT       2
+KEVB    New Smyrna Beach                  FL    EST5EDT       2
+KEVM    Eveleth                           MN    CST6CDT       2
+KEVV    Evansville                        IN    CST6CDT       3
+KEVW    Evanston                          WY    MST7MDT       2
+KEWB    New Bedford                       MA    EST5EDT       2
+KEWK    Newton                            KS    CST6CDT       2
+KEWN    New Bern                          NC    EST5EDT       2
+KEWR    Newark                            NJ    EST5EDT       3
+KEXX    Lexington                         NC    EST5EDT       2
+KEYE    Indianapolis (Eagle Creek)        IN    EST5EDT       2
+KEYW    Key West                          FL    EST5EDT       3
+KEZF    Shannon                           VA    EST5EDT       2
+KF05    Wilberger County                  TX    CST6CDT       2
+KFAF    Fort Eustis                       VA    EST5EDT       2
+KFAM    Farmington                        MO    CST6CDT       2
+KFAR    Fargo                             ND    CST6CDT       3
+KFAT    Fresno                            CA    PST8PDT       3
+KFAY    Fayetteville                      NC    EST5EDT       2
+KFBG    Fort Bragg                        NC    EST5EDT       2
+KFBL    Faribault                         MN    CST6CDT       2
+KFCL    Fort Collins                      CO    MST7MDT       2
+KFCM    Minneapolis (Fly Cloud)           MN    CST6CDT       2
+KFCS    Fort Carson                       CO    MST7MDT       2
+KFCT    Vagabond Army Airfield            WA    PST8PDT       2
+KFDK    Frederick                         MD    EST5EDT       2
+KFDR    Frederick                         OK    CST6CDT       2
+KFDY    Findlay                           OH    EST5EDT       2
+KFEP    Albertus                          IL    CST6CDT       2
+KFET    Fremont                           NE    CST6CDT       2
+KFFA    Kill Devil Hills                  NC    EST5EDT       2
+KFFL    Fairfield                         IA    CST6CDT       2
+KFFM    Fergus Falls                      MN    CST6CDT       2
+KFFO    Wright-Patterson AFB              OH    EST5EDT       2
+KFFT    Frankfort                         KY    EST5EDT       2
+KFFZ    Mesa                              AZ    MST7          2
+KFGN    Flag Island                       MN    CST6CDT       2
+KFHR    Friday Harbor                     WA    PST8PDT       2
+KFHU    Fort Huachuca                     AZ    MST7          2
+KFIT    Fitchburg                         MA    EST5EDT       2
+KFKA    Preston                           MN    CST6CDT       2
+KFKL    Franklin                          PA    EST5EDT       2
+KFKN    Franklin                          VA    EST5EDT       2
+KFKS    Frankfort                         MI    EST5EDT       2
+KFLD    Fond du Lac                       WI    CST6CDT       2
+KFLG    Flagstaff                         AZ    MST7          3
+KFLL    Fort Lauderdale                   FL    EST5EDT       2
+KFLO    Florence                          SC    EST5EDT       2
+KFLP    Flippin                           AR    CST6CDT       2
+KFME    Fort Meade                        MD    EST5EDT       2
+KFMH    Otis AFB                          MA    EST5EDT       2
+KFMN    Farmington                        NM    MST7MDT       2
+KFMY    Fort Myers                        FL    EST5EDT       2
+KFNB    Falls City                        NE    CST6CDT       2
+KFNT    Flint                             MI    EST5EDT       3
+KFOA    Flora                             IL    CST6CDT       2
+KFOD    Fort Dodge                        IA    CST6CDT       2
+KFOE    Topeka (Forbes)                   KS    CST6CDT       2
+KFOK    Westhampton Beach                 NY    EST5EDT       2
+KFOZ    Bigfork                           MN    CST6CDT       2
+KFPK    Fitch Beach                       MI    EST5EDT       2
+KFPR    Fort Pierce                       FL    EST5EDT       2
+KFQD    Rutherfordton                     NC    EST5EDT       2
+KFRG    Farmingdale                       NY    EST5EDT       2
+KFRM    Fairmont                          MN    CST6CDT       2
+KFSD    Sioux Falls                       SD    CST6CDT       3
+KFSE    Fosston                           MN    CST6CDT       2
+KFSI    Fort Sill                         OK    CST6CDT       2
+KFSM    Fort Smith                        AR    CST6CDT       3
+KFST    Fort Stockton                     TX    CST6CDT       2
+KFSW    Fort Madison                      IA    CST6CDT       2
+KFTG    Denver (Front Range)              CO    MST7MDT       2
+KFTK    Fort Knox                         KY    EST5EDT       2
+KFTW    Fort Worth (Meacham)              TX    CST6CDT       2
+KFTY    Atlanta (Fulton County)           GA    EST5EDT       2
+KFUL    Fullerton                         CA    PST8PDT       2
+KFVE    Frenchville                       ME    EST5EDT       2
+KFVX    Farmville                         VA    EST5EDT       2
+KFWA    Fort Wayne                        IN    EST5EDT       3
+KFWC    Fairfield                         IL    CST6CDT       2
+KFWD    Fort Worth                        TX    CST6CDT       2
+KFWN    Sussex                            NJ    EST5EDT       2
+KFXE    Fort Lauderdale (Executive)       FL    EST5EDT       2
+KFYJ    Middle Peninsula                  VA    EST5EDT       2
+KFYV    Fayetteville                      AR    CST6CDT       2
+KFZY    Fulton                            NY    EST5EDT       2
+KGAD    Gadsen                            AL    CST6CDT       2
+KGAG    Gage                              OK    CST6CDT       2
+KGAO    Galliano                          LA    CST6CDT       2
+KGBD    Great Bend                        KS    CST6CDT       2
+KGBG    Galesburg                         IL    CST6CDT       2
+KGBN    Gila Bend                         AZ    MST7          2
+KGCC    Gillette                          WY    MST7MDT       2
+KGCK    Garden City                       KS    CST6CDT       2
+KGCM    Claremore                         OK    CST6CDT       2
+KGCN    Grand Canyon                      AZ    MST7          2
+KGDB    Granite Falls                     MN    CST6CDT       2
+KGDJ    Granbury                          TX    CST6CDT       2
+KGDP    Guadalupe Pass                    TX    MST7MDT       2
+KGDV    Glendive                          MT    MST7MDT       2
+KGED    Georgetown                        DE    EST5EDT       2
+KGEG    Spokane                           WA    PST8PDT       3
+KGEU    Glendale                          AZ    MST7          2
+KGEV    Jefferson                         NC    EST5EDT       2
+KGEY    South Big Horn County             WY    MST7MDT       2
+KGEZ    Shelbyville                       IN    EST5EDT       2
+KGFA    Malmstrom AFB                     MT    MST7MDT       2
+KGFK    Grand Forks                       ND    CST6CDT       2
+KGFL    Glen Falls                        NY    EST5EDT       2
+KGGG    Longview                          TX    CST6CDT       2
+KGGW    Glasgow                           MT    MST7MDT       2
+KGHG    Marshfield                        MA    EST5EDT       2
+KGHW    Glenwood                          MN    CST6CDT       2
+KGIF    Winter Haven                      FL    EST5EDT       2
+KGJT    Grand Junction                    CO    MST7MDT       3
+KGKJ    Meadville                         PA    EST5EDT       2
+KGKY    Arlington                         TX    CST6CDT       2
+KGLD    Goodland                          KS    MST7MDT       3
+KGLE    Gainesville                       TX    CST6CDT       2
+KGLH    Greenville                        MS    CST6CDT       2
+KGLR    Gaylord                           MI    EST5EDT       2
+KGLS    Galveston                         TX    CST6CDT       2
+KGLW    Glasgow                           KY    CST6CDT       2
+KGMJ    Grove                             OK    CST6CDT       2
+KGMU    Greenville (Downtown)             SC    EST5EDT       2
+KGNA    Grand Marais                      MN    CST6CDT       2
+KGNC    Seminole                          TX    CST6CDT       2
+KGNR    Greenville                        ME    EST5EDT       2
+KGNT    Grants-Milan                      NM    MST7MDT       2
+KGNV    Gainesville                       FL    EST5EDT       2
+KGOK    Guthrie                           OK    CST6CDT       2
+KGON    Groton/New London                 CT    EST5EDT       2
+KGOP    Gatesville                        TX    CST6CDT       2
+KGOV    Grayling                          MI    EST5EDT       2
+KGPI    Kalispell                         MT    MST7MDT       2
+KGPM    Grand Prairie                     TX    CST6CDT       2
+KGPT    Gulfport/Biloxi                   MS    CST6CDT       2
+KGPZ    Grand Rapids                      MN    CST6CDT       2
+KGRB    Green Bay                         WI    CST6CDT       3
+KGRD    Greenwood County                  SC    EST5EDT       2
+KGRF    Fort Lewis                        WA    PST8PDT       2
+KGRI    Grand Island                      NE    CST6CDT       2
+KGRK    Fort Hood                         TX    CST6CDT       2
+KGRR    Grand Rapids                      MI    EST5EDT       3
+KGSB    Seymour-Johnson AFB               NC    EST5EDT       2
+KGSH    Goshen                            IN    EST5EDT       2
+KGSM    Ship Shoal                        LA    EST5EDT       2
+KGSO    Greensboro                        NC    EST5EDT       3
+KGSP    Spartanburg                       SC    EST5EDT       2
+KGTB    Fort Drum                         NY    EST5EDT       2
+KGTF    Great Falls                       MT    MST7MDT       3
+KGTR    Golden Triangle                   MS    CST6CDT       2
+KGTU    Georgetown                        TX    CST6CDT       2
+KGUC    Gunnison County                   CO    MST7MDT       2
+KGUP    Gallup                            NM    MST7MDT       2
+KGUS    Grissom AFB                       IN    EST5EDT       2
+KGUY    Guymon                            OK    CST6CDT       2
+KGVL    Gainesville                       GA    EST5EDT       2
+KGVT    Greenville                        TX    CST6CDT       2
+KGWO    Greenwood                         MS    CST6CDT       2
+KGWW    Goldsboro                         NC    EST5EDT       2
+KGXY    Greeley                           CO    MST7MDT       2
+KGYB    Giddings                          TX    CST6CDT       2
+KGYH    Greenville (Donaldson)            SC    EST5EDT       2
+KGYI    Sherman                           TX    CST6CDT       2
+KGYL    Glencoe                           MN    CST6CDT       2
+KGYR    Goodyear                          AZ    MST7          2
+KGYX    Gray                              ME    EST5EDT       2
+KGYY    Gary                              IN    CST6CDT       2
+KGZH    Evergreen                         AL    CST6CDT       2
+KH08    High Island                       LA    CST6CDT       2
+KHAI    Three Rivers                      MI    EST5EDT       2
+KHAO    Hamilton                          OH    EST5EDT       2
+KHAT    Cape Hatteras                     NC    EST5EDT       2
+KHBG    Hattiesburg                       MS    CST6CDT       2
+KHBI    Asheboro                          NC    EST5EDT       2
+KHBR    Hobart                            OK    CST6CDT       2
+KHBV    Jim Hogg County                   TX    CST6CDT       2
+KHCD    Hutchinson                        MN    CST6CDT       2
+KHCO    Hallock                           MN    CST6CDT       2
+KHDC    Hammond                           LA    CST6CDT       2
+KHDE    Holdrege                          NE    CST6CDT       2
+KHDN    Hayden                            CO    MST7MDT       2
+KHDO    Hondo                             TX    CST6CDT       2
+KHEF    Manassas                          VA    EST5EDT       2
+KHEI    Hettinger                         ND    MST7MDT       2
+KHEZ    Natchez                           MS    CST6CDT       2
+KHFD    Hartford (Brainard)               CT    EST5EDT       2
+KHFF    Mackall AAF                       NC    EST5EDT       2
+KHGR    Hagerstown                        MD    EST5EDT       2
+KHHF    Hemphill County                   TX    CST6CDT       2
+KHHR    Hawthorne                         CA    PST8PDT       2
+KHIB    Hibbing/Chisholm                  MN    CST6CDT       2
+KHIE    Whitefield                        NH    EST5EDT       2
+KHIF    Hill AFB                          UT    MST7MDT       2
+KHIO    Portland (Hillsboro)              OR    PST8PDT       2
+KHJH    Hebron                            NE    CST6CDT       2
+KHJO    Hanford                           CA    PST8PDT       2
+KHKA    Blytheville                       AR    CST6CDT       2
+KHKS    Jackson (Hawkins)                 MS    CST6CDT       2
+KHKY    Hickory                           NC    EST5EDT       2
+KHLC    Hill City                         KS    CST6CDT       2
+KHLG    Wheeling                          WV    EST5EDT       2
+KHLN    Helena                            MT    MST7MDT       3
+KHLR    Killeen                           TX    CST6CDT       2
+KHLX    Hillsville                        VA    EST5EDT       2
+KHMN    Holloman AFB                      NM    MST7MDT       2
+KHMS    Hanford                           WA    PST8PDT       2
+KHNB    Huntingburg                       IN    EST5EDT       2
+KHND    Henderson                         NV    PST8PDT       2
+KHNR    Harlan                            IA    CST6CDT       2
+KHNX    San Joaquin Valley                CA    PST8PDT       2
+KHNZ    Henderson/Oxford                  NC    EST5EDT       2
+KHOB    Hobbs                             NM    MST7MDT       2
+KHON    Huron                             SD    CST6CDT       2
+KHOP    Fort Campbell                     KY    CST6CDT       2
+KHOT    Hot Springs                       AR    CST6CDT       2
+KHOU    Houston (Will Hobby)              TX    CST6CDT       2
+KHPN    White Plains                      NY    EST5EDT       2
+KHQM    Hoquiam                           WA    EST5EDT       2
+KHQU    Thomson                           GA    EST5EDT       2
+KHQZ    Mesquite                          TX    CST6CDT       2
+KHRI    Hermiston                         OR    PST8PDT       2
+KHRJ    Erwin                             NC    EST5EDT       2
+KHRL    Harlingen                         TX    CST6CDT       2
+KHRO    Harrison                          AR    CST6CDT       2
+KHRT    Hurlburt AFB                      FL    CST6CDT       2
+KHSB    Harrisburg                        IL    CST6CDT       2
+KHSE    Hatteras                          NC    CST6CDT       2
+KHSI    Hastings                          NE    CST6CDT       2
+KHSP    Hot Springs                       VA    EST5EDT       2
+KHST    Homestead AFB                     FL    EST5EDT       2
+KHSV    Huntsville                        AL    CST6CDT       3
+KHTL    Houghton Lake                     MI    EST5EDT       2
+KHTO    East Hampton                      NY    EST5EDT       2
+KHTS    Huntington                        WV    EST5EDT       2
+KHUA    Redstone AAF                      AL    CST6CDT       2
+KHUF    Terre Haute                       IN    EST5EDT       2
+KHUL    Houlton                           ME    EST5EDT       2
+KHUM    Houma                             LA    CST6CDT       2
+KHUT    Hutchinson                        KS    CST6CDT       2
+KHVN    New Haven                         CT    EST5EDT       2
+KHVR    Havre                             MT    MST7MDT       2
+KHWD    Hayward                           CA    PST8PDT       2
+KHWO    Hollywood                         FL    EST5EDT       2
+KHWV    Shirley                           NY    EST5EDT       2
+KHXD    Hilton Head                       SC    EST5EDT       2
+KHYA    Hyannis                           MA    EST5EDT       2
+KHYI    San Marcos                        TX    CST6CDT       2
+KHYR    Hayward                           WI    CST6CDT       2
+KHYS    Hays                              KS    CST6CDT       2
+KHYX    Saginaw County                    MI    EST5EDT       2
+KHZX    McGregor                          MN    CST6CDT       2
+KHZY    Ashtabula County                  OH    EST5EDT       2
+KI16    Pineville                         WV    EST5EDT       2
+KIAB    McConnell AFB                     KS    CST6CDT       2
+KIAD    Washington DC (Dulles)            VA    EST5EDT       3
+KIAG    Niagara Falls                     NY    EST5EDT       2
+KIAH    Houston                           TX    CST6CDT       3
+KIBM    Kimball                           NE    MST7MDT       2
+KICL    Clarinda                          IA    CST6CDT       2
+KICT    Wichita                           KS    CST6CDT       3
+KIDA    Idaho Falls                       ID    MST7MDT       2
+KIDI    Indiana                           PA    EST5EDT       2
+KIEN    Pine Ridge                        SD    MST7MDT       2
+KIER    Natchitoches                      LA    CST6CDT       2
+KIFP    Bullhead City                     AZ    MST7          2
+KIGM    Kingman                           AZ    MST7          2
+KIGQ    Chicago (Lansing)                 IL    CST6CDT       2
+KIGX    Chapel Hill                       NC    EST5EDT       2
+KIIB    Independence                      IA    CST6CDT       2
+KIJD    Willimantic                       CT    EST5EDT       2
+KIJX    Jacksonville                      IL    CST6CDT       2
+KIKK    Kankakee                          IL    CST6CDT       2
+KIKV    Ankeny                            IA    CST6CDT       2
+KILE    Killeen                           TX    CST6CDT       2
+KILG    Wilmington                        DE    EST5EDT       3
+KILM    Wilmington                        NC    EST5EDT       2
+KILN    Wilmington                        OH    EST5EDT       2
+KIML    Imperial                          NE    MST7MDT       2
+KIMT    Iron Mountain                     MI    CST6CDT       2
+KIND    Indianapolis                      IN    EST5EDT       3
+KINJ    Hillsboro                         TX    CST6CDT       2
+KINK    Wink                              TX    CST6CDT       2
+KINL    International Falls               MN    CST6CDT       2
+KINS    Indian Springs                    NV    PST8PDT       2
+KINT    Winston-Salem                     NC    EST5EDT       2
+KINW    Winslow                           AZ    MST7          2
+KIOW    Iowa City                         IA    CST6CDT       2
+KIPJ    Lincolnton                        NC    EST5EDT       2
+KIPL    Imperial                          CA    PST8PDT       2
+KIPT    Williamsport                      PA    EST5EDT       2
+KIRK    Kirksville                        MO    CST6CDT       2
+KIRS    Sturgis                           MI    EST5EDT       2
+KISM    Kissimmee                         FL    EST5EDT       2
+KISN    Williston                         ND    CST6CDT       2
+KISO    Kinston                           NC    EST5EDT       2
+KISP    Islip                             NY    EST5EDT       2
+KISQ    Manistique                        MI    EST5EDT       2
+KISW    Wisconsin Rapids                  WI    CST6CDT       2
+KITH    Ithaca                            NY    EST5EDT       2
+KITR    Burlington                        CO    MST7MDT       2
+KIWA    Williams AFB                      AZ    MST7          2
+KIWD    Ironwood                          MI    CST6CDT       2
+KIWI    Wiscasset                         ME    EST5EDT       2
+KIWX    Northern Indiana                  IN    EST5EDT       2
+KIXD    Johnson County                    KS    CST6CDT       2
+KIYK    Inyokern                          CA    PST8PDT       2
+KIZA    Santa Ynez                        CA    PST8PDT       2
+KIZG    Fryeburg                          ME    EST5EDT       2
+KJAC    Jackson Hole                      WY    MST7MDT       2
+KJAN    Jackson                           MS    CST6CDT       3
+KJAS    Jasper County                     TX    CST6CDT       2
+KJAX    Jacksonville                      FL    EST5EDT       3
+KJBR    Jonesboro                         AR    CST6CDT       2
+KJCT    Junction                          TX    CST6CDT       2
+KJDD    Wood County                       TX    CST6CDT       2
+KJDN    Jordan                            MT    MST7MDT       2
+KJEF    Jefferson City                    MO    CST6CDT       2
+KJER    Jerome County                     ID    MST7MDT       2
+KJFK    New York City (JFK)               NY    EST5EDT       2
+KJGG    Williamsburg/Jamestown            VA    EST5EDT       2
+KJHW    Jamestown                         NY    EST5EDT       2
+KJKA    Gulf Shores                       AL    CST6CDT       2
+KJKJ    Moorhead                          MN    CST6CDT       2
+KJKL    Jackson                           KY    EST5EDT       2
+KJLN    Joplin                            MO    CST6CDT       2
+KJMR    Mora                              MN    CST6CDT       2
+KJMS    Jamestown                         ND    CST6CDT       2
+KJNX    Smithfield                        NC    EST5EDT       2
+KJOT    Joliet                            IL    CST6CDT       2
+KJQF    Concord                           NC    EST5EDT       2
+KJSO    Cherokee County                   TX    CST6CDT       2
+KJST    Johnstown                         PA    EST5EDT       2
+KJSV    Sallisaw                          OK    CST6CDT       2
+KJVL    Janesville                        WI    CST6CDT       2
+KJWG    Watonga                           OK    CST6CDT       2
+KJWY    Midlothian/Waxahachie             TX    CST6CDT       2
+KJXI    Gilmer                            TX    CST6CDT       2
+KJXN    Jackson                           MI    EST5EDT       2
+KJYG    St. James                         MN    CST6CDT       2
+KJYL    Sylvania                          GA    EST5EDT       2
+KJYM    Hilldale                          MI    EST5EDT       2
+KJYO    Leesburg                          VA    EST5EDT       2
+KJYR    York                              NE    CST6CDT       2
+KKLS    Kelso/Longveiw                    WA    PST8PDT       2
+KL75    Sulphur                           LA    CST6CDT       2
+KLAA    Lamar                             CO    MST7MDT       2
+KLAF    Lafayette                         IN    EST5EDT       2
+KLAL    Lakeland                          FL    EST5EDT       2
+KLAM    Los Alamos                        NM    MST7MDT       2
+KLAN    Lansing                           MI    EST5EDT       3
+KLAR    Laramie                           WY    MST7MDT       2
+KLAS    Las Vegas                         NV    PST8PDT       3
+KLAW    Lawton                            OK    CST6CDT       2
+KLAX    Los Angeles                       CA    PST8PDT       2
+KLBB    Lubbock                           TX    CST6CDT       3
+KLBE    Latrobe                           PA    EST5EDT       2
+KLBF    North Platte                      NE    CST6CDT       3
+KLBL    Liberal                           KS    CST6CDT       2
+KLBR    Clarksville                       TX    CST6CDT       2
+KLBT    Lumberton                         NC    EST5EDT       2
+KLBX    Angleton/Lake Jackson             TX    CST6CDT       2
+KLCG    Wayne                             NE    CST6CDT       2
+KLCH    Lake Charles                      LA    CST6CDT       3
+KLCI    Laconia                           NH    EST5EDT       2
+KLCK    Rickenbacker AFB                  OH    EST5EDT       2
+KLDM    Ludington                         MI    EST5EDT       2
+KLEB    Lebanon                           NH    EST5EDT       2
+KLEE    Leesburg                          FL    EST5EDT       2
+KLEW    Auburn/Lewiston                   ME    EST5EDT       2
+KLEX    Lexington                         KY    EST5EDT       3
+KLFI    Langley AFB                       VA    EST5EDT       2
+KLFK    Lufkin                            TX    CST6CDT       2
+KLFT    Lafayette                         LA    CST6CDT       2
+KLGA    New York City (La Guardia)        NY    EST5EDT       2
+KLGB    Long Beach                        CA    PST8PDT       2
+KLGC    La Grange                         GA    EST5EDT       2
+KLGD    La Grande                         OR    PST8PDT       2
+KLGU    Logan                             UT    MST7MDT       2
+KLHB    Hearne                            TX    CST6CDT       2
+KLHQ    Lancaster                         OH    EST5EDT       2
+KLHW    Fort Stewart                      GA    EST5EDT       2
+KLHX    La Junta                          CO    MST7MDT       2
+KLHZ    Louisburg                         NC    EST5EDT       2
+KLIC    Limon                             CO    MST7MDT       2
+KLIT    Little Rock                       AR    CST6CDT       3
+KLIX    Slidell                           LA    CST6CDT       2
+KLJF    Litchfield                        MN    CST6CDT       2
+KLKN    Elko                              NV    PST8PDT       2
+KLKU    Louisa County                     VA    EST5EDT       2
+KLKV    Lakeview                          OR    PST8PDT       2
+KLLJ    Challis                           ID    MST7MDT       2
+KLLQ    Monticello                        AR    CST6CDT       2
+KLMT    Klamath Falls                     OR    PST8PDT       2
+KLNC    Lancaster                         TX    CST6CDT       2
+KLND    Lander                            WY    MST7MDT       2
+KLNK    Lincoln                           NE    CST6CDT       3
+KLNL    Land O'Lakes                      WI    CST6CDT       2
+KLNP    Wise County                       VA    EST5EDT       2
+KLNR    Lone Rock                         WI    CST6CDT       2
+KLNS    Lancaster                         PA    EST5EDT       2
+KLOL    Lovelock                          NV    PST8PDT       2
+KLOM    Philadelphia (Wings)              PA    EST5EDT       2
+KLOT    Chicago (Lewis University)        IL    CST6CDT       2
+KLOU    Louisville (Bowman)               KY    EST5EDT       2
+KLOX    Oxnard                            CA    PST8PDT       2
+KLOZ    London/Corbin                     KY    EST5EDT       2
+KLPC    Lompoc                            CA    PST8PDT       2
+KLPR    Lorain                            OH    EST5EDT       2
+KLRD    Laredo                            TX    CST6CDT       2
+KLRF    Little Rock AFB                   AR    CST6CDT       2
+KLRJ    Le Mars                           IA    CST6CDT       2
+KLRU    Las Cruces                        NM    MST7MDT       2
+KLSE    La Crosse                         WI    CST6CDT       2
+KLSF    Fort Benning                      GA    EST5EDT       2
+KLSV    Nellis AFB                        NV    PST8PDT       2
+KLSX    St. Louis                         MO    CST6CDT       2
+KLTS    Altus AFB                         OK    CST6CDT       2
+KLUD    Decatur                           TX    CST6CDT       2
+KLUF    Luke AFB                          AZ    MST7          2
+KLUK    Cincinnati (Lunkin)               OH    EST5EDT       2
+KLUM    Menomonie                         WI    CST6CDT       2
+KLVJ    Houston (Clover)                  TX    CST6CDT       2
+KLVK    Livermore                         CA    PST8PDT       2
+KLVM    Livingston                        MT    MST7MDT       2
+KLVN    Airlake                           MN    CST6CDT       2
+KLVS    Las Vegas                         NM    MST7MDT       2
+KLWA    South Haven                       MI    EST5EDT       2
+KLWB    Lewisburg                         WV    EST5EDT       2
+KLWC    Lawrence                          KS    CST6CDT       2
+KLWD    Lamoni                            IA    CST6CDT       2
+KLWM    Lawrence                          MA    EST5EDT       2
+KLWS    Lewiston                          ID    PST8PDT       2
+KLWT    Lewistown                         MT    MST7MDT       2
+KLWV    Lawrenceville                     IL    CST6CDT       2
+KLWX    Sterling                          VA    EST5EDT       2
+KLXL    Little Falls                      MN    CST6CDT       2
+KLXN    Lexington                         NE    CST6CDT       2
+KLXT    Lees Summit                       MO    CST6CDT       2
+KLYH    Lynchburg                         VA    EST5EDT       2
+KLYV    Luverne                           MN    CST6CDT       2
+KLZK    North Little Rock                 AR    CST6CDT       2
+KLZU    Lawrenceville                     GA    EST5EDT       2
+KM19    Newport                           AR    CST6CDT       2
+KM30    Metropolis                        IL    CST6CDT       2
+KMAE    Madera                            CA    PST8PDT       2
+KMAF    Midland/Odessa                    TX    CST6CDT       3
+KMAI    Marianna                          FL    CST6CDT       2
+KMBG    Mobridge                          SD    CST6CDT       2
+KMBL    Manistee                          MI    EST5EDT       2
+KMBS    Saginaw                           MI    EST5EDT       2
+KMCB    McComb                            MS    CST6CDT       2
+KMCD    Mackinac Island                   MI    EST5EDT       2
+KMCE    Merced                            CA    PST8PDT       2
+KMCF    MacDill AFB                       FL    EST5EDT       2
+KMCI    Kansas City                       MO    CST6CDT       3
+KMCK    McCook                            NE    CST6CDT       2
+KMCN    Macon                             GA    EST5EDT       3
+KMCO    Orlando                           FL    EST5EDT       3
+KMCW    Mason City                        IA    CST6CDT       2
+KMDD    Midland                           TX    CST6CDT       2
+KMDH    Carbondale                        IL    CST6CDT       2
+KMDQ    Madison County                    AL    CST6CDT       2
+KMDT    Harrisburg                        PA    EST5EDT       3
+KMDW    Chicago (Midway)                  IL    CST6CDT       2
+KMDZ    Medford                           WI    CST6CDT       2
+KMEB    Maxton/Laurinburg                 NC    EST5EDT       2
+KMEH    Meacham                           OR    PST8PDT       2
+KMEI    Meridian                          MS    CST6CDT       2
+KMEM    Memphis                           TN    CST6CDT       3
+KMEZ    Mena                              AR    CST6CDT       2
+KMFD    Mansfield                         OH    EST5EDT       2
+KMFE    McAllen                           TX    CST6CDT       2
+KMFI    Marshfield                        WI    CST6CDT       2
+KMFR    Medford                           OR    PST8PDT       3
+KMFV    Melfa                             VA    EST5EDT       2
+KMGE    Dobbins AFB                       GA    EST5EDT       2
+KMGG    Maple Lake                        MN    CST6CDT       2
+KMGJ    Montgomery                        NY    EST5EDT       2
+KMGM    Montgomery                        AL    CST6CDT       3
+KMGN    Harbor Springs                    MI    EST5EDT       2
+KMGR    Moultrie                          GA    EST5EDT       2
+KMGW    Morgantown                        WV    EST5EDT       2
+KMGY    Dayton (Wright Brothers)          OH    EST5EDT       2
+KMHE    Mitchell                          SD    CST6CDT       2
+KMHK    Manhattan                         KS    CST6CDT       2
+KMHN    Mullen                            NE    MST7MDT       2
+KMHR    Sacramento (Mather)               CA    PST8PDT       2
+KMHS    Mount Shasta                      CA    PST8PDT       2
+KMHT    Manchester                        NH    EST5EDT       2
+KMHV    Mojave                            CA    PST8PDT       2
+KMHX    Newport                           NC    EST5EDT       2
+KMIA    Miami                             FL    EST5EDT       3
+KMIB    Minot AFB                         ND    CST6CDT       2
+KMIC    Minneapolis (Crystal)             MN    CST6CDT       2
+KMIE    Muncie                            IN    EST5EDT       2
+KMIV    Millville                         NJ    EST5EDT       2
+KMIW    Marshalltown                      IA    CST6CDT       2
+KMJQ    Jackson                           MN    CST6CDT       2
+KMKC    Kansas City (Downtown)            MO    CST6CDT       2
+KMKE    Milwaukee                         WI    CST6CDT       3
+KMKG    Muskegon                          MI    EST5EDT       2
+KMKJ    Marion/Wytheville                 VA    EST5EDT       2
+KMKL    Jackson                           TN    CST6CDT       2
+KMKN    Comanche County                   TX    CST6CDT       2
+KMKO    Muskogee                          OK    CST6CDT       2
+KMKT    Mankato                           MN    CST6CDT       2
+KMLB    Melbourne                         FL    EST5EDT       2
+KMLC    McAlester                         OK    CST6CDT       2
+KMLE    Millard                           NE    CST6CDT       2
+KMLF    Milford                           UT    MST7MDT       2
+KMLI    Moline                            IL    CST6CDT       2
+KMLJ    Milledgeville                     GA    EST5EDT       2
+KMLS    Miles City                        MT    MST7MDT       2
+KMLT    Millinocket                       ME    EST5EDT       2
+KMLU    Monroe                            LA    CST6CDT       2
+KMMH    Mammoth Lakes                     CA    PST8PDT       2
+KMMK    Meriden                           CT    EST5EDT       2
+KMML    Marshall                          MN    CST6CDT       2
+KMMO    Marseilles                        IL    CST6CDT       2
+KMMT    McEntire ANGB                     SC    EST5EDT       2
+KMMU    Morristown                        NJ    EST5EDT       2
+KMMV    McMinnville                       OR    PST8PDT       2
+KMNM    Menominee                         MI    CST6CDT       2
+KMNN    Marion                            OH    EST5EDT       2
+KMOB    Mobile                            AL    CST6CDT       3
+KMOD    Modesto City                      CA    PST8PDT       2
+KMOP    Mount Pleasant                    MI    EST5EDT       2
+KMOT    Minot                             ND    CST6CDT       2
+KMOX    Morris                            MN    CST6CDT       2
+KMPO    Pocono Mountains                  PA    EST5EDT       2
+KMPV    Barre/Montpelier                  VT    EST5EDT       2
+KMPX    Chanhassen                        MN    CST6CDT       2
+KMPZ    Mount Pleasant                    IA    CST6CDT       2
+KMQB    Macomb                            IL    CST6CDT       2
+KMQE    East Milton                       MA    EST5EDT       2
+KMQI    Manteo                            NC    EST5EDT       2
+KMQT    Marquette County                  MI    EST5EDT       2
+KMQY    Smyrna                            TN    CST6CDT       2
+KMRB    Martinsburg                       WV    EST5EDT       2
+KMRF    Marfa                             TX    CST6CDT       2
+KMRH    Beaufort                          NC    EST5EDT       2
+KMRJ    Mineral Point                     WI    CST6CDT       2
+KMRN    Morganton/Lenoir                  NC    EST5EDT       2
+KMRY    Monterey                          CA    PST8PDT       2
+KMSL    Muscle Shoals                     AL    CST6CDT       2
+KMSN    Madison                           WI    CST6CDT       3
+KMSO    Missoula                          MT    MST7MDT       3
+KMSP    Minneapolis/St. Paul              MN    CST6CDT       3
+KMSS    Massena                           NY    EST5EDT       2
+KMSV    Monticello                        NY    EST5EDT       2
+KMSY    New Orleans                       LA    CST6CDT       3
+KMTC    Selfridge ANGB                    MI    EST5EDT       2
+KMTH    Marathon                          FL    EST5EDT       2
+KMTJ    Montrose County                   CO    MST7MDT       2
+KMTN    Baltimore (Martin)                MD    EST5EDT       2
+KMTO    Mattoon                           IL    CST6CDT       2
+KMTP    Montauk                           NY    EST5EDT       2
+KMTR    Monterey                          CA    PST8PDT       2
+KMTV    Martinsville                      VA    EST5EDT       2
+KMTW    Manitowac                         WI    CST6CDT       2
+KMUI    Muir AAF                          PA    EST5EDT       2
+KMUO    Mountain Home AFB                 ID    MST7MDT       2
+KMUT    Muscatine                         IA    CST6CDT       2
+KMVE    Montevideo                        MN    CST6CDT       2
+KMVL    Morrisville                       VT    EST5EDT       2
+KMVN    Mount Vernon                      IL    CST6CDT       2
+KMVY    Martha's Vineyard                 MA    EST5EDT       2
+KMWA    Marion                            IL    CST6CDT       2
+KMWC    Milwaukee (Timmerman)             WI    CST6CDT       2
+KMWH    Moses Lake                        WA    PST8PDT       2
+KMWK    Mount Airy                        NC    EST5EDT       2
+KMWL    Mineral Wells                     TX    CST6CDT       2
+KMWM    Windom                            MN    CST6CDT       2
+KMWO    Middletown                        OH    EST5EDT       2
+KMWS    Mount Wilson                      CA    PST8PDT       2
+KMWT    Mount Ida                         AR    CST6CDT       2
+KMXF    Maxwell AFB                       AL    CST6CDT       2
+KMXO    Monticello                        IA    CST6CDT       2
+KMYF    San Diego (Montgomery)            CA    PST8PDT       2
+KMYL    McCall                            ID    MST7MDT       2
+KMYR    Myrtle Beach                      SC    EST5EDT       2
+KMYV    Marysville                        CA    PST8PDT       2
+KMZH    Moose Lake                        MN    CST6CDT       2
+KN60    Garrison                          ND    CST6CDT       2
+KNAK    Annapolis                         MD    EST5EDT       2
+KNBC    Beaufort MCAS                     SC    EST5EDT       2
+KNBG    New Orleans NAS                   LA    CST6CDT       2
+KNCA    New River MCAS                    NC    EST5EDT       2
+KNDZ    Milton                            FL    CST6CDT       2
+KNEL    Lakehurst NAS                     NJ    EST5EDT       2
+KNEW    New Orleans (Lakefront)           LA    CST6CDT       2
+KNFG    Camp Pendleton MCAS               CA    PST8PDT       2
+KNFL    Fallon NAS                        NV    PST8PDT       2
+KNFW    Fort Worth NAS                    TX    CST6CDT       2
+KNGP    Corpus Christi NAS                TX    CST6CDT       2
+KNGU    Norfolk NAS                       VA    EST5EDT       2
+KNHK    Patuxent River NAS                MD    EST5EDT       2
+KNHZ    Brunswick NAS                     ME    EST5EDT       2
+KNID    China Lake NAS                    CA    PST8PDT       2
+KNIP    Jacksonville NAS                  FL    EST5EDT       2
+KNJK    El Centro NAS                     CA    PST8PDT       2
+KNJW    Meridian                          MS    CST6CDT       2
+KNKT    Cherry Point MCAS                 NC    EST5EDT       2
+KNKX    Miramar NAS                       CA    PST8PDT       2
+KNLC    Lemoore NAS                       CA    PST8PDT       2
+KNMM    Meridian NAS                      MS    CST6CDT       2
+KNPA    Pensacola NAS                     FL    CST6CDT       2
+KNQA    Millington                        TN    CST6CDT       2
+KNQI    Kingsville NAS                    TX    CST6CDT       2
+KNQX    Key West NAS                      FL    EST5EDT       2
+KNRB    Mayport NAS                       FL    EST5EDT       2
+KNRS    Imperial Beach                    CA    PST8PDT       2
+KNSE    Whiting Field NAS                 FL    CST6CDT       2
+KNSI    San Nicolas Island                CA    PST8PDT       2
+KNTD    Point Mugu NAS                    CA    PST8PDT       2
+KNTU    Oceana NAS                        VA    EST5EDT       2
+KNUC    San Clemente                      CA    PST8PDT       2
+KNUQ    Moffett NAS                       CA    PST8PDT       2
+KNUW    Whidbey Island NAS                WA    PST8PDT       2
+KNXP    Twentynine Palms                  CA    PST8PDT       2
+KNXX    Willow Grove NAS                  PA    EST5EDT       2
+KNYC    New York City                     NY    EST5EDT       3
+KNYG    Quantico MCAS                     VA    EST5EDT       2
+KNYL    Yuma                              AZ    MST7          3
+KNZY    North Island NAS                  CA    PST8PDT       2
+KO87    Shelter Cove                      CA    PST8PDT       2
+KOAJ    Jacksonville                      NC    EST5EDT       2
+KOAK    Oakland                           CA    PST8PDT       2
+KOAX    Valley                            NE    CST6CDT       2
+KOCF    Ocala                             FL    EST5EDT       2
+KOCH    Nacogdoches                       TX    CST6CDT       2
+KOCW    Washington                        NC    EST5EDT       2
+KODO    Odessa (Schlemeyer)               TX    CST6CDT       2
+KODX    Ord                               NE    CST6CDT       2
+KOEB    Coldwater                         MI    EST5EDT       2
+KOEO    Osceola                           WI    CST6CDT       2
+KOFF    Offutt AFB                        NE    CST6CDT       2
+KOFK    Norfolk                           NE    CST6CDT       2
+KOFP    Richmond                          VA    EST5EDT       2
+KOGA    Ogalalla                          NE    MST7MDT       2
+KOGB    Orangeburg                        SC    EST5EDT       2
+KOGD    Ogden                             UT    MST7MDT       2
+KOGS    Ogdensburg                        NY    EST5EDT       2
+KOJC    Olathe                            KS    CST6CDT       2
+KOKB    Oceanside                         CA    PST8PDT       2
+KOKC    Oklahoma City                     OK    CST6CDT       3
+KOKK    Kokomo                            IN    EST5EDT       2
+KOKM    Okmulgee                          OK    CST6CDT       2
+KOKV    Winchester                        VA    EST5EDT       2
+KOKX    Brookhaven                        NY    EST5EDT       2
+KOLF    Wolf Point                        MT    MST7MDT       2
+KOLM    Olympia                           WA    PST8PDT       2
+KOLS    Nogales                           AZ    MST7          2
+KOLU    Columbus                          NE    CST6CDT       2
+KOLV    Olive Branch                      MS    CST6CDT       2
+KOLY    Olney/Noble                       IL    CST6CDT       2
+KOLZ    Oelwen                            IA    CST6CDT       2
+KOMA    Omaha                             NE    CST6CDT       3
+KOMH    Orange County                     VA    EST5EDT       2
+KOMK    Omak                              WA    PST8PDT       2
+KOMN    Ormond Beach                      FL    EST5EDT       2
+KONA    Winona                            MN    CST6CDT       2
+KONL    O'Neill                           NE    CST6CDT       2
+KONO    Ontario                           OR    MST7MDT       2
+KONP    Newport                           OR    PST8PDT       2
+KONT    Ontario                           CA    PST8PDT       2
+KONX    Currituck County                  NC    EST5EDT       2
+KONZ    Detroit (Grosse Ile)              MI    EST5EDT       2
+KOOA    Oskaloosa                         IA    CST6CDT       2
+KOPF    Miami (Opa Locka)                 FL    EST5EDT       2
+KOPN    Thomaston                         GA    EST5EDT       2
+KOQT    Oak Ridge                         TN    EST5EDT       2
+KOQU    Kingston                          RI    EST5EDT       2
+KORB    Orr                               MN    CST6CDT       2
+KORC    Orange City                       IA    CST6CDT       2
+KORD    Chicago                           IL    CST6CDT       3
+KORE    Orange                            MA    EST5EDT       2
+KORF    Norfolk                           VA    EST5EDT       3
+KORG    Orange County                     TX    CST6CDT       2
+KORH    Worcester                         MA    EST5EDT       2
+KORL    Orlando                           FL    EST5EDT       2
+KORS    Orcas Island                      WA    PST8PDT       2
+KOSA    Mount Pleasant                    TX    CST6CDT       2
+KOSC    Wurtsmith AFB                     MI    EST5EDT       2
+KOSH    Oshkosh                           WI    CST6CDT       2
+KOSU    Columbus (Ohio State University)  OH    EST5EDT       2
+KOTG    Worthington                       MN    CST6CDT       2
+KOTH    North Bend                        OR    PST8PDT       2
+KOTM    Ottumwa                           IA    CST6CDT       2
+KOUN    Norman                            OK    CST6CDT       2
+KOVE    Oroville                          CA    PST8PDT       2
+KOVL    Olivia                            MN    CST6CDT       2
+KOVN    North Omaha                       NE    CST6CDT       2
+KOVS    Boscobel                          WI    CST6CDT       2
+KOWA    Owatonna                          MN    CST6CDT       2
+KOWB    Owensboro                         KY    CST6CDT       2
+KOWD    Norwood                           MA    EST5EDT       2
+KOXB    Ocean City                        MD    EST5EDT       2
+KOXC    Oxford                            CT    EST5EDT       2
+KOXR    Oxnard                            CA    PST8PDT       2
+KOXV    Knoxville                         IA    CST6CDT       2
+KOZR    Cairns AAF                        AL    CST6CDT       2
+KOZW    Howell                            MI    EST5EDT       2
+KP28    Medicine Lodge                    KS    CST6CDT       2
+KP53    Munising                          MI    EST5EDT       2
+KP58    Harbor Beach                      MI    EST5EDT       2
+KP59    Copper Harbor                     MI    EST5EDT       2
+KP60    Yellowstone Lake                  WY    MST7MDT       2
+KP68    Eureka                            NV    PST8PDT       2
+KP69    Lowell                            ID    PST8PDT       2
+KP92    Salt Point                        LA    CST6CDT       2
+KPAE    Everett                           WA    PST8PDT       2
+KPAH    Paducah                           KY    CST6CDT       3
+KPAM    Tyndall AFB                       FL    CST6CDT       2
+KPAO    Palo Alto                         CA    CST6CDT       2
+KPBF    Pine Bluff                        AR    CST6CDT       2
+KPBH    Phillips                          WI    CST6CDT       2
+KPBI    West Palm Beach                   FL    EST5EDT       3
+KPCM    Plant City                        FL    EST5EDT       2
+KPCZ    Waupaca                           WI    CST6CDT       2
+KPDC    Prairie du Chien                  WI    CST6CDT       2
+KPDK    Atlanta (Dekalb)                  GA    EST5EDT       2
+KPDT    Pendleton                         OR    PST8PDT       3
+KPDX    Portland                          OR    PST8PDT       3
+KPEA    Pella                             IA    CST6CDT       2
+KPEO    Penn Yan                          NY    EST5EDT       2
+KPEQ    Pecos                             TX    CST6CDT       2
+KPEX    Paynesville                       MN    CST6CDT       2
+KPFN    Panama City                       FL    CST6CDT       2
+KPGA    Page                              AZ    MST7          2
+KPGD    Punta Gorda                       FL    EST5EDT       2
+KPGV    Greenville                        NC    EST5EDT       2
+KPHD    New Philadelphia                  OH    EST5EDT       2
+KPHF    Newport News                      VA    EST5EDT       2
+KPHL    Philadelphia                      PA    EST5EDT       3
+KPHN    St. Clair County                  MI    EST5EDT       2
+KPHP    Philip                            SD    MST7MDT       2
+KPHX    Phoenix                           AZ    MST7          3
+KPIA    Peoria                            IL    CST6CDT       3
+KPIB    Pine Belt                         MS    CST6CDT       2
+KPIE    St. Petersburg/Clearwater         FL    EST5EDT       2
+KPIH    Pocatello                         ID    MST7MDT       3
+KPIL    Port Isabel                       TX    CST6CDT       2
+KPIR    Pierre                            SD    CST6CDT       2
+KPIT    Pittsburgh                        PA    EST5EDT       3
+KPKB    Parkersburg                       WV    EST5EDT       2
+KPKD    Park Rapids                       MN    CST6CDT       2
+KPKV    Calhoun County                    TX    CST6CDT       2
+KPLB    Plattsburgh                       NY    EST5EDT       2
+KPLN    Pellston                          MI    EST5EDT       2
+KPMD    Palmdale                          CA    PST8PDT       2
+KPMP    Pompano Beach                     FL    EST5EDT       2
+KPMV    Plattsmouth                       NE    CST6CDT       2
+KPNA    Pinedale                          WY    MST7MDT       2
+KPNC    Ponca City                        OK    CST6CDT       2
+KPNE    Northeast Philadelphia            PA    EST5EDT       2
+KPNM    Princeton                         MN    CST6CDT       2
+KPNS    Pensacola                         FL    CST6CDT       2
+KPNT    Pontiac                           IL    CST6CDT       2
+KPOB    Pope AFB                          NC    EST5EDT       2
+KPOC    La Verne                          CA    PST8PDT       2
+KPOE    Fort Polk                         LA    CST6CDT       2
+KPOF    Poplar Bluff                      MO    CST6CDT       2
+KPOU    Poughkeepsie                      NY    EST5EDT       2
+KPPA    Pampa                             TX    CST6CDT       2
+KPPF    Parsons                           KS    CST6CDT       2
+KPPQ    Pittsfield                        IL    CST6CDT       2
+KPQI    Presque Isle                      ME    EST5EDT       2
+KPQL    Pascagoula                        MS    CST6CDT       2
+KPQN    Pipestone                         MN    CST6CDT       2
+KPRB    Paso Robles                       CA    PST8PDT       2
+KPRC    Prescott                          AZ    MST7          2
+KPRG    Edgar County                      IL    CST6CDT       2
+KPRX    Paris                             TX    CST6CDT       2
+KPSC    Pasco                             WA    PST8PDT       2
+KPSF    Pittsfield                        MA    EST5EDT       2
+KPSK    Dublin                            VA    EST5EDT       2
+KPSM    Portsmouth                        NH    EST5EDT       2
+KPSN    Palestine                         TX    CST6CDT       2
+KPSP    Palm Springs                      CA    PST8PDT       2
+KPSX    Palacios                          TX    CST6CDT       2
+KPTB    Petersburg                        VA    EST5EDT       2
+KPTK    Pontiac                           MI    EST5EDT       2
+KPTN    Patterson                         LA    CST6CDT       2
+KPTT    Pratt                             KS    CST6CDT       2
+KPTV    Porterville                       CA    PST8PDT       2
+KPTW    Pottstown                         PA    EST5EDT       2
+KPUB    Pueblo                            CO    MST7MDT       3
+KPUC    Price                             UT    MST7MDT       2
+KPUW    Pullman                           WA    PST8PDT       2
+KPVC    Provincetown                      MA    EST5EDT       2
+KPVD    Providence                        RI    EST5EDT       3
+KPVJ    Pauls Valley                      OK    CST6CDT       2
+KPVU    Provo                             UT    MST7MDT       2
+KPVW    Hale County                       TX    CST6CDT       2
+KPWA    Oklahoma City (Wiley)             OK    CST6CDT       2
+KPWC    Pine River                        MN    CST6CDT       2
+KPWG    McGregor                          TX    CST6CDT       2
+KPWK    Chicago (Palwaukee)               IL    CST6CDT       2
+KPWM    Portland                          ME    EST5EDT       3
+KPWT    Bremerton                         WA    PST8PDT       2
+KPYM    Plymouth                          MA    EST5EDT       2
+KPYX    Perryton                          TX    CST6CDT       2
+KPZQ    Presque Isle County               MI    EST5EDT       2
+KRAC    Racine                            WI    CST6CDT       2
+KRAL    Riverside                         CA    PST8PDT       2
+KRAP    Rapid City                        SD    MST7MDT       3
+KRAS    Mustang Beach                     TX    MST7MDT       2
+KRBD    Dallas (Redbird)                  TX    CST6CDT       2
+KRBG    Roseburg                          OR    PST8PDT       2
+KRBL    Red Bluff                         CA    PST8PDT       2
+KRBO    Robstown                          TX    CST6CDT       2
+KRCA    Ellsworth AFB                     SD    MST7MDT       2
+KRCX    Ladysmith                         WI    CST6CDT       2
+KRDD    Redding                           CA    PST8PDT       2
+KRDG    Reading                           PA    EST5EDT       2
+KRDK    Red Oak                           IA    CST6CDT       2
+KRDM    Redmond                           OR    PST8PDT       2
+KRDR    Grand Forks AFB                   ND    CST6CDT       2
+KRDU    Raleigh/Durham                    NC    EST5EDT       3
+KREO    Rome                              OR    MST7MDT       2
+KRFD    Rockford                          IL    CST6CDT       3
+KRGK    Red Wing                          MN    CST6CDT       2
+KRHI    Rhinelander                       WI    CST6CDT       2
+KRHP    Andrews                           NC    EST5EDT       2
+KRHV    San Jose (Reid-Hillview)          CA    PST8PDT       2
+KRIC    Richmond                          VA    EST5EDT       3
+KRIL    Rifle                             CO    MST7MDT       2
+KRIV    March AFB                         CA    PST8PDT       2
+KRIW    Riverton                          WY    MST7MDT       2
+KRKD    Rockland                          ME    EST5EDT       2
+KRKP    Rockport                          TX    CST6CDT       2
+KRKR    Poteau                            OK    CST6CDT       2
+KRKS    Rock Springs                      WY    MST7MDT       2
+KRME    Rome                              NY    EST5EDT       2
+KRMG    Rome                              GA    EST5EDT       2
+KRMN    Stafford                          VA    EST5EDT       2
+KRMY    Marshall                          MI    EST5EDT       2
+KRND    Randolph AFB                      TX    CST6CDT       2
+KRNH    New Richmond                      WI    CST6CDT       2
+KRNM    Ramona                            CA    PST8PDT       2
+KRNO    Reno                              NV    PST8PDT       3
+KRNP    Owosso                            MI    EST5EDT       2
+KRNT    Renton                            WA    PST8PDT       2
+KROA    Roanoke                           VA    EST5EDT       3
+KROC    Rochester                         NY    EST5EDT       3
+KROG    Rogers                            AR    CST6CDT       2
+KROS    Rush City                         MN    CST6CDT       2
+KROW    Roswell                           NM    MST7MDT       2
+KROX    Roseau                            MN    CST6CDT       2
+KRPD    Rice Lake                         WI    CST6CDT       2
+KRPE    Sabine Pass                       TX    CST6CDT       2
+KRPH    Graham                            TX    CST6CDT       2
+KRPJ    Rochelle                          IL    CST6CDT       2
+KRQB    Big Rapids                        MI    EST5EDT       2
+KRQE    Window Rock                       AZ    MST7          2
+KRQO    El Reno                           OK    CST6CDT       2
+KRRL    Merrill                           WI    CST6CDT       2
+KRRT    Warroad                           MN    CST6CDT       2
+KRSL    Russell                           KS    CST6CDT       2
+KRSN    Ruston                            LA    CST6CDT       2
+KRST    Rochester                         MN    CST6CDT       2
+KRSV    Robinson                          IL    CST6CDT       2
+KRSW    Southwest Florida                 FL    EST5EDT       2
+KRTN    Raton                             NM    MST7MDT       2
+KRUE    Russellville                      AR    CST6CDT       2
+KRUQ    Salisbury                         NC    EST5EDT       2
+KRUT    Rutland                           VT    EST5EDT       2
+KRVS    Tulsa (Jones)                     OK    CST6CDT       2
+KRWF    Redwood Falls                     MN    CST6CDT       2
+KRWI    Rocky Mount/Wilson                NC    EST5EDT       2
+KRWL    Rawlins                           WY    MST7MDT       2
+KRWV    Caldwell                          TX    CST6CDT       2
+KRXE    Rexburg                           ID    MST7MDT       2
+KRYV    Watertown                         WI    CST6CDT       2
+KRYY    Marietta                          GA    EST5EDT       2
+KRZN    Siren                             WI    CST6CDT       2
+KRZZ    Roanoke Rapids                    NC    EST5EDT       2
+KS47    Tillamook                         OR    PST8PDT       2
+KSAC    Sacramento                        CA    PST8PDT       3
+KSAD    Safford                           AZ    MST7          2
+KSAF    Santa Fe                          NM    MST7MDT       3
+KSAN    San Diego                         CA    PST8PDT       3
+KSAR    Sparta                            IL    CST6CDT       2
+KSAT    San Antonio                       TX    CST6CDT       3
+KSAV    Savannah                          GA    EST5EDT       3
+KSAW    Sawyer                            MI    EST5EDT       2
+KSAZ    Staples                           MN    CST6CDT       2
+KSBA    Santa Barbara                     CA    PST8PDT       2
+KSBM    Sheboygan County                  WI    CST6CDT       2
+KSBN    South Bend                        IN    EST5EDT       3
+KSBP    San Luis Obispo                   CA    PST8PDT       2
+KSBY    Salisbury                         MD    EST5EDT       2
+KSCH    Schenectady                       NY    EST5EDT       2
+KSCK    Stockton                          CA    PST8PDT       2
+KSDA    Shenandoah                        IA    CST6CDT       2
+KSDB    Sandburg                          CA    PST8PDT       2
+KSDF    Louisville                        KY    EST5EDT       3
+KSDL    Scottsdale                        AZ    MST7          2
+KSDM    San Diego (Brown)                 CA    PST8PDT       2
+KSDY    Sidney                            MT    MST7MDT       2
+KSEA    Seattle/Tacoma                    WA    PST8PDT       3
+KSEE    San Diego (Gillespie)             CA    PST8PDT       2
+KSEG    Selinsgrove                       PA    EST5EDT       2
+KSEP    Stephenville                      TX    CST6CDT       2
+KSET    St. Charles                       MO    CST6CDT       2
+KSFB    Sanford                           FL    EST5EDT       2
+KSFD    Winner                            SD    CST6CDT       2
+KSFF    Spokane (Felts)                   WA    PST8PDT       2
+KSFM    Sanford                           ME    EST5EDT       2
+KSFO    San Francisco                     CA    PST8PDT       3
+KSFQ    Suffolk                           VA    EST5EDT       2
+KSFY    Savanna                           IL    CST6CDT       2
+KSFZ    Pawtucket                         RI    EST5EDT       2
+KSGF    Springfield                       MO    CST6CDT       3
+KSGH    Springfield                       OH    EST5EDT       2
+KSGJ    St. Augustine                     FL    EST5EDT       2
+KSGR    Houston (Hull)                    TX    CST6CDT       2
+KSGS    South St. Paul                    MN    CST6CDT       2
+KSGT    Stuttgart                         AR    CST6CDT       2
+KSGU    St. George                        UT    MST7MDT       2
+KSHD    Shenandoah Valley                 VA    EST5EDT       2
+KSHL    Sheldon                           IA    CST6CDT       2
+KSHN    Shelton                           WA    PST8PDT       2
+KSHR    Sheridan County                   WY    MST7MDT       2
+KSHV    Shreveport                        LA    CST6CDT       3
+KSIF    Rockingham County                 NC    EST5EDT       2
+KSIY    Montague                          CA    PST8PDT       2
+KSJC    San Jose                          CA    PST8PDT       3
+KSJN    St. Johns                         AZ    MST7          2
+KSJT    San Angelo                        TX    CST6CDT       3
+KSJX    Beaver Island                     MI    EST5EDT       2
+KSKA    Fairchild AFB                     WA    PST8PDT       2
+KSKF    Kelly AFB                         TX    CST6CDT       2
+KSKX    Taos                              NM    MST7MDT       2
+KSLB    Storm Lake                        IA    CST6CDT       2
+KSLC    Salt Lake City                    UT    MST7MDT       3
+KSLE    Salem                             OR    PST8PDT       3
+KSLG    Siloam Spring                     AR    CST6CDT       2
+KSLH    Cheboygan County                  MI    EST5EDT       2
+KSLI    Los Alamitos AAF                  CA    PST8PDT       2
+KSLK    Saranac Lake                      NY    EST5EDT       2
+KSLN    Salina                            KS    CST6CDT       2
+KSLO    Salem                             IL    CST6CDT       2
+KSLR    Sulphur Springs                   TX    CST6CDT       2
+KSME    Somerset                          KY    EST5EDT       2
+KSMF    Sacramento (Metro)                CA    PST8PDT       2
+KSMN    Salmon                            ID    MST7MDT       2
+KSMO    Santa Monica                      CA    PST8PDT       2
+KSMP    Stampede Pass                     WA    PST8PDT       2
+KSMQ    Somerset                          NJ    EST5EDT       2
+KSMX    Santa Maria                       CA    PST8PDT       2
+KSNA    Santa Ana                         CA    PST8PDT       2
+KSNK    Snyder                            TX    CST6CDT       2
+KSNL    Shawnee                           OK    CST6CDT       2
+KSNS    Salinas                           CA    PST8PDT       2
+KSNT    Stanley                           ID    MST7MDT       2
+KSNY    Sidney                            NE    MST7MDT       2
+KSOA    Sonora                            TX    CST6CDT       2
+KSOP    Southern Pines                    NC    EST5EDT       2
+KSOW    Show Low                          AZ    MST7          2
+KSPB    Scappoose                         OR    PST8PDT       2
+KSPD    Springfield                       CO    MST7MDT       2
+KSPG    St. Petersburg                    FL    EST5EDT       3
+KSPI    Springfield                       IL    CST6CDT       3
+KSPS    Wichita Falls                     TX    CST6CDT       3
+KSPW    Spencer                           IA    CST6CDT       2
+KSQI    Sterling                          IL    CST6CDT       2
+KSQL    San Carlos                        CA    PST8PDT       2
+KSRE    Seminole                          OK    CST6CDT       2
+KSRQ    Sarasota/Bradenton                FL    EST5EDT       2
+KSRR    Ruidoso                           NM    MST7MDT       2
+KSSC    Shaw AFB                          SC    EST5EDT       2
+KSSF    San Antonio (Stinson)             TX    CST6CDT       2
+KSSI    Brunswick                         GA    EST5EDT       2
+KSTC    St. Cloud                         MN    CST6CDT       2
+KSTE    Stevens Point                     WI    CST6CDT       2
+KSTJ    St. Joseph                        MO    CST6CDT       2
+KSTL    St. Louis                         MO    CST6CDT       3
+KSTP    St. Paul (Downtown)               MN    CST6CDT       2
+KSTS    Santa Rosa                        CA    PST8PDT       2
+KSUA    Stuart                            FL    EST5EDT       2
+KSUE    Sturgeon Bay                      WI    CST6CDT       2
+KSUN    Hailey                            ID    MST7MDT       2
+KSUS    St. Louis (Spirit of St. Louis)   MO    CST6CDT       2
+KSUT    Oak Island                        NC    EST5EDT       2
+KSUU    Travis AFB                        CA    PST8PDT       2
+KSUW    Superior                          WI    CST6CDT       2
+KSUX    Sioux City                        IA    CST6CDT       3
+KSVC    Silver City                       NM    MST7MDT       2
+KSVH    Statesville                       NC    EST5EDT       2
+KSVN    Hunter AAF                        GA    EST5EDT       2
+KSWF    Newburgh                          NY    EST5EDT       2
+KSWO    Stillwater                        OK    CST6CDT       2
+KSWW    Sweetwater                        TX    CST6CDT       2
+KSXT    Sexton Summit                     OR    PST8PDT       2
+KSYN    Stanton                           MN    CST6CDT       2
+KSYR    Syracuse                          NY    EST5EDT       3
+KSZL    Whiteman AFB                      MO    CST6CDT       2
+KSZT    Sandpoint                         ID    PST8PDT       2
+KT82    Gillespie County                  TX    CST6CDT       2
+KTAD    Trinidad                          CO    MST7MDT       2
+KTAN    Taunton                           MA    EST5EDT       2
+KTAZ    Taylorville                       IL    CST6CDT       2
+KTBN    Fort Leonard Wood                 MO    CST6CDT       2
+KTBR    Statesboro                        GA    EST5EDT       2
+KTCC    Tucumcari                         NM    MST7MDT       2
+KTCL    Tuscaloosa                        AL    CST6CDT       2
+KTCM    McChord AFB                       WA    PST8PDT       2
+KTCS    Truth or Consequences             NM    MST7MDT       2
+KTDF    Roxboro                           NC    EST5EDT       2
+KTDO    Toledo                            WA    PST8PDT       2
+KTDZ    Toledo (Metcalf)                  OH    EST5EDT       2
+KTEB    Teterboro                         NJ    EST5EDT       2
+KTEW    Mason                             MI    EST5EDT       2
+KTFX    Great Falls                       MT    MST7MDT       2
+KTHV    York                              PA    EST5EDT       2
+KTIF    Thomas County                     NE    CST6CDT       2
+KTIK    Tinker AFB                        OK    CST6CDT       2
+KTIP    Rantoul                           IL    CST6CDT       2
+KTIW    Tacoma Narrows                    WA    PST8PDT       2
+KTIX    Titusville                        FL    EST5EDT       2
+KTKC    Tracy                             MN    CST6CDT       2
+KTKI    McKinney                          TX    CST6CDT       2
+KTKV    Tomahawk                          WI    CST6CDT       2
+KTLH    Tallahassee                       FL    EST5EDT       3
+KTMB    Miami (Kendall-Tamiami)           FL    EST5EDT       2
+KTNU    Newton                            IA    CST6CDT       2
+KTOA    Torrance                          CA    PST8PDT       2
+KTOB    Dodge Center                      MN    CST6CDT       2
+KTOI    Troy                              AL    CST6CDT       2
+KTOL    Toledo                            OH    EST5EDT       3
+KTOP    Topeka                            KS    CST6CDT       3
+KTOR    Torrington                        WY    MST7MDT       2
+KTPA    Tampa                             FL    EST5EDT       3
+KTPF    Tampa (Peter O. Knight)           FL    EST5EDT       2
+KTPH    Tonopah                           NV    PST8PDT       2
+KTPL    Temple                            TX    CST6CDT       2
+KTQE    Tekamah                           NE    CST6CDT       2
+KTQH    Tahlequah                         OK    CST6CDT       2
+KTRI    Bristol                           TN    EST5EDT       2
+KTRK    Truckee                           CA    PST8PDT       2
+KTRL    Terrell                           TX    CST6CDT       2
+KTRM    Thermal                           CA    PST8PDT       2
+KTTA    Sanford                           NC    EST5EDT       2
+KTTD    Portland (Troutdale)              OR    PST8PDT       2
+KTTF    Monroe                            MI    EST5EDT       2
+KTTN    Trenton                           NJ    EST5EDT       2
+KTUL    Tulsa                             OK    CST6CDT       3
+KTUP    Tupelo                            MS    CST6CDT       3
+KTUS    Tucson                            AZ    MST7          3
+KTVC    Traverse City                     MI    EST5EDT       2
+KTVF    Thief River                       MN    CST6CDT       2
+KTVL    South Lake Tahoe                  CA    PST8PDT       2
+KTVR    Vicksburg                         MS    CST6CDT       2
+KTWF    Twin Falls                        ID    MST7MDT       2
+KTWM    Two Harbors                       MN    CST6CDT       2
+KTXK    Texarkana                         AR    CST6CDT       2
+KTYR    Tyler                             TX    CST6CDT       2
+KTYS    Knoxville                         TN    EST5EDT       3
+KTZR    Columbus (Bolton)                 OH    EST5EDT       2
+KUAO    Aurora                            OR    PST8PDT       2
+KUCA    Utica                             NY    EST5EDT       2
+KUCP    New Castle                        PA    EST5EDT       2
+KUDG    Darlington                        SC    EST5EDT       2
+KUES    Waukesha                          WI    CST6CDT       2
+KUGN    Chicago (Waukegan)                IL    CST6CDT       2
+KUIL    Quillayute                        WA    PST8PDT       2
+KUIN    Quincy                            IL    CST6CDT       2
+KUKF    North Wilkesboro                  NC    EST5EDT       2
+KUKI    Ukiah                             CA    PST8PDT       2
+KUKT    Quakertown                        PA    EST5EDT       2
+KULM    New Ulm                           MN    CST6CDT       2
+KUNO    West Plains                       MO    CST6CDT       2
+KUNU    Juneau                            WI    CST6CDT       2
+KUNV    State College                     PA    EST5EDT       2
+KUTA    Tunica                            MS    CST6CDT       2
+KUTS    Huntsville                        TX    CST6CDT       2
+KUUU    Newport                           RI    EST5EDT       2
+KUVA    Uvalde                            TX    CST6CDT       2
+KUZA    Rock Hill                         SC    EST5EDT       2
+KVAD    Moody AFB                         GA    EST5EDT       2
+KVAY    Mount Holly                       NJ    EST5EDT       2
+KVBG    Vandenberg AFB                    CA    PST8PDT       2
+KVBT    Bentonville                       AR    CST6CDT       2
+KVCB    Vacaville                         CA    PST8PDT       2
+KVCT    Victoria                          TX    CST6CDT       2
+KVCV    Victorville                       CA    PST8PDT       2
+KVDF    Tampa (Vandenburg)                FL    EST5EDT       2
+KVDI    Vidalia                           GA    EST5EDT       2
+KVEL    Vernal                            UT    MST7MDT       2
+KVGT    North Las Vegas                   NV    PST8PDT       2
+KVIH    Rolla/Vichy                       MO    CST6CDT       2
+KVIS    Visalia                           CA    PST8PDT       2
+KVJI    Abingdon                          VA    EST5EDT       2
+KVLD    Valdosta                          GA    EST5EDT       2
+KVLL    Oakland                           MI    EST5EDT       2
+KVNY    Van Nuys                          CA    PST8PDT       2
+KVOK    Volk                              WI    CST6CDT       2
+KVPC    Cartersville                      GA    EST5EDT       2
+KVPS    Eglin AFB                         FL    CST6CDT       2
+KVPZ    Valparaiso                        IN    CST6CDT       2
+KVQQ    Cecil Field NAS                   FL    EST5EDT       2
+KVRB    Vero Beach                        FL    EST5EDT       2
+KVSF    Springfield                       VT    EST5EDT       2
+KVTA    Newark                            OH    EST5EDT       2
+KVTI    Vinton                            IA    CST6CDT       2
+KVTN    Valentine                         NE    CST6CDT       2
+KVUJ    Albemarle                         NC    EST5EDT       2
+KVUO    Vancouver                         WA    PST8PDT       2
+KVVG    The Villages                      FL    EST5EDT       2
+KVVV    Ortonville                        MN    CST6CDT       2
+KVWU    Waskish                           MN    CST6CDT       2
+KVYS    Illinois Valley                   IL    CST6CDT       2
+KWAL    Wallops Island                    VA    EST5EDT       2
+KWDG    Enid                              OK    CST6CDT       2
+KWDR    Winder                            GA    EST5EDT       2
+KWEY    West Yellowstone                  MT    MST7MDT       2
+KWHP    Whiteman                          CA    PST8PDT       2
+KWJF    Lancaster                         CA    PST8PDT       2
+KWLD    Winfield                          KS    CST6CDT       2
+KWMC    Winnemucca                        NV    PST8PDT       2
+KWRB    Robins AFB                        GA    EST5EDT       2
+KWRI    McGuire AFB                       NJ    EST5EDT       2
+KWRL    Worland                           WY    MST7MDT       2
+KWST    Westerly                          RI    EST5EDT       2
+KWVI    Watsonville                       CA    PST8PDT       2
+KWVL    Waterville                        ME    EST5EDT       2
+KWWD    Wildwood                          NJ    EST5EDT       2
+KWWR    West Woodward                     OK    CST6CDT       2
+KXBP    Bridgeport                        TX    CST6CDT       2
+KXNA    Northwest Arkansas                AR    CST6CDT       2
+KXVG    Longville                         MN    CST6CDT       2
+KYIP    Detroit (Willow Run)              MI    EST5EDT       2
+KYKM    Yakima                            WA    PST8PDT       3
+KYKN    Yankton                           SD    CST6CDT       2
+KYNG    Youngstown                        OH    EST5EDT       3
+KYUM    Yuma                              AZ    MST7          2
+KZZV    Zanesville                        OH    EST5EDT       2
+PAFA    Fairbanks                         AK    AKST9AKDT     1
+PAJN    Juneau                            AK    AKST9AKDT     1
+PANC    Anchorage                         AK    AKST9AKDT     1
+PHNL    Honolulu                          HI    HST10         1
+TIST    St. Thomas                        VI    AST4          1
+TJSJ    San Juan                          PR    AST4          1

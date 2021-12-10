@@ -1,0 +1,43 @@
+SHELL =  /bin/sh
+
+OBJS =  SCS_Obs_definitions.o cmpstra.o copenbf.o cshrly.o cstli.o fdate.o ibfms.o cpg.o
+ 
+FC =  ifort 
+FFLAGS =   
+
+CC =  icc 
+CFLAGS =  -DUNDERSCORE -DVERBOSE -D$(TARGET_UC) -I$(GEMINC) -I$(OS_INC)/libxml2
+
+LDFLAGS =  -nofor-main  
+
+#LIBS =  -L/nwprod/lib $(GEMLIB) $(CGEMLIB) -L$(OS_LIB) -lxml2 -lz -lpthread
+export OS_LIB=/nwprod/gempak/nawips_intel/os/linux2.6.32_x86_64/lib
+LIBS =  -L/nwprod/lib -L$(OS_LIB) -lgemlib -lxml2 -liconv -lz -lpthread -lbufr_4_64 -lgemlib
+
+#  The default rule is to build both $(TARGET) executables.
+all:	ObX TeX
+
+ObX:
+	sh -c "export TARGET=obx; make build"
+	make clean
+
+TeX:
+	sh -c "export TARGET=tex; make build"
+	make clean
+
+#  Note that the below rule will force make to rebuild all $(OBJS) files.  This is necessary
+#  because the $(OBJS) files are specific to each $(TARGET) executable, based upon the
+#  corresponding value of $(TARGET_UC) which is used as a conditional compilation macro.
+build:	clean
+	sh -c ". /nwprod/gempak/.gempak; \
+	    export TARGET_UC=`echo $(TARGET) | tr '[a-z]' '[A-Z]'`; \
+	    make $(TARGET)"
+
+$(TARGET):  $(OBJS)
+	$(FC) $(LDFLAGS) -o cpg_$(@) $(OBJS) $(LIBS)
+
+clean:
+	rm -f *.o
+
+clobber:    clean
+	rm -f cpg_obx cpg_tex

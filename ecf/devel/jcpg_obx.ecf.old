@@ -1,0 +1,55 @@
+#BSUB -J %E%cpg_obx
+#BSUB -o %COM%/output/%ENVIR%/today/cpg_obx_%CYC%.o%J
+#BSUB -cwd /tmp
+#BSUB -W 00:30
+#BSUB -q %QUEUE%
+#BSUB -L /bin/sh
+#BSUB -R "rusage[mem=3000]"
+#BSUB -R "affinity[core]"
+#BSUB -P %PROJ%-%PROJENVIR%
+##BSUB -a poe
+
+%include <head.h>
+%include <envir-p3.h>
+
+# EXPORT list here
+set -x
+
+export TIME_FLAG=YES
+export envir=%ENVIR%
+#export cyc=`date -u +%%H`
+export cyc=%CYC%
+export job=cpg_obx_${cyc}
+export PRODUCT=obx
+
+export MP_EUIDEVICE=sn_all
+export MP_EUILIB=us
+export MP_TASK_AFFINITY=core
+export MP_USE_BULK_XFER=yes
+
+export model=cpg
+%include <model_ver.h>
+
+module load impi/${impi_ver:?}
+module load bufr_dumplist/${bufr_dumplist_ver:?}
+module load dumpjb/${dumpjb_ver:?}
+module load util_shared/${util_shared_ver}
+module list
+
+# CALL executable job script here
+${HOMEcpg}/jobs/JCPG
+
+%include <tail.h>
+%manual
+######################################################################
+# Purpose: Generate the Selected Cities and Traveler's Forecast Bulletins.
+#          This will produce a new product output vs. replacing the
+#          current Selected Cities and Traveler's bulletins.
+######################################################################
+######################################################################
+# Job specific troubleshooting instructions:
+#  see generic troubleshoot manual page
+#
+######################################################################
+# include manual page below
+%end

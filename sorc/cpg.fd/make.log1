@@ -1,0 +1,64 @@
+sh -c "export TARGET=obx; make build"
+make[1]: Entering directory `/lfs/h1/nco/idsb/noscrub/Simon.Hsiao/cpg.v1.0.3/sorc/cpg.fd'
+rm -f *.o
+sh -c " module load PrgEnv-intel/8.0.0 intel/19.1.3.304 zlib/1.2.11 libxml2/2.9.10 bufr/11.4.0; \
+		module use /apps/ops/para/nco/modulefiles ; module load gempak/7.14.0 ; \
+	    module list; \
+	    export TARGET_UC=`echo obx | tr '[a-z]' '[A-Z]'`; \
+	    make obx"
+
+Currently Loaded Modules:
+  1) craype/2.7.6         (H)   5) cray-dsmml/0.1.4       (H)   9) PrgEnv-intel/8.0.0  13) bufr/11.4.0
+  2) craype-x86-rome      (H)   6) perftools-base/21.02.0      10) intel/19.1.3.304    14) gempak/7.14.0
+  3) libfabric/1.11.0.3.8 (H)   7) cray-mpich/8.1.4       (H)  11) zlib/1.2.11
+  4) craype-network-ofi   (H)   8) cray-libsci/21.04.1.1  (H)  12) libxml2/2.9.10
+
+  Where:
+   H:  Hidden Module
+
+ 
+
+make[2]: Entering directory `/lfs/h1/nco/idsb/noscrub/Simon.Hsiao/cpg.v1.0.3/sorc/cpg.fd'
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o SCS_Obs_definitions.o SCS_Obs_definitions.c
+In file included from /usr/include/errno.h(25),
+                 from SCS_Obs_definitions.h(37),
+                 from SCS_Obs_definitions.c(43):
+/usr/include/features.h(183): warning #1224: #warning directive: "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE"
+  # warning "_BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE"
+    ^
+
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o cmpstra.o cmpstra.c
+ 
+  Compiling the waitfor fortran module....
+ftn  -assume no2underscores -c copenbf.f -o copenbf.o
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o cshrly.o cshrly.c
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o cstli.o cstli.c
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o fdate.o fdate.c
+ 
+  Compiling the waitfor fortran module....
+ftn  -assume no2underscores -c ibfms.f -o ibfms.o
+cc  -DUNDERSCORE -DVERBOSE -DOBX -I/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/gempak/include -I/apps/spack/libxml2/2.9.10/intel/19.1.3.304/aozzaxyotplhvhgfuepurhcbb2pxkwdl/include/libxml2   -c -o cpg.o cpg.c
+ftn  -nofor-main    -o cpg_obx SCS_Obs_definitions.o cmpstra.o copenbf.o cshrly.o cstli.o fdate.o ibfms.o cpg.o -L/apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib -lxml2  -lpthread /apps/ops/prod/libs/intel/19.1.3.304/bufr/11.4.0/lib/libbufr_4.a /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libgemlib.a /usr/lib64/libgfortran.so.4
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlFindCharEncodingHandler':
+encoding.c:(.text+0x1fdd): undefined reference to `libiconv_open'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x1fed): undefined reference to `libiconv_open'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x21ac): undefined reference to `libiconv_close'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x21b4): undefined reference to `libiconv_close'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x21d0): undefined reference to `libiconv_open'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x21e6): undefined reference to `libiconv_open'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlCharEncFirstLine':
+encoding.c:(.text+0x2c90): undefined reference to `libiconv'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlCharEncInFunc':
+encoding.c:(.text+0x2e76): undefined reference to `libiconv'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlCharEncOutFunc':
+encoding.c:(.text+0x3133): undefined reference to `libiconv'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlCharEncCloseFunc':
+encoding.c:(.text+0x349c): undefined reference to `libiconv_close'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: encoding.c:(.text+0x34bf): undefined reference to `libiconv_close'
+/usr/lib64/gcc/x86_64-suse-linux/7/../../../../x86_64-suse-linux/bin/ld: /apps/ops/para/nco/packages/gempak.v7.14.0/nawips/os/linux5.3.18_x86_64/lib/libxml2.a(encoding.o): in function `xmlByteConsumed':
+encoding.c:(.text+0x36eb): undefined reference to `libiconv'
+make[2]: *** [obx] Error 1
+make[2]: Leaving directory `/lfs/h1/nco/idsb/noscrub/Simon.Hsiao/cpg.v1.0.3/sorc/cpg.fd'
+make[1]: *** [build] Error 2
+make[1]: Leaving directory `/lfs/h1/nco/idsb/noscrub/Simon.Hsiao/cpg.v1.0.3/sorc/cpg.fd'
+make: *** [ObX] Error 2

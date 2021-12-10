@@ -1,0 +1,37 @@
+#PBS -N cpg_tex_%CYC%
+#PBS -A %PROJ%-%PROJENVIR%
+#PBS -q %QUEUE:preprod%
+#PBS -l walltime=00:30:00
+#PBS -S /bin/bash
+#PBS -j oe
+#PBS -l place=shared,select=1:ncpus=1:mem=3GB
+#PBS -l debug=true
+
+model=cpg
+%include <head.h>
+%include <envir-p1.h>
+
+# EXPORT list here
+set -x
+
+export cyc=%CYC%
+export PRODUCT=tex
+
+export MP_EUIDEVICE=sn_all
+export MP_EUILIB=us
+export MP_TASK_AFFINITY=core
+export MP_USE_BULK_XFER=yes
+
+module load intel/${intel_ver:?}
+module load bufr_dump/${bufr_dump_ver:?}
+module list
+
+# CALL executable job script here
+${HOMEcpg}/jobs/JCPG
+
+%include <tail.h>
+%manual
+######################################################################
+# Purpose: Generate the Selected Cities and Traveler's Forecast Bulletins.
+######################################################################
+%end

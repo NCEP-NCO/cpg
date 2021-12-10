@@ -1,0 +1,162 @@
+#  Notes:
+#  1.  The entries below must be sorted in ascending order with respect to
+#      the METAR station ID (i.e. the 1st field).
+#  2.  The fields within each entry must be separated by the correct number
+#      of space characters (i.e. no tab characters!).
+#  3.  USAGE values (i.e. the 5th field) are:
+#       1 - Use this entry only within the Selected Cities (ObX) product.
+#       2 - Use this entry only within the Temperature Extremes (TeX) product.
+#       3 - Use this entry within both products.
+#
+# ID    STATION NAME                    STATE   TIMEZONE    USAGE
+# --    ------------                    -----   --------    -----
+K4BL    Blanding                          UT    MST7MDT       3
+KABI    Abilene                           TX    CST6CDT       3
+KABQ    Albuquerque                       NM    MST7MDT       3
+KACK    Nantucket                         MA    EST5EDT       3
+KACT    Waco                              TX    CST6CDT       3
+KACV    Eureka                            CA    PST8PDT       3
+KAGS    Augusta (Bush)                    GA    EST5EDT       3
+KALB    Albany                            NY    EST5EDT       3
+KAMA    Amarillo                          TX    CST6CDT       3
+KANJ    Sault Ste. Marie                  MI    EST5EDT       3
+KAST    Astoria                           OR    PST8PDT       3
+KATL    Atlanta                           GA    EST5EDT       3
+KAUW    Wausau                            WI    CST6CDT       3
+KAVP    Wilkes-Barre                      PA    EST5EDT       3
+KBDL    Hartford/Springfield              CT    EST5EDT       3
+KBFL    Bakersfield                       CA    PST8PDT       3
+KBHM    Birmingham                        AL    CST6CDT       3
+KBIL    Billings                          MT    MST7MDT       3
+KBIS    Bismarck                          ND    CST6CDT       3
+KBNA    Nashville                         TN    CST6CDT       3
+KBNO    Burns                             OR    PST8PDT       3
+KBOI    Boise                             ID    MST7MDT       3
+KBOS    Boston                            MA    EST5EDT       3
+KBRO    Brownsville                       TX    CST6CDT       3
+KBTV    Burlington                        VT    EST5EDT       3
+KBUF    Buffalo                           NY    EST5EDT       3
+KCDC    Cedar City                        UT    MST7MDT       3
+KCGI    Cape Girardeau                    MO    CST6CDT       3
+KCHA    Chattanooga                       TN    EST5EDT       3
+KCHS    Charleston                        SC    EST5EDT       3
+KCLE    Cleveland                         OH    EST5EDT       3
+KCLT    Charlotte                         NC    EST5EDT       3
+KCMH    Columbus                          OH    EST5EDT       3
+KCNK    Concordia                         KS    CST6CDT       3
+KCPR    Casper                            WY    MST7MDT       3
+KCRP    Corpus Christi                    TX    CST6CDT       3
+KCTB    Cut Bank                          MT    MST7MDT       3
+KCVG    Cincinnati                        OH    EST5EDT       3
+KCYS    Cheyenne                          WY    MST7MDT       3
+KDCA    Washington DC                     DC    EST5EDT       3
+KDDC    Dodge City                        KS    CST6CDT       3
+KDEN    Denver                            CO    MST7MDT       3
+KDLH    Duluth                            MN    CST6CDT       3
+KDSM    Des Moines                        IA    CST6CDT       3
+KDTW    Detroit                           MI    EST5EDT       3
+KEED    Needles                           CA    PST8PDT       3
+KEKN    Elkins                            WV    EST5EDT       3
+KELP    El Paso                           TX    MST7MDT       3
+KELY    Ely                               NV    PST8PDT       3
+KESC    Escanaba                          MI    EST5EDT       3
+KEVV    Evansville                        IN    CST6CDT       3
+KEYW    Key West                          FL    EST5EDT       3
+KFAR    Fargo                             ND    CST6CDT       3
+KFAT    Fresno                            CA    PST8PDT       3
+KFMY    Fort Myers                        FL    EST5EDT       3
+KFSM    Fort Smith                        AR    CST6CDT       3
+KFTW    Fort Worth (Meacham)              TX    CST6CDT       3
+KFWA    Fort Wayne                        IN    EST5EDT       3
+KGEG    Spokane                           WA    PST8PDT       3
+KGJT    Grand Junction                    CO    MST7MDT       3
+KGLD    Goodland                          KS    MST7MDT       3
+KGRR    Grand Rapids                      MI    EST5EDT       3
+KHLN    Helena                            MT    MST7MDT       3
+KHON    Huron                             SD    CST6CDT       3
+KHSE    Hatteras                          NC    CST6CDT       3
+KHTS    Huntington                        WV    EST5EDT       3
+KHUL    Houlton                           ME    EST5EDT       3
+KIAH    Houston                           TX    CST6CDT       3
+KICT    Wichita                           KS    CST6CDT       3
+KILM    Wilmington                        NC    EST5EDT       3
+KIND    Indianapolis                      IN    EST5EDT       3
+KINL    International Falls               MN    CST6CDT       3
+KINW    Winslow                           AZ    MST7          3
+KIRK    Kirksville                        MO    CST6CDT       3
+KJAN    Jackson                           MS    CST6CDT       3
+KJAX    Jacksonville                      FL    EST5EDT       3
+KJCT    Junction                          TX    CST6CDT       3
+KLAS    Las Vegas                         NV    PST8PDT       3
+KLAX    Los Angeles                       CA    PST8PDT       3
+KLBF    North Platte                      NE    CST6CDT       3
+KLCH    Lake Charles                      LA    CST6CDT       3
+KLGA    New York City (La Guardia)        NY    EST5EDT       3
+KLIT    Little Rock                       AR    CST6CDT       3
+KLKV    Lakeview                          OR    PST8PDT       3
+KLRD    Laredo                            TX    CST6CDT       3
+KLSE    La Crosse                         WI    CST6CDT       3
+KLWT    Lewistown                         MT    MST7MDT       3
+KMAF    Midland/Odessa                    TX    CST6CDT       3
+KMCI    Kansas City                       MO    CST6CDT       3
+KMCO    Orlando                           FL    EST5EDT       3
+KMEM    Memphis                           TN    CST6CDT       3
+KMFR    Medford                           OR    PST8PDT       3
+KMGM    Montgomery                        AL    CST6CDT       3
+KMIA    Miami                             FL    EST5EDT       3
+KMKE    Milwaukee                         WI    CST6CDT       3
+KMLI    Moline                            IL    CST6CDT       3
+KMLS    Miles City                        MT    MST7MDT       3
+KMOB    Mobile                            AL    CST6CDT       3
+KMOT    Minot                             ND    CST6CDT       3
+KMSP    Minneapolis/St. Paul              MN    CST6CDT       3
+KMSY    New Orleans                       LA    CST6CDT       3
+KNYL    Yuma                              AZ    MST7          3
+KOKC    Oklahoma City                     OK    CST6CDT       3
+KOMA    Omaha                             NE    CST6CDT       3
+KOMK    Omak                              WA    PST8PDT       3
+KORD    Chicago                           IL    CST6CDT       3
+KORF    Norfolk                           VA    EST5EDT       3
+KPDT    Pendleton                         OR    PST8PDT       3
+KPDX    Portland                          OR    PST8PDT       3
+KPHL    Philadelphia                      PA    EST5EDT       3
+KPHX    Phoenix                           AZ    MST7          3
+KPIH    Pocatello                         ID    MST7MDT       3
+KPIR    Pierre                            SD    CST6CDT       3
+KPIT    Pittsburgh                        PA    EST5EDT       3
+KPUB    Pueblo                            CO    MST7MDT       3
+KPWM    Portland                          ME    EST5EDT       3
+KRAP    Rapid City                        SD    MST7MDT       3
+KRBL    Red Bluff                         CA    PST8PDT       3
+KRDU    Raleigh/Durham                    NC    EST5EDT       3
+KRIC    Richmond                          VA    EST5EDT       3
+KRKS    Rock Springs                      WY    MST7MDT       3
+KRNO    Reno                              NV    PST8PDT       3
+KROA    Roanoke                           VA    EST5EDT       3
+KROW    Roswell                           NM    MST7MDT       3
+KSAN    San Diego                         CA    PST8PDT       3
+KSAT    San Antonio                       TX    CST6CDT       3
+KSAV    Savannah                          GA    EST5EDT       3
+KSBY    Salisbury                         MD    EST5EDT       3
+KSDF    Louisville                        KY    EST5EDT       3
+KSEA    Seattle/Tacoma                    WA    PST8PDT       3
+KSFO    San Francisco                     CA    PST8PDT       3
+KSGF    Springfield                       MO    CST6CDT       3
+KSHV    Shreveport                        LA    CST6CDT       3
+KSLC    Salt Lake City                    UT    MST7MDT       3
+KSMN    Salmon                            ID    MST7MDT       3
+KSMX    Santa Maria                       CA    PST8PDT       3
+KSPI    Springfield                       IL    CST6CDT       3
+KSTL    St. Louis                         MO    CST6CDT       3
+KSUX    Sioux City                        IA    CST6CDT       3
+KSYR    Syracuse                          NY    EST5EDT       3
+KTAD    Trinidad                          CO    MST7MDT       3
+KTLH    Tallahassee                       FL    EST5EDT       3
+KTPA    Tampa                             FL    EST5EDT       3
+KTPH    Tonopah                           NV    PST8PDT       3
+KTUS    Tucson                            AZ    MST7          3
+KTVC    Traverse City                     MI    EST5EDT       3
+KTYS    Knoxville                         TN    EST5EDT       3
+KUIL    Quillayute                        WA    PST8PDT       3
+KVTN    Valentine                         NE    CST6CDT       3
+KWMC    Winnemucca                        NV    PST8PDT       3

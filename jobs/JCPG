@@ -1,0 +1,114 @@
+#!/bin/sh
+
+set -xa
+export PS4='$SECONDS + '
+date
+
+####################################
+# obtain unique process id and make temp directory
+####################################
+export DATA=${DATAROOT:?}/${job}.$PBS_JOBID
+export TMPDIR=$DATA
+mkdir $DATA
+cd $DATA
+
+export cycle=t${cyc}z
+
+####################################
+# Specify NET and RUN Name and model
+####################################
+export NET=cpg
+export RUN=cpg
+
+##################################
+# Specify MODE to be operational #
+##################################
+
+export MODE=operational
+
+####################################
+# File To Log Msgs
+####################################
+export jlogfile=${jlogfile:-$DATA/jlogfile.$jobid}
+
+####################################
+# Determine Job Output Name on System
+####################################
+export outid="LL$job"
+export jobid="${outid}.o${PBS_JOBID}"
+export pgmout="OUTPUT.${PBS_JOBID}"
+export pgmerr=errfile
+
+####################################
+# SENDDBN  - Send files to DBNet
+# GET_IOPROFILE - Run I/O statistics
+####################################
+export SENDDBN=${SENDDBN:-YES}
+
+####################################
+# Specify Execution Areas
+####################################
+export EXECcpg=$HOMEcpg/exec
+export FIXcpg=$HOMEcpg/fix
+export USHcpg=$HOMEcpg/ush
+
+##############################
+# Set up the UTILITIES
+##############################
+#export utilscript=/nwprod/util/ush
+
+##############################
+# Run setup to initialize working directory and utility scripts
+##############################
+#$utilscript/setup.sh
+
+##############################
+# Run setpdy and initialize PDY variables
+##############################
+setpdy.sh
+. ./PDY
+
+##############################################
+# Define com and COMOUTwmo directories
+##############################################
+export COMOUT=${COMOUT:-$(compath.py -o $NET/$cpg_ver/$RUN.$PDY)}
+if test ! -d $COMOUT
+then
+   mkdir -p $COMOUT
+fi
+
+export COMOUTwmo=${COMOUTwmo:-$COMOUT/wmo}
+if test ! -d $COMOUTwmo
+then
+   mkdir -p $COMOUTwmo
+fi
+
+export RUNDT=${RUNDT:-$PDY$cyc}
+
+msg="HAS BEGUN on `hostname`"
+postmsg "$jlogfile" "$msg"
+
+env
+
+#############################################################
+# Execute the script
+#############################################################
+${HOMEcpg}/scripts/excpg.sh
+
+msg="ENDED NORMALLY."
+postmsg "$jlogfile" "$msg"
+
+cat $pgmout
+
+##############################
+# Remove the Temporary working directory
+##############################
+cd $DATA
+if [ $KEEPDATA = YES ]; then 
+  echo "save  $DATA "
+else
+  rm -rf $DATA
+fi
+
+date
+
